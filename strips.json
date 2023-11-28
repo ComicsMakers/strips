@@ -1,13 +1,10 @@
 {
-  "comics": {
-    "name": "strips"
-  },
-  "data": {
-    "hits": {
-      "imageURL": "image1",
-      "number": "number",
-      "creator": "name",
-      "avatar": "image2"
-    }
-  }
+   "comics": {
+      "hits": [
+         "imageURL",
+         "number",
+         "creator",
+         "avatar"
+      ]
+   }
 }
