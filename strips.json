@@ -1,10 +1,10 @@
 {
-   "comics": {
-      "hits": {
+   "hits": [
+      {
          "imageURL": "image1",
-         "number": "number",
-         "creator": "name",
+         "number": "24/15",
+         "creator": "Adam Ellis",
          "avatar": "image2"
       }
-   }
+   ]
 }
