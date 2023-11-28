@@ -1,10 +1,10 @@
 {
    "comics": {
-      "hits": [
-         "imageURL",
-         "number",
-         "creator",
-         "avatar"
-      ]
+      "hits": {
+         "imageURL": "image1",
+         "number": "number",
+         "creator": "name",
+         "avatar": "image2"
+      }
    }
 }
