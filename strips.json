@@ -1,1012 +1,1016 @@
 {
     "hits": [
         {
-            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AdamEllis/Adam%2001.jpg",
-            "number": "24/15",
+            "imageURL":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AdamEllis/Adam%2001.jpg",
+            "number":"24/15",
+            "creator":"Adam Ellis",
+            "avatar":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AdamEllis/Adam%20001.jpg"
+        },
+        {
+            "imageURL":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AlinaTysoe/beanie%2001.jpeg",
+            "number":"23/15",
+            "creator":"Alina Tysoe",
+            "avatar":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AlinaTysoe/beanie%20001.jpg"
+        },
+        {
+            "imageURL":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/JorgenVanSanten/JVS01.jpg",
+            "number":"22/15",
+            "creator":"Jorgen Van Santen",
+            "avatar":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/JorgenVanSanten/JVS001.jpg"
+        },
+        {
+            "imageURL":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/J.L.Westover/ML01.png",
+            "number":"21/15",
+            "creator":"J.L.Westover",
+            "avatar":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/J.L.Westover/ML001.jpg"
+        },
+        {
+            "imageURL":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/ThaakirahJacobs/TJ01.jpg",
+            "number":"20/15",
+            "creator":"Thaakirah Jacobs",
+            "avatar":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/ThaakirahJacobs/TJ001.jpg"
+        },
+        {
+            "imageURL":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/MikeSalcedo/MS01.jpg",
+            "number":"19/15",
+            "creator":"Mike Salcedo",
+            "avatar":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/MikeSalcedo/MS00.jpg"
+        },
+        {
+            "imageURL":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AstkhikRakimova/AR01.jpg",
+            "number":"18/15",
+            "creator":"Astkhik Rakimova",
+            "avatar":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AstkhikRakimova/AR001.jpg"
+        },
+        {
+            "imageURL":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/BrownPaperbag/BP01.jpg",
+            "number":"17/15",
+            "creator":"Brown Paperbag",
+            "avatar":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/BrownPaperbag/BP001.jpg"
+        },
+        {
+            "imageURL":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/SarahAndersen/SA01.jpg",
+            "number":"16/15",
+            "creator":"Sarah Andersen",
+            "avatar":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/SarahAndersen/SA001.jpg"
+        },
+        {
+            "imageURL":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AnnetPlanet/AP01.jpg",
+            "number":"15/15",
+            "creator":"Annet Planet",
+            "avatar":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AnnetPlanet/AP001.jpg"
+        },
+        {
+            "imageURL":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AndrewHou/AH01.png",
+            "number":"14/15",
+            "creator":"Andrew Hou",
+            "avatar":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AndrewHou/AH001.jpg"
+        },
+        {
+            "imageURL":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/CornelStefanache/CS01.jpg",
+            "number":"13/15",
+            "creator":"Cornel Stefanache",
+            "avatar":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/CornelStefanache/CS001.png"
+        },
+        {
+            "imageURL":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/MikaelWulff/MW01.png",
+            "number":"12/15",
+            "creator":"Mikael Wulff",
+            "avatar":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/MikaelWulff/MW001.jpg"
+        },
+        {
+            "imageURL":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/Crocodile/JK01.jpg",
+            "number":"11/15",
+            "creator":"Журнал - Крокодил",
+            "avatar":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/Crocodile/JK001.png"
+        },
+        {
+            "imageURL":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/ValBun/VB01.jpg",
+            "number":"10/15",
+            "creator":"ValBun",
+            "avatar":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/ValBun/VB001.jpg"
+        },
+        {
+            "imageURL":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/BrandonJ.Santiago/BJS01.jpg",
+            "number":"9/15",
+            "creator":"Brandon J. Santiago",
+            "avatar":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/BrandonJ.Santiago/BJS001.jpg"
+        },
+        {
+            "imageURL":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/JoshWright/JW01.jpg",
+            "number":"8/15",
+            "creator":"Josh Wright",
+            "avatar":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/JoshWright/JW00.jpg"
+        },
+        {
+            "imageURL":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/RobertAdler/RA01.png",
+            "number":"7/15",
+            "creator":"Robert Adler",
+            "avatar":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/RobertAdler/RA00.jpg"
+        },
+        {
+            "imageURL":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/ZToon/ZT01.jpeg",
+            "number":"6/15",
+            "creator":"Z-Doodler",
+            "avatar":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/ZToon/ZT001.png"
+        },
+        {
+            "imageURL":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/YehudaDevir/YD01.jpg",
+            "number":"5/15",
+            "creator":"Yehuda Devir",
+            "avatar":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/YehudaDevir/YD001.jpg"
+        },
+        {
+            "imageURL":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AriStocrate/AS01.jpg",
+            "number":"4/15",
+            "creator":"Ari_Stocrate",
+            "avatar":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AriStocrate/AS001.jpg"
+        },
+        {
+            "imageURL":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/LiseMyhre/LM01.jpg",
+            "number":"3/15",
+            "creator":"Lise Myhre",
+            "avatar":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/LiseMyhre/LM001.jpg"
+        },
+        {
+            "imageURL":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/OlegKuvaev/OK01.png",
+            "number":"2/15",
+            "creator":"Олег Куваев",
+            "avatar":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/OlegKuvaev/OK001.png"
+        },
+        {
+            "imageURL":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/MattTarpley/MT01.png",
+            "number":"1/15",
+            "creator":"Matt Tarpley",
+            "avatar":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/MattTarpley/MT001.jpg"
+        },
+        {
+            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AdamEllis/Adam%2002.png",
+            "number": "24/14",
             "creator": "Adam Ellis",
             "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AdamEllis/Adam%20001.jpg"
         },
         {
-            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AlinaTysoe/beanie%2001.jpeg",
-            "number": "23/15",
+            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AlinaTysoe/beanie%2002.jpeg",
+            "number": "23/14",
             "creator": "Alina Tysoe",
             "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AlinaTysoe/beanie%20001.jpg"
         },
         {
-            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/JorgenVanSanten/JVS01.jpg",
-            "number": "22/15",
+            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/JorgenVanSanten/JVS02.jpg",
+            "number": "22/14",
             "creator": "Jorgen Van Santen",
             "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/JorgenVanSanten/JVS001.jpg"
         },
         {
-            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/J.L.Westover/ML01.png",
-            "number": "21/15",
+            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/J.L.Westover/ML02.png",
+            "number": "21/14",
             "creator": "J.L.Westover",
             "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/J.L.Westover/ML001.jpg"
         },
         {
-            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/ThaakirahJacobs/TJ01.jpg",
-            "number": "20/15",
+            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/ThaakirahJacobs/TJ02.jpg",
+            "number": "20/14",
             "creator": "Thaakirah Jacobs",
             "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/ThaakirahJacobs/TJ001.jpg"
         },
         {
-            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/MikeSalcedo/MS01.jpg",
-            "number": "19/15",
+            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/MikeSalcedo/MS02.jpg",
+            "number": "19/14",
             "creator": "Mike Salcedo",
             "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/MikeSalcedo/MS00.jpg"
         },
         {
-            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AstkhikRakimova/AR01.jpg",
-            "number": "18/15",
+            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AstkhikRakimova/AR02.jpg",
+            "number": "18/14",
             "creator": "Astkhik Rakimova",
             "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AstkhikRakimova/AR001.jpg"
         },
         {
-            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/BrownPaperbag/BP01.jpg",
-            "number": "17/15",
+            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/BrownPaperbag/BP02.jpg",
+            "number": "17/14",
             "creator": "Brown Paperbag",
             "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/BrownPaperbag/BP001.jpg"
         },
         {
-            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/SarahAndersen/SA01.jpg",
-            "number": "16/15",
+            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/SarahAndersen/SA02.jpg",
+            "number": "16/14",
             "creator": "Sarah Andersen",
             "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/SarahAndersen/SA001.jpg"
         },
         {
-            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AnnetPlanet/AP01.jpg",
-            "number": "15/15",
+            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AnnetPlanet/AP02.jpg",
+            "number": "15/14",
             "creator": "Annet Planet",
             "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AnnetPlanet/AP001.jpg"
         },
         {
-            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AndrewHou/AH01.png",
-            "number": "14/15",
+            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AndrewHou/AH02.png",
+            "number": "14/14",
             "creator": "Andrew Hou",
             "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AndrewHou/AH001.jpg"
         },
         {
-            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/CornelStefanache/CS01.jpg",
-            "number": "13/15",
+            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/CornelStefanache/CS02.png",
+            "number": "13/14",
             "creator": "Cornel Stefanache",
             "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/CornelStefanache/CS001.png"
         },
         {
-            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/MikaelWulff/MW01.png",
-            "number": "12/15",
+            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/MikaelWulff/MW02.jpeg",
+            "number": "12/14",
             "creator": "Mikael Wulff",
             "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/MikaelWulff/MW001.jpg"
         },
         {
-            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/Crocodile/JK01.jpg",
-            "number": "11/15",
+            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/Crocodile/JK02.jpg",
+            "number": "11/14",
             "creator": "Журнал - Крокодил",
             "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/Crocodile/JK001.png"
         },
         {
-            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/ValBun/VB01.jpg",
-            "number": "10/15",
+            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/ValBun/VB02.jpg",
+            "number": "10/14",
             "creator": "ValBun",
             "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/ValBun/VB001.jpg"
         },
         {
-            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/BrandonJ.Santiago/BJS01.jpg",
-            "number": "9/15",
+            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/BrandonJ.Santiago/BJS02.jpg",
+            "number": "9/14",
             "creator": "Brandon J. Santiago",
             "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/BrandonJ.Santiago/BJS001.jpg"
         },
         {
-            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/JoshWright/JW01.jpg",
-            "number": "8/15",
+            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/JoshWright/JW02.jpg",
+            "number": "8/14",
             "creator": "Josh Wright",
             "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/JoshWright/JW00.jpg"
         },
         {
-            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/RobertAdler/RA01.png",
-            "number": "7/15",
+            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/RobertAdler/RA02.png",
+            "number": "7/14",
             "creator": "Robert Adler",
             "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/RobertAdler/RA00.jpg"
         },
         {
-            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/ZToon/ZT01.jpeg",
-            "number": "6/15",
+            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/ZToon/ZT02.jpeg",
+            "number": "6/14",
             "creator": "Z-Doodler",
             "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/ZToon/ZT001.png"
         },
         {
-            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/YehudaDevir/YD01.jpg",
-            "number": "5/15",
+            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/YehudaDevir/YD02.jpeg",
+            "number": "5/14",
             "creator": "Yehuda Devir",
             "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/YehudaDevir/YD001.jpg"
         },
         {
-            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AriStocrate/AS01.jpg",
-            "number": "4/15",
+            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AriStocrate/AS02.jpg",
+            "number": "4/14",
             "creator": "Ari_Stocrate",
             "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AriStocrate/AS001.jpg"
         },
         {
-            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/LiseMyhre/LM01.jpg",
-            "number": "3/15",
+            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/LiseMyhre/LM02.jpg",
+            "number": "3/14",
             "creator": "Lise Myhre",
             "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/LiseMyhre/LM001.jpg"
         },
         {
-            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/OlegKuvaev/OK01.png",
-            "number": "2/15",
+            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/OlegKuvaev/OK02.png",
+            "number": "2/14",
             "creator": "Олег Куваев",
             "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/OlegKuvaev/OK001.png"
         },
         {
-            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/MattTarpley/MT01.png",
-            "number": "1/15",
+            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/MattTarpley/MT02.png",
+            "number": "1/14",
             "creator": "Matt Tarpley",
             "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/MattTarpley/MT001.jpg"
         },
-        {
-            "imageURL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj91a-ZIarLfqi34Uz0OiUX4idjVE8WI2122s_exvZen9wdqtiANWYaTrDr00MvOnfFBeRx3bzxX-TQAyVLhECGoVBGCDTH_XET0AhH-x7UvJeXZveFTw3fHgKzZ0w2NF5yEqTmXdx17OK4lDo6iAwFNbbmpNHT4WfnRamxx8m53x6VTtugzerraPNwLgkT/s1280/Adam%2002.png",
-            "number": "24/14",
-            "creator": "Adam Ellis",
-            "avatar": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_H5fpsJENTb_rh0fDflo3GMVSXXabElVOxGmYkJ-rySfcKhIdqvPVvew-GBp68zrLJUMQDyt702d4SkqJsxIZ-uOUSmHQYXD9XTl8eHjHYEK5ofn1hhWKHPuw6SoEenjmUN8jPKFiuSgoqyeOunWoIAiyjcf2u6FSga9Bg60_hLcaWycsPdk-J1p9A_JI/s320/Adam%2000.jpg"
-        },
-        {
-            "imageURL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgI66mbSbi8k4Vq92l9fVTAFIbW_aYEppq-d3WF2A7zf5_JNFRlUYAjTpyucn9lEMRbot42RI2vccuxF5TUpnncIX0aDMYsl85QHG7rAgGne9ucvHblxEmdHjKEAUwmCd8TfXtxkg5-OxIdUH6ZiyLgWw5RjemdsMQzAT2IhLy1xS7S6K_joqp3y1-e2601/s811/beanie%2002.jpeg",
-            "number": "23/14",
-            "creator": "Alina Tysoe",
-            "avatar": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiG1m-AbUieyq0fsLI8nPzk3u55-yijkF9kHjCDrBT-NpLHJLjJyuy8cO2sAdOLRs8tGaD0XKDyHbA9Xa2M-05aL_yZBtWeT8-Lb4LUcOTjuLd6N-rvAvOzYn6d24woNcBlM-9ELjJreoNscPhP1_Q00bpKj5VEH9_iAUz30oG2kU6iqmx54EYqTEw5RZF6/s320/beanie%2000.jpg"
-        },
-        {
-            "imageURL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjby1OG__S81t1ZM4ZNE24hWw11WYZ46IFm-R-rjBDaZ0Fr-itWEPW5Xss1Q1r5Dwbh5nQ5-lv-P0Gi71PNhlgON_hZyhSuVyWxGxEGHgGLdEv5ihhDZ0jbx9LTf57EDL6DxVoC1SzCagnQXW0wreWyxUyPnYN44fIFSfxGj8YPRr2L6kVBC8BkuhtTJQ/s807/JVS02.jpg",
-            "number": "22/14",
-            "creator": "Jorgen Van Santen",
-            "avatar": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgr9fsmHiA26mXKq6IQ0leFaThEXjUt3wEczgrfWM2dQRPqmw612LXQaRotTX4NX6aZItfRNyRc-UDfwDnvsjBL2rSFzqxDzE348i-7rLDv3sqelW5JBfgP0fzawbO0umfDydYudCgcS0lUeF38fQYQ5Nla3JQ4TjW5wnqE1auScPoYdCK8hXh6hNhCpg/s320/JVS16.jpg"
-        },
-        {
-            "imageURL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgj2yYV4kMRPF-O8Op-CgadkVngVUZU3PUCepvZERKbIjcntNDbfkNFr_V2NJoQDTdDmkvscMexKWuB5qmcZdVAcc_lgYcuERfmrUp1lv33Ub1J1mQygPJ0ksOvXE76cLYIs9XidXcWDL6ezPQTQpOamnmfWUd2XS1h-s9oNvc4MXc1h5K3qxvEQQzbmQ/s940/ML02.png",
-            "number": "21/14",
-            "creator": "J.L.Westover",
-            "avatar": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbSM32MiYUTVopRNS2GpYJtm3LV1JXRs-mbvWkFGu3-7v4lg4rIjfmnyzQucH2xQJGMPFAymy0ewjoHiSiWJJWzTl9-zjjaufnFyHVjSC3j--AotGVzZMktPzevdlK7k22B7G8kqYP0uAen-R_ISER-7OsIc5DhUdHJu8oQjj0eih-SlusAduHmWoGpQ/s320/ML16.jpg"
-        },
-        {
-            "imageURL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhripdtFknYzjMm3SvDzHCG91HgqmPkyDFe4c9NjvoEWfQlDCCrnGkrqtuehoZoXC3xVR8PMSfRApvXzCkiSeO5aEsL7fCXzlHNioniF5IlUR6J2izGf-B5cFWSL4O6xK0J_Step7UrDH1G5llk4vrbCbubpw5OXMHsa_R4FOFaqvffmhyZWVKSW8s_SQ/s863/02.jpg",
-            "number": "20/14",
-            "creator": "Thaakirah Jacobs",
-            "avatar": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgK_2kdryTzvZwhugog2RbI82lxdZHgjxt24zt-hJFLeNzwSWh79TPKvR3uY9J0M3rICQj2vMMOEWJRZ3psIl85MiI7PvVxjfNTl_ofMhLRDID4dbpm9J4lAFqq9HAAw5h1DCEKkzVlKxfsiwYGR4tEMjt2r-gkpPYyatSKoY5hrYdvECnygZifeIvemg/s320/author.jpg"
-        },
-        {
-            "imageURL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhmi6i54TQyEe5u5QaO-fP1vGlKphQ0z4h2ryx-YZoZLqVpbq-vNOilOSKyFQdzbJPty3ccYiY7sETOfo2_bzRIXIMxtxg0-ulaLrWebluku4WhNPlMGHhWiGLmR7PO0gGm2k3IitGdNr8-3UiVPk4CNqtJb9r8WZnZnv3MFwJ9YkScXq9lh1xuIP0Yvg/s1384/02.jpg",
-            "number": "19/14",
-            "creator": "Mike Salcedo",
-            "avatar": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivnzegrUGqzkJHbKzf88RZmEuZvCmaCon9XRBr_a4bF0_eEYy-ZS4zYVsl4T0LtYGgIJhDbfa1hXqhJPcWvum8bJijy1lb7gLLRI84OTQ0R-8ntQADHLglr-6VdyWg6w-COpP0bFdlNX5kLCu-r2Fszch5uv-adLBFmQHpyGMCLItbM-FJ1U1FcDAiiw/s1600/avatar.jpg"
-        },
-        {
-            "imageURL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgF9ThYP_4tkpCpZ1YBYwwLw3v7kGRbym3Z0cNPXdoj8OrRJkc2N0mw9TJtivUzU5s8PBHV7S2VsIt4POolO9Hdc_QvU9eOtd0k7lM9-3SxS2Bhdkelb3GiJ0caJg_aqHlu6orZt1lxLdLZap7PvJxwtGmhrhDpOm3DqLNudXdNbQ-vAlEs-25RwijUMQ/s788/02.jpg",
-            "number": "18/14",
-            "creator": "Astkhik Rakimova",
-            "avatar": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjaaeuOIqVBlxAhpbF8083PsspyJkIGQhVFkhAAbDSAA_dCylPLNHTa_Z4bHa6EQG3rW8FP8v8dyHRRsHNFZAEtWD8LE6XpT0xj6_riAwYW2_RLgfXYtMCJKTjU_jj1neFR4bixaPWBV73eklkCYApJ-xEbaZAJ1dnwL5gBRmNsNupZimKrrRq2pySKLg/s320/AstkhikRakimova.jpg"
-        },
-        {
-            "imageURL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi65Cxo7KsoOBd7xeorjmn9uD4ht-Az6VnPl8xaKsqq9cdKplsdyEZVK2wJuH2MJi4Dwu_yQ0FY8h5SBTou0cq-hC8UXKcjDj0WFw05OTQ8opz1sO9pyix1ejNslnTz3_-zTIfF1zknIQgJLkzUTebg6jmiQicIKVJC_CEY9gMKnuHDbH7PO0LMswhO_g/s630/02.jpg",
-            "number": "17/14",
-            "creator": "Brown Paperbag",
-            "avatar": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDlNOJm4f2yyH01MKFA7XG_5Ib2-i-IibNkW3FK17WV0n1qYog7MU8wpFDBicPlGbeA8ZNDSnRlYGnzd62zB_hIxLU9pKzKpvjT_Fj9RcA90MH6zy2rABVYdMhS6xlBiah83h2QVjIxQK-JaNdQNnVaagvM_tnDrrsjnWBLun9e1jyk4D_KXykVIYaAw/s320/Sailesh.jpg"
-        },
-        {
-            "imageURL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpT-yAzGny--tthYW0INuC8AjPdD4KRQYJij4FgCZnkf1-ffcE861R0oeW0c1bM4G3vpUSCYbVvho1paPX3fTCQjARqBvI07-Y73xRlhyWr-boi7RlEci3RpOftVfAvqv1n2FxQ96DdIPNdOV1OjYEMwfxOGt-HLinbfoWCednG_UzHWudX82jBvGQBw/s502/sarah2.jpg",
-            "number": "16/14",
-            "creator": "Sarah Andersen",
-            "avatar": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXRnVM10hBqOe-L1nBZ61dmkVhjbZGH6XCo_ieTd0szTVVSYb1tnGtFi8F1Jqb9MASVfVjHIXxXej3r91MKoaJbNj7HgAfPzC1eYPrgulqb-dZv01y_Yl3ZBPw-RvEbFyAy3ETDYHq-vy0ZsCkb0gvetCmDve961MnzOjnqtzdCMfNOrW7hXPXQx8bXg/s320/author.jpg"
-        },
-        {
-            "imageURL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhV1jfWD6p0Jd5igprGJwzuQrlKW5SNJONd1AMbfLOjAGbiZIXJEH_GkOJLRt3p0GGdK-ecazS3PivCUAMM18936sBwX-hpkBj4NWG3u1XLVzClRPuxavLxkob5r4FRkJJb4l1Ll-q_rjojQUMe6XDjw2AXnWrd3me4FzDmXt1UoOCbwnSQw6T_yPPGew/s641/02.jpg",
-            "number": "15/14",
-            "creator": "Annet Planet",
-            "avatar": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtdXm5IbagvTAyTPQJTd1PWcN4H3OACAEcAerA6w7vaiRo2_fZFolFdvJhJ0hLdcRwasDaXozsmnKtEUIwO4QKWvE9Kvyrljt2RVCAUspBcxZVxvymoz3NnPshlADqxIRZsHteO_cHfOKr2uKdUlCkhWd1_zQyLVPPqH8YjzB4Cw9EvOnN6utn3RLPYA/s320/Annet.jpg"
-        },
-        {
-            "imageURL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiyNCWpTd5Ss1I-62ESRPx8sXLB5E4FnU3b5msm0dnAr9sganMEjBfAw1gHNfPfctm4mINWqKUtpY1N1SvSmq9zhSXr6KTNpzZRdwW1nMWsPgo-CaR7JfQuA8pjzEEEAdUtKdGv85Eq4D8TzjW2yeiy9p3Fu1mNbEZ7FQ7YJ4aduBiWoTZN-HE1rhcZgg/s700/imgpreview%20(2).png",
-            "number": "14/14",
-            "creator": "Andrew Hou",
-            "avatar": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLwhsU-JJ6xmNysDyfPn_5nAsSWzE-mEXZ1qk6kATJAEh-goPMvq_b9bHT6e0VTgB97k7rWfgZh5JpX5vR9VauP_fezpTp2JORCKjslENHrEJztjnOKXKtKhwc_p3daLrwpfy7dSSaTetgsT6lPNuipk_gOAfCC2GxS5C7Wk7nUu5TqORJElCURdlpRQ/s320/AndrewHou.jpg"
-        },
-        {
-            "imageURL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgGR5uZcRP39vMDWDynel9oFBX8L_3FGApR08s4QaVW7LG8zcziP62UW_IeHgAjBVMGhBxGsK-E9aRKoIKEZyfmIpx4B7Mi-MKEmBZ29dR-rSYdwoFHrMczven0wF8XuR7tPB863oBmsp2nK9HqPkkAp3dxVcvwn0944-wPq3PeaY1YeJhdnNbpXYHWDw/s1840/it-%D1%8E%D0%BC%D0%BE%D1%80-geek-monkeyuser-6057880.jpeg",
-            "number": "13/14",
-            "creator": "Cornel Stefanache",
-            "avatar": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSHppDI7zFpVDF7QERj1soZ2fgDK0sgToWPNI841wr-RKhFSd0Yrqr67rX3oZ8OgLsKiCYyzud4ybHHEAnhPdiEhQ93cclK6dibBRsjWDx8f2UsuBR8e5on5lvolPHVWF02QA7YhanDBPoq-7ilNj0Y62-0-OTZ40yxu_UAm9efSeZBsHuqmeDTDBqqg/s320/StefanacheCornel.png"
-        },
-        {
-            "imageURL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0CYVIsKLMGJE8VmMVE0WdVmjKUx-6EH4s_vGfTHZX3sLCGzwEcPZ1WZNLn7Skdkf4fO65RpeP6wAasAiqmqV08wx6ZsiyyxKso4Sdpt1fCOyWR0ZpuDlcogvQuqVQ2b9lfPFHjjwSy0KYS7CGe8nmzCQ0elLmiy_MdRrCL7iwApXMCwXIxWESidGwCA/s760/wumo2.jpeg",
-            "number": "12/14",
-            "creator": "Mikael Wulff",
-            "avatar": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEicjznyL04TJXvW7GrYmbD5o1blE1BiX7lX3WW9KT0wEWrnBSqwaz017fgAGmiWz2P9AY2ScPL9CIvTnlXGliib3e2lcT6fAGFdidgsCU-tjscedzBND1Oz5ddiB8xxyuZ85nJrGARHG84VhxYXp6PAuqt1iry9H15NJ1ryKWXDxtll3DfL4n4-6iet1g/s320/author.jpg"
-        },
-        {
-            "imageURL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiehnl9M3Ihv16htw5WRNekaLVQpr25E4WcjesfRC0Pwxx0iPTW_V8aJZZD8AHAgmFNoNteGpSBeb7tbqh8mjDCiIO2bJwZbUbmX8gcsKY0s68p1WWkAw94cLQvFtCXa8jFZmi824PDwNZbdn3DtmTN_s9MZRwgz9kghaMUKeRD52OTFaOn0Bd4Io8FoA/s2560/8.Evgenii-Gurov.-Samoderzhec-vseya-semi-.-Karikatura-dlya-zhurnal-Krokodil-19-1960.-Muzei-Moskvy-scaled.jpg",
-            "number": "11/14",
-            "creator": "Журнал - Крокодил",
-            "avatar": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFIY4FPaw1cTnT6dSAPQUsIQTQ2T832eOCBAxfufTdbJG_mZ_JPVbVz1ytlJe-57c1w_tPUie49rvrCmfyF4RO_wtETIwMsZZN3cvj49eLhuWxFZFiP2KtpD6ll6FkI-K2r_YBatp1OC1FPHfdGhLgY6-JZYcyZ0DohYN_X4Izuh1Fr5lIzXCBsiispg/s320/%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F.png"
-        },
-        {
-            "imageURL": "https://blogger.googleusercontent.com/img/a/AVvXsEgsFEK-kET60ePUNdEmnsgjTBSLUBg4j3JUZ69Qj3TRiQLYmSVEz4LFW6AtPsLDlsQFqBtBrs-WLHk0o-YKw00Kf3wgX25zyURyDyCi8RQ6_UNyRw2owhrpDxGays2wB_YWQPHYeKcKFLJKxh8tR8zdU60-PSY60h62IK2wpYTD9aKZA45vSO5hhKElCg=s2030",
-            "number": "10/14",
-            "creator": "ValBun",
-            "avatar": "https://blogger.googleusercontent.com/img/a/AVvXsEi6e7xOQVNtQQLFANOgW5H1pgDC1n6do1BHlSTef90cyRY9eWm9DnenPVztfeH6xq3CqcWfaylW1JXKiUTWpYcfkouB_98fmw4BzLelKJ6vQXm-CxavOwjgUW7F8gKdKHb-ALoheBnlnt06yEZOnGm8BMAR-JWBjVEABC6gpfT2cQJijI_j2iTK73V9VA=s320"
-        },
-        {
-            "imageURL": "https://blogger.googleusercontent.com/img/a/AVvXsEjr87CrfFxcVoL0Aw3gEodc7bBhIyTTofNn3cG3iYO0Cr661v1_yjIiLgqq3_rS9jj7ix_2kA4XeonZ5ZSVxQcViQPJoVpKUY1xXwvt2MRIXQcesc4l2fkxKoVAnZu9q20admGBHX5REmplzlexubsEibg75HFVHY4kUZHnA0cq-bdPuU1ooXj5d32rtQ=s1024",
-            "number": "9/14",
-            "creator": "Brandon J. Santiago",
-            "avatar": "https://blogger.googleusercontent.com/img/a/AVvXsEiI3B1GSuA_4Bg5ElJZSyU8N0ONiCkwOiy9A3dtTx_ZDB_X0aw3y0PPM9ZqpoYAdyBcn7uwbC8yGpBPkvNiIFHKrKrRjklb-RRa_VJs7byRxV7xSE7ARcFWahRz3X7TMyxESJZJz3Gk6Slbaf4QMHTFowBBsL_XIMINY3TRkH6vLPwLw-S2MOLFlBPq3Q=s320"
-        },
-        {
-            "imageURL": "https://blogger.googleusercontent.com/img/a/AVvXsEjpdLMWQAQRmy_TVJgEW3d3U09eBOOoR5kRNui7DMVghRAgMfoY5IaXEKl4PK5lQcPlDy2j0y01eRGaijAsck4UlROU1MvaZBrURyPymzlJ2DIn-v5RA3iKVN6KQuG-EfrvSbexPd9CGf_kZmJdI1wEXKZAXdXDsrxI_S83Yhl2pbyx6IF-ujxBTRGUww=s1028",
-            "number": "8/14",
-            "creator": "Josh Wright",
-            "avatar": "https://blogger.googleusercontent.com/img/a/AVvXsEiVCEB7n9KcnVyfM_V1z7aPwhkaYp8ZGqOC7J3jvUoUZ-T6sL-DxeL8FKOLRzgzVPRvPCKL3eNB0_nwaSj6cjAfHZLfK-yrdh4iAqPWwCH3r5-ofEYT2yDIlK-qSYJG8aceUNjzc3s91S8zwQkHnLT94hVQPyfiPJ1FTCU3jnapd6gSWtY9-vFW0YbhbQ"
-        },
-        {
-            "imageURL": "https://blogger.googleusercontent.com/img/a/AVvXsEgVxK5_tH2g5m2kOocIv5PDnKYnoCTqkzreV5RPiA7tiHaDOoWSfKZyJkGdDon9pXkaLAYM0gbAjMlXlcTR1BDa0_pZXbzLJsWS-Ct8ZPoxJbXonsBYm14AnkJbUoSNZTOsKTB5_lxDwHMgd0TUCqzrXbjEu0KjQ_xiCokd7OyslVHEYSQwHv-XzM8eHg=s640",
-            "number": "7/14",
-            "creator": "Robert Adler",
-            "avatar": "https://blogger.googleusercontent.com/img/a/AVvXsEgO2jGuy4O3mCIH79tU0_x4ANDSVIQ0YvPStSwM3_UkTNojJcVlzrRhFPRAjHp3XUM-yvEylBmahxIfKXhAxK-Yc4ZtUQSsb1Hs5DgbiMzzfpsjDALOQdw0cZ6QbplCpy4qFc3D_H0AmO7ObmejZ4aQ9VbohyfXCO2gbzDm8EzMWbQIi5HFIjpW8QtmPw"
-        },
-        {
-            "imageURL": "https://blogger.googleusercontent.com/img/a/AVvXsEiFT9NcunDLhNr21j6E4RlYwuD4ys3MjFhjrXJAla8ZYfPxsQdawW2Rq6m8zQColKDpDP77XdAF_L1_4ytDDIxgJLnaxHrZWbvBWArzpVWy_G41wgPPEsfSpzSnk4xx2d7JRkpg7Z3L52nuACIhVo5k8F4SuSvctsd9gQKvtjyCNPdFxppJgLlvkutiYw=s1011",
-            "number": "6/14",
-            "creator": "Z-Doodler",
-            "avatar": "https://blogger.googleusercontent.com/img/a/AVvXsEj_ErlByF6KmTdTzzTwfBaxSVpdXGqiRlTabmrmGAWo1aj7NS7imffyucGad7F_thee7FUBaCot6t5QloSDoorgLo4-1C7UEtNnmC_AkciqYaUkj2J4mVupYxZc2HIXCZCTw7hfMk9Jt1GaZ--tzbq_YMSqNU4ejt23lc1KpChMdKzYljajgp2fHGQtCA=s320"
-        },
-        {
-            "imageURL": "https://blogger.googleusercontent.com/img/a/AVvXsEhzSgBKts6f1ZN3CAHMw9QtawqFeB9DMDmKmqyOqFsfJLoz-C56DWqVKy2rfdWJDF7JNh8zuaNSFny8GPQOTSpOJf9HYDutGzofCBHAivMfEWTaACtMALobGES9M7mJj1HdgVSFnwYs20pAvLmFn18MS_emdzFzb5uqN5N_UW65MW1iMMEFZsZdlM4kIA=s728",
-            "number": "5/14",
-            "creator": "Yehuda Devir",
-            "avatar": "https://blogger.googleusercontent.com/img/a/AVvXsEheFVWvNhv-ddggJPGn_Bsu14mEGi9eGQfrda-BFJoLj_JqjBwxhQNBbeWHMrroarNbzjn_2vkhjMAVtZmFPQju-wiHmN7IvsLOM_TxpFwv8vJ2gwritaozSqNCKWv9LDYyewOpJxY--RyDoikc_7zh1KXGC2rDduiJIrVTt_67lpk-gfIDQvqsPLM7fQ=s320"
-        },
-        {
-            "imageURL": "https://blogger.googleusercontent.com/img/a/AVvXsEjgdNJFcvkfDXTzYTfGvO2Tos5xtQaUQnHEuvN0Iml_LGgr8jViV_giJjHTEgf2c_zRmf4SPwJy8q5yISkOe8f0OZPw2FsCyphtowr6qARHvhffOmyrv1bcy7s2JdqEVsYumuLHnjWpOW3GKWREGIUHrDz9xzSa6gPVw_pZsIIlx3GPuGA5qzewvjZzGQ=s728",
-            "number": "4/14",
-            "creator": "Ari_Stocrate",
-            "avatar": "https://blogger.googleusercontent.com/img/a/AVvXsEi6HKBRye_sZLKHB1g37b1SD4ECZ_RBON-5dZf2BF6R2NYKc8tYQje6mh0TtRuionQR5Ic7Ttga0NbSnMKzmF7m1PpniY4Hs7BTiguaHFbEevcUOI5tWGHgCEXnZ_Oqi6D-r2v9uDEujA3mITBUIUb0Zlzlg9cUSRjSKgXm9PHkBxzORgmSbxYFAcoY9A=s320"
-        },
-        {
-            "imageURL": "https://blogger.googleusercontent.com/img/a/AVvXsEjtET9KMFVJTiTHPyumj6H3HHDD_UmX9sc4e87InqCLHNI1Us4Yhg1QWEVtyx-2F5nCLYGFXtrjoAlNQFFT25BkIXPOlr15jr0TnqO5lsPKGaSXjOS7Q5p-bhlC2s1ki4qebDoZSUtibuTiQRWskUD4BsTG8LRyIr3TWQvgpt9Q74t4WQmt37hpqXeFWQ=s636",
-            "number": "3/14",
-            "creator": "Lise Myhre",
-            "avatar": "https://blogger.googleusercontent.com/img/a/AVvXsEgQNaMYnoh0Yd5HymFhJThTjD2hu8Tbo3Qd1ScgHMYH6HNTMAvZ0f3DAvGzoOyWbLqlUpDjzzM19PcnCupOc7xg8ehZ0mttpQcatQOrYHlY-Y_AT429vCDTB3poQgOar9djyJKXYZo58Ys0_NFGE84aHxPbBCgEFnI5GLhyUQMRVd5v2cm4w6EQ72sBNQ=s320"
-        },
-        {
-            "imageURL": "https://blogger.googleusercontent.com/img/a/AVvXsEit_Mx7gwqgmE2VE_1i2SN9KZmRvx1qxYg-3SjO9omStLR9E5I-y-DUpcb2cxxY1H62LXIH9amFXwp_xaq4nv32Ele-4n_-JYYVhV3vJbP9AcPOym3_E1jNBRv1gUlY38Yp4LEhb5FIaofI3q2UVxZh96aQDJ6-Wk_k3kIr0HycFc9PiepSO4gsirvPQw=s504",
-            "number": "2/14",
-            "creator": "Олег Куваев",
-            "avatar": "https://blogger.googleusercontent.com/img/a/AVvXsEiv3vu3zBopdYyKuoKCd4thfpZbP0vGOxFxp5XSNrwyEKJWtS9_jP_cVuL03JCM4PcKIqePt-s68wN1vSVT68KB54s5JEZZsH7FZF3rriyGjyweVwpu4CwAs9R_dI0HypQw4AQgO9B0gGDJ_UFdeV6ir9dEUOLCaIZ1aZhrYBbHLYfXrMkWiMA8kpglgA=s320"
-        },
-        {
-            "imageURL": "https://blogger.googleusercontent.com/img/a/AVvXsEiX9fKUkvsa8WIpc6Z1Q83UDEpYWWfsR2W5lrW6255joIbSzJnGv49x5dULyh1OCVc5RbSJduATzliUPm6DNp8cMsF-NDll_Rmov358GtxVd5UVwlEANow7vQ2JtRA2zg7P4gnwyA6DYE5E6k7pE9K3ZqpprVBiP47MCfOCsgf_fc0Z7GbqQY4lhAWlnA=s1354",
-            "number": "1/14",
-            "creator": "Matt Tarpley",
-            "avatar": "https://blogger.googleusercontent.com/img/a/AVvXsEgf9V_6SrqRsKIdzZDiM8b1i0kHBGoRJZJXM7BJ74HrwW7NWgYFMfenUY27DpuP5KQp4tSRVHKB1nbdULyzcDhkbFrcG445taEaMWCYVBCP4CzE53lt3aeidHEn84CBYrmJuXEIBMhnSOa5QOQAkM9RGffqc2tDlIfeNqt7zpREQUFGJPWV7WP7hTqDBg=s320"
-        },
-        {
-            "imageURL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPgeMfQYQjywM8o3ssCGjRdDi84ceNMBH5vEMlaawtCyuB98hGv0Uc60q2xqBVCW8c4ZCoXuLOWGK9HHYNjrkBP4-KrimNvc0k7ghXUwrPY2zfqrxw2Ne8-yHbQ0as4jQKGnMNMh0Ub-Kf91oWTsj-aqPUf6apSwRgXZbMg0sHyCU7RBomFdSMk6j6Jgap/s1280/Adam%2003.jpg",
+		
+		{
+            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AdamEllis/Adam%2003.jpg",
             "number": "24/13",
             "creator": "Adam Ellis",
-            "avatar": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_H5fpsJENTb_rh0fDflo3GMVSXXabElVOxGmYkJ-rySfcKhIdqvPVvew-GBp68zrLJUMQDyt702d4SkqJsxIZ-uOUSmHQYXD9XTl8eHjHYEK5ofn1hhWKHPuw6SoEenjmUN8jPKFiuSgoqyeOunWoIAiyjcf2u6FSga9Bg60_hLcaWycsPdk-J1p9A_JI/s320/Adam%2000.jpg"
+            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AdamEllis/Adam%20001.jpg"
         },
         {
-            "imageURL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi7JJnwzHbCr5SZgPIXYHvlUgcOY8mJFRkiSD7GHeoSuh2G1gchBMh8Q192yqTsoVCC00itXYOFSuGQhxFpDB8GyGpVpTZ3erbpObgPuMilNz9yefwN-QS6Kfizb51Xn5P0nrtx4he3Rm6nA4p_wHu98IANIEAS3JM3qMrDGwStIkKbAx6wHKYEs0_AJxZE/s825/beanie%2003.jpeg",
+            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AlinaTysoe/beanie%2003.jpeg",
             "number": "23/13",
             "creator": "Alina Tysoe",
-            "avatar": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiG1m-AbUieyq0fsLI8nPzk3u55-yijkF9kHjCDrBT-NpLHJLjJyuy8cO2sAdOLRs8tGaD0XKDyHbA9Xa2M-05aL_yZBtWeT8-Lb4LUcOTjuLd6N-rvAvOzYn6d24woNcBlM-9ELjJreoNscPhP1_Q00bpKj5VEH9_iAUz30oG2kU6iqmx54EYqTEw5RZF6/s320/beanie%2000.jpg"
+            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AlinaTysoe/beanie%20001.jpg"
         },
         {
-            "imageURL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhottN6lpQux8PFtlPTekOCVMJonBcZh5jxc8Fc2STh489OpC1_RJ6QLIrVc-iZnMmvcF-v3jETuS6m_V_gDfytYVPwXfUg8xEVNG3TNxBYZn7PYM3YLLFcnzkTshgfSbhOXzsDWMj0N8VxhEKmKUB14EiA5uEpfRPufJhfT79H9CeZAg8G_TrHaZXryA/s656/JVS03.jpg",
+            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/JorgenVanSanten/JVS03.jpg",
             "number": "22/13",
             "creator": "Jorgen Van Santen",
-            "avatar": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgr9fsmHiA26mXKq6IQ0leFaThEXjUt3wEczgrfWM2dQRPqmw612LXQaRotTX4NX6aZItfRNyRc-UDfwDnvsjBL2rSFzqxDzE348i-7rLDv3sqelW5JBfgP0fzawbO0umfDydYudCgcS0lUeF38fQYQ5Nla3JQ4TjW5wnqE1auScPoYdCK8hXh6hNhCpg/s320/JVS16.jpg"
+            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/JorgenVanSanten/JVS001.jpg"
         },
         {
-            "imageURL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZnUYWyfclddX9DEvGdq2KSZDNMYOBfIJrPAYhEu8_9-aw5K5GvSnVt4oIlyTY5Hql_WnODF9eVFcu5MLn_ZCDf46HljpFGX8hzMlBPNIvIXN4O5WVVa6xvfLkyubNwUv2ZbUNy8U-YKqqegZIo_vw0WO4bjyR-K7r4PpaXi1DKXuwk6jEVZ0IqIYj0g/s2101/ML03.jpg",
+            "imageURL": "https://github.com/ComicsMakers/stripcomicsimages/blob/main/J.L.Westover/ML03.jpg",
             "number": "21/13",
             "creator": "J.L.Westover",
-            "avatar": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbSM32MiYUTVopRNS2GpYJtm3LV1JXRs-mbvWkFGu3-7v4lg4rIjfmnyzQucH2xQJGMPFAymy0ewjoHiSiWJJWzTl9-zjjaufnFyHVjSC3j--AotGVzZMktPzevdlK7k22B7G8kqYP0uAen-R_ISER-7OsIc5DhUdHJu8oQjj0eih-SlusAduHmWoGpQ/s320/ML16.jpg"
+            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/J.L.Westover/ML001.jpg"
         },
         {
-            "imageURL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5-KZkHHnXfn9078tUlxLeWhAconuvhu0xEMffokIEVlL59qDbY0R-N3wih3yEc7E76eLtvvWu_2jtlqhAEab6ovxQLJb97SKZCe6gud0KCb9JDm_rLOG0DV7Bx-Ed6UyE2-Q4MHBS5latU12y2tEmCHoQSdWGnlKy4CW2rntJHViJf-iG0ui1SzjAhg/s630/03.jpg",
+            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/ThaakirahJacobs/TJ03.jpg",
             "number": "20/13",
             "creator": "Thaakirah Jacobs",
-            "avatar": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgK_2kdryTzvZwhugog2RbI82lxdZHgjxt24zt-hJFLeNzwSWh79TPKvR3uY9J0M3rICQj2vMMOEWJRZ3psIl85MiI7PvVxjfNTl_ofMhLRDID4dbpm9J4lAFqq9HAAw5h1DCEKkzVlKxfsiwYGR4tEMjt2r-gkpPYyatSKoY5hrYdvECnygZifeIvemg/s320/author.jpg"
+            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/ThaakirahJacobs/TJ001.jpg"
         },
         {
-            "imageURL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg7wPbg5nyuwvE3WleK4Kj8XHHxvag4nobiQQxxSKCpNWhAm66QGeH9vDqwyDmWrW0pCmj2qiLZ3AmW9CPrbLxtUGSEqVgbIzYDAa8p8azyVTs6S-7JyZwadQNR9kTE7eHFtmenTCmtpG3UZ6nBJYdChKPoYmF2IaGYyAw6wIBy0xfbe8jp_7fHteRDFA/s726/03.jpg",
+            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/MikeSalcedo/MS03.jpg",
             "number": "19/13",
             "creator": "Mike Salcedo",
-            "avatar": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivnzegrUGqzkJHbKzf88RZmEuZvCmaCon9XRBr_a4bF0_eEYy-ZS4zYVsl4T0LtYGgIJhDbfa1hXqhJPcWvum8bJijy1lb7gLLRI84OTQ0R-8ntQADHLglr-6VdyWg6w-COpP0bFdlNX5kLCu-r2Fszch5uv-adLBFmQHpyGMCLItbM-FJ1U1FcDAiiw/s1600/avatar.jpg"
+            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/MikeSalcedo/MS00.jpg"
         },
         {
-            "imageURL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjS1GRkfAmoc-6raxqfT-Yp1phdsrN7hviwUu34Q2T4Ub_wou--gH8BAmid4OHDIgBYAvlKkr1IkpbHfUIJ6xArJ5k6smlP5PUuay-JzbruRX3VYVQnA3e6FMmLjMHV78idoYke7aD_fxIPyRs5Er19hkaK_neHy-yatfjWorC0nzVadlFd0A2KvXtrSw/s630/03.jpg",
+            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AstkhikRakimova/AR03.jpg",
             "number": "18/13",
             "creator": "Astkhik Rakimova",
-            "avatar": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjaaeuOIqVBlxAhpbF8083PsspyJkIGQhVFkhAAbDSAA_dCylPLNHTa_Z4bHa6EQG3rW8FP8v8dyHRRsHNFZAEtWD8LE6XpT0xj6_riAwYW2_RLgfXYtMCJKTjU_jj1neFR4bixaPWBV73eklkCYApJ-xEbaZAJ1dnwL5gBRmNsNupZimKrrRq2pySKLg/s320/AstkhikRakimova.jpg"
+            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AstkhikRakimova/AR001.jpg"
         },
         {
-            "imageURL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnxldYYLTOu62jaM6WKQzPDVBTMYEcpfbck6NW0xYzSEla_p_d63e6xT4qCtSBwCbVFvDMveydwcsUj1mzYve5nKkgAk0IU-5njrP4AoAL8UAq3_ZIKDfeht2eIzerCCJq0PAaOx4ned_jQaStL-k5Tim2AQ6PbUTzFgiz857sE05zofsMtExkjT5Rpg/s630/03.jpg",
+            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/BrownPaperbag/BP03.jpg",
             "number": "17/13",
             "creator": "Brown Paperbag",
-            "avatar": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDlNOJm4f2yyH01MKFA7XG_5Ib2-i-IibNkW3FK17WV0n1qYog7MU8wpFDBicPlGbeA8ZNDSnRlYGnzd62zB_hIxLU9pKzKpvjT_Fj9RcA90MH6zy2rABVYdMhS6xlBiah83h2QVjIxQK-JaNdQNnVaagvM_tnDrrsjnWBLun9e1jyk4D_KXykVIYaAw/s320/Sailesh.jpg"
+            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/BrownPaperbag/BP001.jpg"
         },
         {
-            "imageURL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWQPZIUg3FyvzbiEivCDO-tax04Byj_ZrCJd1KJsi2vum5-Ci__xBjelu0GIeh15LPYnWcFSGaHJ8Qblo_S4NopX6-Vvc5qFUIMca4hjOxiYXBb4Ix92DxVDRxYCGwA45-Y3VgB9NImSkLiLMs5Q1uhdMFxItb9wHn3gFsJipdZdklrZfXTZWrT5YCIg/s515/sarah3.jpg",
+            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/SarahAndersen/SA03.jpg",
             "number": "16/13",
             "creator": "Sarah Andersen",
-            "avatar": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXRnVM10hBqOe-L1nBZ61dmkVhjbZGH6XCo_ieTd0szTVVSYb1tnGtFi8F1Jqb9MASVfVjHIXxXej3r91MKoaJbNj7HgAfPzC1eYPrgulqb-dZv01y_Yl3ZBPw-RvEbFyAy3ETDYHq-vy0ZsCkb0gvetCmDve961MnzOjnqtzdCMfNOrW7hXPXQx8bXg/s320/author.jpg"
+            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/SarahAndersen/SA001.jpg"
         },
         {
-            "imageURL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhm7dlqjUFBGkIvvIwG_oSvAJIHKVYm2X-FkFaVY8oQge3GpIpi6WVV8qB8oA_xunr3gqi4c8qd3bV2JIzZXT_f5j2q_XkZb1LuwxwfTzv5f7xIYasg3UC-9DlHADdTp7PgAUa71SbOsJeqDHfbyQWRYuLqQLze8rMcMl5unZlVnwFzeMLESJnr448nDQ/s1930/03.png",
+            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AnnetPlanet/AP03.png",
             "number": "15/13",
             "creator": "Annet Planet",
-            "avatar": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtdXm5IbagvTAyTPQJTd1PWcN4H3OACAEcAerA6w7vaiRo2_fZFolFdvJhJ0hLdcRwasDaXozsmnKtEUIwO4QKWvE9Kvyrljt2RVCAUspBcxZVxvymoz3NnPshlADqxIRZsHteO_cHfOKr2uKdUlCkhWd1_zQyLVPPqH8YjzB4Cw9EvOnN6utn3RLPYA/s320/Annet.jpg"
+            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AnnetPlanet/AP001.jpg"
         },
         {
-            "imageURL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4jqvI7dJB0HrRfR0kdYS9lazmZQDjhuvKVDIg9ylJQT6LP00j2YIIY_4Q7Et5LHviaGFMcFacGKS-9wL4UVyZGp_JJtlaaBKUq0iyiVZKDy_8yJkc4kl7XQqE0WT93v6QKUvWouryLByXSeCtxd0ji60s16kRoZxElyusNY_NevOwm3J5SfNs2h4t6Q/s700/imgpreview%20(3).png",
+            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AndrewHou/AH03.png",
             "number": "14/13",
             "creator": "Andrew Hou",
-            "avatar": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLwhsU-JJ6xmNysDyfPn_5nAsSWzE-mEXZ1qk6kATJAEh-goPMvq_b9bHT6e0VTgB97k7rWfgZh5JpX5vR9VauP_fezpTp2JORCKjslENHrEJztjnOKXKtKhwc_p3daLrwpfy7dSSaTetgsT6lPNuipk_gOAfCC2GxS5C7Wk7nUu5TqORJElCURdlpRQ/s320/AndrewHou.jpg"
+            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AndrewHou/AH001.jpg"
         },
         {
-            "imageURL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBSx9M9ASrgL6mnhf-aGxWgA5jFQ6SjPjwurXFOe6lrNhDpCREpAolSwmWfxYUuX_BQPUz7iLKTT3cdYDvT5twjFLk3lq4BRMsHqXGvr1noVv3oZgbDprdKwC55TgtgiK_FL1J7Qal3NKExZKDF3LVUTouakQ0ADuVEOikDjwD2ZtnuKAH9YH78W3M6A/s811/geek-%D0%9A%D0%BE%D0%BC%D0%B8%D0%BA%D1%81%D1%8B-monkeyuser-7403319.png",
+            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/CornelStefanache/CS03.jpeg",
             "number": "13/13",
             "creator": "Cornel Stefanache",
-            "avatar": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSHppDI7zFpVDF7QERj1soZ2fgDK0sgToWPNI841wr-RKhFSd0Yrqr67rX3oZ8OgLsKiCYyzud4ybHHEAnhPdiEhQ93cclK6dibBRsjWDx8f2UsuBR8e5on5lvolPHVWF02QA7YhanDBPoq-7ilNj0Y62-0-OTZ40yxu_UAm9efSeZBsHuqmeDTDBqqg/s320/StefanacheCornel.png"
+            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/CornelStefanache/CS001.png"
         },
         {
-            "imageURL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1xMXDEm_BSl8yaxilXpoyVnaWTY7eCiO3lFt1Cs76GlWBFdLPqm1tozEduEbTbq6vt7JsVvEsL6to8rTSEhUiTF28J-JbeOgOCr0eEc8S-_V7ky8RBr-O8P6qFxgE6G0BmLOj3r3NG1tKU0g1AVneu-PB0mCceTUWZdYzUKpjUdhc4do9irQVzsTr3A/s760/wumo3.jpeg",
+            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/MikaelWulff/MW03.jpeg",
             "number": "12/13",
             "creator": "Mikael Wulff",
-            "avatar": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEicjznyL04TJXvW7GrYmbD5o1blE1BiX7lX3WW9KT0wEWrnBSqwaz017fgAGmiWz2P9AY2ScPL9CIvTnlXGliib3e2lcT6fAGFdidgsCU-tjscedzBND1Oz5ddiB8xxyuZ85nJrGARHG84VhxYXp6PAuqt1iry9H15NJ1ryKWXDxtll3DfL4n4-6iet1g/s320/author.jpg"
+            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/MikaelWulff/MW001.jpg"
         },
         {
-            "imageURL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDw73v6Il3fcwLrXX8h7JYDr4pxWSBTdAowxxMiN4jXT5jMRWb8Ao7fYW9Sn-EKuEyb3WAlsaOc1JOSKmVHVPTkYDGQkNCF05As_knNUeZz-4P3ASPXenGwIGKkxkS_jgbM_cmP29u3WYgA_uT9h38xfFwXJbwuDsuf2PZMryEW-IHWu18Mm0nqQTcDQ/s1024/73_35_0016.jpg",
+            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/Crocodile/JK03.jpg",
             "number": "11/13",
             "creator": "Журнал - Крокодил",
-            "avatar": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFIY4FPaw1cTnT6dSAPQUsIQTQ2T832eOCBAxfufTdbJG_mZ_JPVbVz1ytlJe-57c1w_tPUie49rvrCmfyF4RO_wtETIwMsZZN3cvj49eLhuWxFZFiP2KtpD6ll6FkI-K2r_YBatp1OC1FPHfdGhLgY6-JZYcyZ0DohYN_X4Izuh1Fr5lIzXCBsiispg/s320/%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F.png"
+            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/Crocodile/JK001.png"
         },
         {
-            "imageURL": "https://blogger.googleusercontent.com/img/a/AVvXsEgJ57UfkFdgYUUX_gTB_9Wwi6c7aNbZPXKsTZ5o4gjcfN6cdffuN83InLylzTrkY5hkQ0jQTjgFEvyZXuTpSTXRO4j848vTTAhjU-u8K-aYv91AvgJz9i_O3Ayx1cJNynelIE9vQQW1swWL2A_sEVarymT78Auk3ynuczYr3NxyH5XwINOEY_e0dfu7Pw=s711",
+            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/ValBun/VB03.jpg",
             "number": "10/13",
             "creator": "ValBun",
-            "avatar": "https://blogger.googleusercontent.com/img/a/AVvXsEi6e7xOQVNtQQLFANOgW5H1pgDC1n6do1BHlSTef90cyRY9eWm9DnenPVztfeH6xq3CqcWfaylW1JXKiUTWpYcfkouB_98fmw4BzLelKJ6vQXm-CxavOwjgUW7F8gKdKHb-ALoheBnlnt06yEZOnGm8BMAR-JWBjVEABC6gpfT2cQJijI_j2iTK73V9VA=s320"
+            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/ValBun/VB001.jpg"
         },
         {
-            "imageURL": "https://blogger.googleusercontent.com/img/a/AVvXsEjaljk1KvcZz_Ii4ExbAlexx74wbDlw7Bryble2LMxp-sG8stCNkW1pjB39SN48mgh4H8AH65-GtODNSKBKDcBoUFpeBzuuM0AW58iBHF6x21ybzZUWVY19PgcKoOBJbQoPHI0vTcDzDboIe68AT0nX9ravbwiKX8a0HJ89JHosf8LICqeR2RWns23b3g=s1080",
+            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/BrandonJ.Santiago/BJS03.jpg",
             "number": "9/13",
             "creator": "Brandon J. Santiago",
-            "avatar": "https://blogger.googleusercontent.com/img/a/AVvXsEiI3B1GSuA_4Bg5ElJZSyU8N0ONiCkwOiy9A3dtTx_ZDB_X0aw3y0PPM9ZqpoYAdyBcn7uwbC8yGpBPkvNiIFHKrKrRjklb-RRa_VJs7byRxV7xSE7ARcFWahRz3X7TMyxESJZJz3Gk6Slbaf4QMHTFowBBsL_XIMINY3TRkH6vLPwLw-S2MOLFlBPq3Q=s320"
+            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/BrandonJ.Santiago/BJS001.jpg"
         },
         {
-            "imageURL": "https://blogger.googleusercontent.com/img/a/AVvXsEi08Z3OAsZokoa8dAxmzh1YsNwBex5k-QtqCRInFC5yncgvtc-7mpK-xr3yQy6Qu2r5ArJEmn6ZXLlwHpEAp7w_jUbGoyyvTbWJWtp3BV5YMqxByCKh6jSd13c09vMWDdCMh9BOzAc3cn9y77WQ3Xeqcv-C93CRycNWIJ9ckTacsTaP44y7lu52AxMhhw=s1350",
+            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/JoshWright/JW03.jpg",
             "number": "8/13",
             "creator": "Josh Wright",
-            "avatar": "https://blogger.googleusercontent.com/img/a/AVvXsEiVCEB7n9KcnVyfM_V1z7aPwhkaYp8ZGqOC7J3jvUoUZ-T6sL-DxeL8FKOLRzgzVPRvPCKL3eNB0_nwaSj6cjAfHZLfK-yrdh4iAqPWwCH3r5-ofEYT2yDIlK-qSYJG8aceUNjzc3s91S8zwQkHnLT94hVQPyfiPJ1FTCU3jnapd6gSWtY9-vFW0YbhbQ"
+            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/JoshWright/JW00.jpg"
         },
         {
-            "imageURL": "https://blogger.googleusercontent.com/img/a/AVvXsEibMrRjYPybBR-GFLucK1y911PJJeZgx51S6KjMFWe5vvCNcN8WCBWz_JqfPm87lhB8vJWJN29XHi4tmHyFTIeDXUlriCie-MI2TeocKU9rAOGT1Ur1SpxNXhmHLMIYOBcyQwXc8XK3RrJiTWgOcVbhHy7PSd2cFpoD9Tl5fY3eePeQVmnlsTIJRIF5Kg=s811",
+            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/RobertAdler/RA03.png",
             "number": "7/13",
             "creator": "Robert Adler",
-            "avatar": "https://blogger.googleusercontent.com/img/a/AVvXsEgO2jGuy4O3mCIH79tU0_x4ANDSVIQ0YvPStSwM3_UkTNojJcVlzrRhFPRAjHp3XUM-yvEylBmahxIfKXhAxK-Yc4ZtUQSsb1Hs5DgbiMzzfpsjDALOQdw0cZ6QbplCpy4qFc3D_H0AmO7ObmejZ4aQ9VbohyfXCO2gbzDm8EzMWbQIi5HFIjpW8QtmPw"
+            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/RobertAdler/RA00.jpg"
         },
         {
-            "imageURL": "https://blogger.googleusercontent.com/img/a/AVvXsEg7R4AL2aP0XyuSDzfBdA_EqKfikad9N3nB8B0F_NLohO2U-BAJBbPqSSBcwQEVkh40VAy8Scq7i75VL6Hcs0v4Q9mUWCWMNlOPil-sDZVe52fpX9qKhNehl0t78-CjwZd8Xybo1oiXzg_1gK5hu9uXtKAsQ7HPfqIKkwOTX8vyqwHpJUsVmZ37UqkLQQ=s1011",
+            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/ZToon/ZT03.jpeg",
             "number": "6/13",
             "creator": "Z-Doodler",
-            "avatar": "https://blogger.googleusercontent.com/img/a/AVvXsEj_ErlByF6KmTdTzzTwfBaxSVpdXGqiRlTabmrmGAWo1aj7NS7imffyucGad7F_thee7FUBaCot6t5QloSDoorgLo4-1C7UEtNnmC_AkciqYaUkj2J4mVupYxZc2HIXCZCTw7hfMk9Jt1GaZ--tzbq_YMSqNU4ejt23lc1KpChMdKzYljajgp2fHGQtCA=s320"
+            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/ZToon/ZT001.png"
         },
         {
-            "imageURL": "https://blogger.googleusercontent.com/img/a/AVvXsEgk1z9JgPfiFZhm3s2Ou9juCzHBJw3FV9qgnuccljd6iyON25MCTjgOLjZwyeJJNhdt6kkVhRl9mdz-9KyIHAwGePJoY6Invu7v1JiWqulmD18zjcKPOZdae4Qyjcy6p99sq_GpDdryhNAxlsyKOGXYKBSBSoJVPP8eA7uE0OTrUIt1QPWNS8YsPYOL_g=s1030",
+            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/YehudaDevir/YD03.jpeg",
             "number": "5/13",
             "creator": "Yehuda Devir",
-            "avatar": "https://blogger.googleusercontent.com/img/a/AVvXsEheFVWvNhv-ddggJPGn_Bsu14mEGi9eGQfrda-BFJoLj_JqjBwxhQNBbeWHMrroarNbzjn_2vkhjMAVtZmFPQju-wiHmN7IvsLOM_TxpFwv8vJ2gwritaozSqNCKWv9LDYyewOpJxY--RyDoikc_7zh1KXGC2rDduiJIrVTt_67lpk-gfIDQvqsPLM7fQ=s320"
+            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/YehudaDevir/YD001.jpg"
         },
         {
-            "imageURL": "https://blogger.googleusercontent.com/img/a/AVvXsEirbY76MJjehrCJWUW5VNjZ8jP5g55VNpvONfs-2yeNmHOsneZz_zV43Lvonau81Lh6VOhTfnQzcOtNkrqlteZEXbBAVWfxTzj-Z9Rd76EL9LYTbyz2FVlyVq0qC43CUvOQAuIBn1aapM-UgxExculqyZY4Q-ecs-YWPnfFkItfbvVx7an3_-P5JexO2A=s728",
+            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AriStocrate/AS03.jpg",
             "number": "4/13",
             "creator": "Ari_Stocrate",
-            "avatar": "https://blogger.googleusercontent.com/img/a/AVvXsEi6HKBRye_sZLKHB1g37b1SD4ECZ_RBON-5dZf2BF6R2NYKc8tYQje6mh0TtRuionQR5Ic7Ttga0NbSnMKzmF7m1PpniY4Hs7BTiguaHFbEevcUOI5tWGHgCEXnZ_Oqi6D-r2v9uDEujA3mITBUIUb0Zlzlg9cUSRjSKgXm9PHkBxzORgmSbxYFAcoY9A=s320"
+            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AriStocrate/AS001.jpg"
         },
         {
-            "imageURL": "https://blogger.googleusercontent.com/img/a/AVvXsEhtyl9UdocEd4KBiEE5KZXBMt9N0Q7qm0vJq4WZfFbzRUw4HzS7CqvPXS3Pea07DS1OlP1pELWQfWmnPYoOgpvSyqayCkgQjPbOO9Mloe3uz7hqQDCXITJ6ide4e6IxV0V2TbKPOOSLu-BQX59gZhEiz45Yyg5E0fRibrOg1kYYeM8OAZcPaX_4X0iLXw=s643",
+            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/LiseMyhre/LM03.jpg",
             "number": "3/13",
             "creator": "Lise Myhre",
-            "avatar": "https://blogger.googleusercontent.com/img/a/AVvXsEgQNaMYnoh0Yd5HymFhJThTjD2hu8Tbo3Qd1ScgHMYH6HNTMAvZ0f3DAvGzoOyWbLqlUpDjzzM19PcnCupOc7xg8ehZ0mttpQcatQOrYHlY-Y_AT429vCDTB3poQgOar9djyJKXYZo58Ys0_NFGE84aHxPbBCgEFnI5GLhyUQMRVd5v2cm4w6EQ72sBNQ=s320"
+            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/LiseMyhre/LM001.jpg"
         },
         {
-            "imageURL": "https://blogger.googleusercontent.com/img/a/AVvXsEiG5HE78mGOwI5l8Ljlj0-t6TvERoiE_Z2UeOzlWES6FNkALDz4iAcJfT0_mNbRo6k843N0t317ciyYkLJxaONbxSQyzOAN9YjUyIsZ0ALlvjedc-KwH2wsenHxZ1pNSptxPKC4nsE3hFZZC-Y1YSfjwOJHZ6avskDxbcm7cQabGKbPJ69Q03vOfRCGbQ=s504",
+            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/OlegKuvaev/OK03.png",
             "number": "2/13",
             "creator": "Олег Куваев",
-            "avatar": "https://blogger.googleusercontent.com/img/a/AVvXsEiv3vu3zBopdYyKuoKCd4thfpZbP0vGOxFxp5XSNrwyEKJWtS9_jP_cVuL03JCM4PcKIqePt-s68wN1vSVT68KB54s5JEZZsH7FZF3rriyGjyweVwpu4CwAs9R_dI0HypQw4AQgO9B0gGDJ_UFdeV6ir9dEUOLCaIZ1aZhrYBbHLYfXrMkWiMA8kpglgA=s320"
+            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/OlegKuvaev/OK001.png"
         },
         {
-            "imageURL": "https://blogger.googleusercontent.com/img/a/AVvXsEiwRqF0vSVvnG73kv0_pm5pXc93vk-Ycq8FjRVrierd5QRvgL0ou1P7vmkKfgI_wvypDlSht0OvtdrMMysWmBe618fL0AvemzDeFxvqQoNe6ZqXwh3F0Io3exsDDAt20T60msBp1wfm34EDipPCucoShfKUnFyFqi2hhdbUxgc6cSJYyQjBLZGYPAlqMw=s1044",
+            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/MattTarpley/MT03.png",
             "number": "1/13",
             "creator": "Matt Tarpley",
-            "avatar": "https://blogger.googleusercontent.com/img/a/AVvXsEgf9V_6SrqRsKIdzZDiM8b1i0kHBGoRJZJXM7BJ74HrwW7NWgYFMfenUY27DpuP5KQp4tSRVHKB1nbdULyzcDhkbFrcG445taEaMWCYVBCP4CzE53lt3aeidHEn84CBYrmJuXEIBMhnSOa5QOQAkM9RGffqc2tDlIfeNqt7zpREQUFGJPWV7WP7hTqDBg=s320"
+            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/MattTarpley/MT001.jpg"
         },
+		
         {
-            "imageURL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-CKV6718DiGuj3Uosa-Jcn_WBm869CG-ShsR-tPWtrJ2LlBG84ZXm8Lg6fbY28D46P8YeP8O_vpTcSjFBrj4KOyNrA3GzBA_8cy_Xmyl-z2HWI6NpkATD7SNzdQC7MCsVJhhMpYYtRJ8egNdo6Wqx3n-0nOjwoxOeHn48GuC62jEvBqBIAomPIAW8sOJf/s750/Adam%2004.jpg",
+            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AdamEllis/Adam%2004.jpg",
             "number": "24/12",
             "creator": "Adam Ellis",
-            "avatar": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_H5fpsJENTb_rh0fDflo3GMVSXXabElVOxGmYkJ-rySfcKhIdqvPVvew-GBp68zrLJUMQDyt702d4SkqJsxIZ-uOUSmHQYXD9XTl8eHjHYEK5ofn1hhWKHPuw6SoEenjmUN8jPKFiuSgoqyeOunWoIAiyjcf2u6FSga9Bg60_hLcaWycsPdk-J1p9A_JI/s320/Adam%2000.jpg"
+            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AdamEllis/Adam%20001.jpg"
         },
         {
-            "imageURL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjVK5cRjifonQPKF03Ux2QLco8WI8srr4IRGMr7Ru4NFh1WCTauhRG1ZNqXagqc5qhBzB85YqGCfoEqu468FosXp4ShkRy0CUAVycH5YTwbzamnWQwtAkVTpgPB4fWOVtBOym_XOXVT5G5HKGu5oRWpEhnJzgbw0qoh37YMGsYqizc_b1pMjhBNDdv4hIEQ/s2160/beanie%2004.jpeg",
+            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AlinaTysoe/beanie%2004.jpeg",
             "number": "23/12",
             "creator": "Alina Tysoe",
-            "avatar": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiG1m-AbUieyq0fsLI8nPzk3u55-yijkF9kHjCDrBT-NpLHJLjJyuy8cO2sAdOLRs8tGaD0XKDyHbA9Xa2M-05aL_yZBtWeT8-Lb4LUcOTjuLd6N-rvAvOzYn6d24woNcBlM-9ELjJreoNscPhP1_Q00bpKj5VEH9_iAUz30oG2kU6iqmx54EYqTEw5RZF6/s320/beanie%2000.jpg"
+            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AlinaTysoe/beanie%20001.jpg"
         },
         {
-            "imageURL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhl_F-BjMdrwU_HI5_r6VGozXRwQnYntRR0Oz4imd6hsYN4Jw27jM6WDuDCbf25uIL0Mv_Tns8jE5kV9ZEJswedRfYN2DMJhkr7qFhLivaAFXzVty9dw7JCkhrl7SIK8H5_EmhBqrtY2z49R4z0as7-mERFIyy64ySUO6tgftkmnNY4ck0io1dGdjyQWg/s833/JVS04.jpg",
+            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/JorgenVanSanten/JVS04.jpg",
             "number": "22/12",
             "creator": "Jorgen Van Santen",
-            "avatar": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgr9fsmHiA26mXKq6IQ0leFaThEXjUt3wEczgrfWM2dQRPqmw612LXQaRotTX4NX6aZItfRNyRc-UDfwDnvsjBL2rSFzqxDzE348i-7rLDv3sqelW5JBfgP0fzawbO0umfDydYudCgcS0lUeF38fQYQ5Nla3JQ4TjW5wnqE1auScPoYdCK8hXh6hNhCpg/s320/JVS16.jpg"
+            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/JorgenVanSanten/JVS001.jpg"
         },
         {
-            "imageURL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0CQ146I2woUpMUogRtCxS0J3nKL0CTUuloSRsHoRA4CxsBgMK8zCbSeHCRub9-9-5YTHt4In8SflCQ9E3eL9N6i-nxFzur_GSxKBL3KyGhiyVhI-XzHNDjMQXlD01c6N_KY9Q1PMAc5xqn5Dz7CpaU_qoP3sJYI3thjAuuBiAi9UEupL-D9BDeyKdig/s940/ML04.png",
+            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/J.L.Westover/ML04.png",
             "number": "21/12",
             "creator": "J.L.Westover",
-            "avatar": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbSM32MiYUTVopRNS2GpYJtm3LV1JXRs-mbvWkFGu3-7v4lg4rIjfmnyzQucH2xQJGMPFAymy0ewjoHiSiWJJWzTl9-zjjaufnFyHVjSC3j--AotGVzZMktPzevdlK7k22B7G8kqYP0uAen-R_ISER-7OsIc5DhUdHJu8oQjj0eih-SlusAduHmWoGpQ/s320/ML16.jpg"
+            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/J.L.Westover/ML001.jpg"
         },
         {
-            "imageURL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjnTBgmQcg1JKqXJsx8a7QbNemaacfXpe9ONjyXUSS_kVvVxwpr9GB8pMsoQ1zYXXxaaz73hoUoL3LVEnZY0rL_mOZpaIZLzrqJ1hnoKZHOeF_NzMgVv7svJBKshfbHNqwUNcnIwoTNSJ4MPCi9YiPBcV62ihBElk3ADCNF2nknQl7LjZfO7DZFf9gB7A/s1054/04.jpg",
+            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/ThaakirahJacobs/TJ04.jpg",
             "number": "20/12",
             "creator": "Thaakirah Jacobs",
-            "avatar": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgK_2kdryTzvZwhugog2RbI82lxdZHgjxt24zt-hJFLeNzwSWh79TPKvR3uY9J0M3rICQj2vMMOEWJRZ3psIl85MiI7PvVxjfNTl_ofMhLRDID4dbpm9J4lAFqq9HAAw5h1DCEKkzVlKxfsiwYGR4tEMjt2r-gkpPYyatSKoY5hrYdvECnygZifeIvemg/s320/author.jpg"
+            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/ThaakirahJacobs/TJ001.jpg"
         },
         {
-            "imageURL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2tuplIe0tcjEMVFlvHx_aUA4KLGzpS3aYGu6Z8goryreGmrGzp776p7oiz2rCX07p34NOuCZTf_C848Qt0oHZt2ySOMEKn0tOkYNbPJY0WWITmm23PC_vbS3BWY-CzaoXPIGsiv3FxFGu8KxITaSBLV17z96KfkupzI_sJP9-b8pWmNpxkFQ6fQ05KA/s629/04.jpg",
+            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/MikeSalcedo/MS04.jpg",
             "number": "19/12",
             "creator": "Mike Salcedo",
-            "avatar": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivnzegrUGqzkJHbKzf88RZmEuZvCmaCon9XRBr_a4bF0_eEYy-ZS4zYVsl4T0LtYGgIJhDbfa1hXqhJPcWvum8bJijy1lb7gLLRI84OTQ0R-8ntQADHLglr-6VdyWg6w-COpP0bFdlNX5kLCu-r2Fszch5uv-adLBFmQHpyGMCLItbM-FJ1U1FcDAiiw/s1600/avatar.jpg"
+            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/MikeSalcedo/MS00.jpg"
         },
         {
-            "imageURL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjSTteKp1vmpd7uqUCMOljuh2FKbx2e1lRKJWMb2f8vzhuSgbAg-TnkpMi8b4UOqy0BqVMbM3VrM6tma6lO-InGflHl8M6sVaLORFyrtU7rozGnJLxyt6id9t1wRFACwJmZ1yV_JEHPZ9uZKnTzAe8co_80swUqOzrbf5VqJ1kZtOtytePmXG45f3B23w/s1182/04.jpg",
+            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AstkhikRakimova/AR04.jpg",
             "number": "18/12",
             "creator": "Astkhik Rakimova",
-            "avatar": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjaaeuOIqVBlxAhpbF8083PsspyJkIGQhVFkhAAbDSAA_dCylPLNHTa_Z4bHa6EQG3rW8FP8v8dyHRRsHNFZAEtWD8LE6XpT0xj6_riAwYW2_RLgfXYtMCJKTjU_jj1neFR4bixaPWBV73eklkCYApJ-xEbaZAJ1dnwL5gBRmNsNupZimKrrRq2pySKLg/s320/AstkhikRakimova.jpg"
+            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AstkhikRakimova/AR001.jpg"
         },
         {
-            "imageURL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghs0ePgBO5Oke5Hpb4f2m9GwPI_eYX0nGbKmBE5Svvl0_DaPmV_JELrQqZZcJaVVNSNkyFi_LpDsZ_c1bjg4XMlrKwFFPZAO-VAHzTsx-gX0s2oOP26d_vefwmiRB2hYYMS4rXd-D8rYLOguSUVKzs7Tn0gT8iHHBt7UZkqEv1Dw4zH6EJ_J9EbccELQ/s630/04.jpg",
+            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/BrownPaperbag/BP04.jpg",
             "number": "17/12",
             "creator": "Brown Paperbag",
-            "avatar": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDlNOJm4f2yyH01MKFA7XG_5Ib2-i-IibNkW3FK17WV0n1qYog7MU8wpFDBicPlGbeA8ZNDSnRlYGnzd62zB_hIxLU9pKzKpvjT_Fj9RcA90MH6zy2rABVYdMhS6xlBiah83h2QVjIxQK-JaNdQNnVaagvM_tnDrrsjnWBLun9e1jyk4D_KXykVIYaAw/s320/Sailesh.jpg"
+            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/BrownPaperbag/BP001.jpg"
         },
         {
-            "imageURL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvQHvSETZ7kl2MmVuuKCUtxAeYAP8vIilHf6gNKUkgvAPVNXo4R3SKVporoErDrliiV8mLaI0CcxVVKCEEMwtHmnSIgPahxRh5-OuFHQeqjQEX0fPUNn25I_LWHGa_6Ci08WEt7k9QLNa0ww5rGvKTLaFx6RVRY3WNKr1YOASjqNIlVM11QELJAySUUQ/s510/sarah4.jpg",
+            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/SarahAndersen/SA04.jpg",
             "number": "16/12",
             "creator": "Sarah Andersen",
-            "avatar": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXRnVM10hBqOe-L1nBZ61dmkVhjbZGH6XCo_ieTd0szTVVSYb1tnGtFi8F1Jqb9MASVfVjHIXxXej3r91MKoaJbNj7HgAfPzC1eYPrgulqb-dZv01y_Yl3ZBPw-RvEbFyAy3ETDYHq-vy0ZsCkb0gvetCmDve961MnzOjnqtzdCMfNOrW7hXPXQx8bXg/s320/author.jpg"
+            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/SarahAndersen/SA001.jpg"
         },
         {
-            "imageURL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzjDa4MGZz3C5JHVTmUMXGAo2AJOMompMlC3A76pMdaJA2kpVWyLxLHbhz0JW5XV3x5DDTB-nxPN6FK6184BTpXvuKhmTvya7aaBA7N5xPYBsx5pmiZkib5Y2TCL7zNrET4hovbtny_42ozPz40xDgvinWHXNXkSbXZYLI3JCLM_AJ2vDSN4RHltQGHw/s717/04.jpg",
+            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AnnetPlanet/AP04.jpg",
             "number": "15/12",
             "creator": "Annet Planet",
-            "avatar": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtdXm5IbagvTAyTPQJTd1PWcN4H3OACAEcAerA6w7vaiRo2_fZFolFdvJhJ0hLdcRwasDaXozsmnKtEUIwO4QKWvE9Kvyrljt2RVCAUspBcxZVxvymoz3NnPshlADqxIRZsHteO_cHfOKr2uKdUlCkhWd1_zQyLVPPqH8YjzB4Cw9EvOnN6utn3RLPYA/s320/Annet.jpg"
+            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AnnetPlanet/AP001.jpg"
         },
         {
-            "imageURL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0Ox3ZpMt9J5jY1A5xzw9CdyK7AlMcEAlTlJcgFLUN4BpbUJK3KoxAoVqKNKSjh-CqmkANJ7Zg-4EIZJgtIWlWxGGid8rqSvBxxfLFEdddz8zeq1Hd5caK-iNSi5eK-JAiR1TQYzxnvkhBFOMzTWgWo0WNpG0rnHwKbYu4Y1ItLSozi2cm45zDt6SEDA/s700/imgpreview%20(4).png",
+            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AndrewHou/AH04.png",
             "number": "14/12",
             "creator": "Andrew Hou",
-            "avatar": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLwhsU-JJ6xmNysDyfPn_5nAsSWzE-mEXZ1qk6kATJAEh-goPMvq_b9bHT6e0VTgB97k7rWfgZh5JpX5vR9VauP_fezpTp2JORCKjslENHrEJztjnOKXKtKhwc_p3daLrwpfy7dSSaTetgsT6lPNuipk_gOAfCC2GxS5C7Wk7nUu5TqORJElCURdlpRQ/s320/AndrewHou.jpg"
+            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AndrewHou/AH001.jpg"
         },
         {
-            "imageURL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpFNCDsMeu2KBoxTHeVQxTB8LFSVqoZxcetD3hCKtxyTIwa_jW5HyPwkX0pLqWKGbeO57gs6Rq83ebgiTPK6tLlPFH25iSPfGsDxgWkIiOkHB9pCL4p0U1SRu3GYqz_HG062HtCf6RKXCdN6z_zvyV8mZBeOt5GnrAQk_8MpKhirzpWoX0xBEc2HcA6Q/s811/1549565245134870486.jpg",
+            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/CornelStefanache/CS04.jpeg",
             "number": "13/12",
             "creator": "Cornel Stefanache",
-            "avatar": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSHppDI7zFpVDF7QERj1soZ2fgDK0sgToWPNI841wr-RKhFSd0Yrqr67rX3oZ8OgLsKiCYyzud4ybHHEAnhPdiEhQ93cclK6dibBRsjWDx8f2UsuBR8e5on5lvolPHVWF02QA7YhanDBPoq-7ilNj0Y62-0-OTZ40yxu_UAm9efSeZBsHuqmeDTDBqqg/s320/StefanacheCornel.png"
+            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/CornelStefanache/CS001.png"
         },
         {
-            "imageURL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhI6zNNzs1AcYSFEYPnEd0OCVMY5tXNc4ECk7AXYNRx0UhOUrAVS_SfYqak1BbHFHE1Noil0bixGfp0wdRZlIucIJgtI43f6oh4NuQhFaJUMTHoQ4zIH6WT_PIHgUWUZqnW_nl3VvNo-3Un6kMAivwzxk63jk3USM96pFw2atYTDgEiBNWSFoQ3QI4LLg/s930/wumo4.jpeg",
+            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/MikaelWulff/MW04.jpeg",
             "number": "12/12",
             "creator": "Mikael Wulff",
-            "avatar": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEicjznyL04TJXvW7GrYmbD5o1blE1BiX7lX3WW9KT0wEWrnBSqwaz017fgAGmiWz2P9AY2ScPL9CIvTnlXGliib3e2lcT6fAGFdidgsCU-tjscedzBND1Oz5ddiB8xxyuZ85nJrGARHG84VhxYXp6PAuqt1iry9H15NJ1ryKWXDxtll3DfL4n4-6iet1g/s320/author.jpg"
+            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/MikaelWulff/MW001.jpg"
         },
         {
-            "imageURL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxrk2tvbVT6rW2p5v0mIZq9XBKdMDcNuiViL9GkoejuK5kmxImki9Z-govU9PR9axjgTTuN8uKvpFUDGdAn71F3fvp70ssuw8kp_Guxaltw09ztodKoaHSbSkK3HrspNe_GZpJPqkfDljYYAI8OLVrFjqMK_E7HWfSvlkj3LLiqdJBxl5TbSdIl-B-XQ/s835/15911619.jpg",
+            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/Crocodile/JK04.jpg",
             "number": "11/12",
             "creator": "Журнал - Крокодил",
-            "avatar": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFIY4FPaw1cTnT6dSAPQUsIQTQ2T832eOCBAxfufTdbJG_mZ_JPVbVz1ytlJe-57c1w_tPUie49rvrCmfyF4RO_wtETIwMsZZN3cvj49eLhuWxFZFiP2KtpD6ll6FkI-K2r_YBatp1OC1FPHfdGhLgY6-JZYcyZ0DohYN_X4Izuh1Fr5lIzXCBsiispg/s320/%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F.png"
+            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/Crocodile/JK001.png"
         },
         {
-            "imageURL": "https://blogger.googleusercontent.com/img/a/AVvXsEioE7EcrPLmY0xzT4ps_wym88SxHAaHHXfaxHUtXxJX0ZqymsxVncbJZ0HaqVdGTs2hoOSFNmyHyJaNk7i8gtW0FiRCSS-hXWi95WYm-XoOJ3Wjoii4z7nLU67tVZv1ZMfTYWDbPFt02c8IHLsUXAy9K32W4qMx_wrgJIMluwKOBYdCOfPGOA1kTlh_jQ=s1080",
+            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/ValBun/VB04.jpg",
             "number": "10/12",
             "creator": "ValBun",
-            "avatar": "https://blogger.googleusercontent.com/img/a/AVvXsEi6e7xOQVNtQQLFANOgW5H1pgDC1n6do1BHlSTef90cyRY9eWm9DnenPVztfeH6xq3CqcWfaylW1JXKiUTWpYcfkouB_98fmw4BzLelKJ6vQXm-CxavOwjgUW7F8gKdKHb-ALoheBnlnt06yEZOnGm8BMAR-JWBjVEABC6gpfT2cQJijI_j2iTK73V9VA=s320"
+            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/ValBun/VB001.jpg"
         },
         {
-            "imageURL": "https://blogger.googleusercontent.com/img/a/AVvXsEhCH7PsfHp_gRn9tGIwmmsl0zdrooWg5iQo4ikw6IZzO0M_N25kyP7EJjVbPSYJYufmut3WeqSVWIFClVahrX84KBMK-giYvBmXzXSjSlRlO6Lf7mFmvGqbgmgIC9DepfUf4Om2VPWOhQaa2awl2BikIP2RUtrKjaaBTdQmHGk8VQzFpWDQkgs9SdHqDQ=s1080",
+            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/BrandonJ.Santiago/BJS04.jpg",
             "number": "9/12",
             "creator": "Brandon J. Santiago",
-            "avatar": "https://blogger.googleusercontent.com/img/a/AVvXsEiI3B1GSuA_4Bg5ElJZSyU8N0ONiCkwOiy9A3dtTx_ZDB_X0aw3y0PPM9ZqpoYAdyBcn7uwbC8yGpBPkvNiIFHKrKrRjklb-RRa_VJs7byRxV7xSE7ARcFWahRz3X7TMyxESJZJz3Gk6Slbaf4QMHTFowBBsL_XIMINY3TRkH6vLPwLw-S2MOLFlBPq3Q=s320"
+            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/BrandonJ.Santiago/BJS001.jpg"
         },
         {
-            "imageURL": "https://blogger.googleusercontent.com/img/a/AVvXsEiH_nJge8CP-zU-HRAVTr3-fcksayujGutvhPVd-gUGyhwGBYz841tV9FFsyIaLvp7-YkjVR7j7UZJ142CvCELhtl1Wcs0CPrgec0SByDOLVmKfAu1BvOmt8Rq5o6IB_1NIL_6jDxBjf1aX7V0E4zfYfFalQ5XG8qKVPL0CEkRANWzXb1NMsjtY5LqtyA=s875",
+            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/JoshWright/JW04.png",
             "number": "8/12",
             "creator": "Josh Wright",
-            "avatar": "https://blogger.googleusercontent.com/img/a/AVvXsEiVCEB7n9KcnVyfM_V1z7aPwhkaYp8ZGqOC7J3jvUoUZ-T6sL-DxeL8FKOLRzgzVPRvPCKL3eNB0_nwaSj6cjAfHZLfK-yrdh4iAqPWwCH3r5-ofEYT2yDIlK-qSYJG8aceUNjzc3s91S8zwQkHnLT94hVQPyfiPJ1FTCU3jnapd6gSWtY9-vFW0YbhbQ"
+            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/JoshWright/JW00.jpg"
         },
         {
-            "imageURL": "https://blogger.googleusercontent.com/img/a/AVvXsEjGxWnCv3J7WVKNz2TMOCXJflEoAIrsWDySEe8qEzZRwtvLtMxD5kFHZvJ9G8f49zJwpd-D39mWXeD-wLa1qzvIhV6Z0atOX6UXvA2kcWJSzmqxSqPOKpTqcgquzdyC_TPVPBOuojyFBncUUQtTDly1UlmvG34juHtpoN0oB69zB6YN7vbsmUpbKqAc4w=s640",
+            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/RobertAdler/RA04.png",
             "number": "7/12",
             "creator": "Robert Adler",
-            "avatar": "https://blogger.googleusercontent.com/img/a/AVvXsEgO2jGuy4O3mCIH79tU0_x4ANDSVIQ0YvPStSwM3_UkTNojJcVlzrRhFPRAjHp3XUM-yvEylBmahxIfKXhAxK-Yc4ZtUQSsb1Hs5DgbiMzzfpsjDALOQdw0cZ6QbplCpy4qFc3D_H0AmO7ObmejZ4aQ9VbohyfXCO2gbzDm8EzMWbQIi5HFIjpW8QtmPw"
+            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/RobertAdler/RA00.jpg"
         },
         {
-            "imageURL": "https://blogger.googleusercontent.com/img/a/AVvXsEj9r5-fDu07aF4LnesqaTOA6MTzW5k_-4nD1ZLtWgQc8VfDZAVnJSUEHfIOKmhCY6Hg-vgGN6kZWfZTV50CqGxomLKDYkg_y0v1XICBJ5Lj2bRG7YPAtdABlFLGqDwocbXdLZ2ZFwD9FKbcOgcSBuvbDHprItgeCTpgHmT2D4guJXXl51k3kRrGa2_Cig=s1011",
+            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/ZToon/ZT04.jpeg",
             "number": "6/12",
             "creator": "Z-Doodler",
-            "avatar": "https://blogger.googleusercontent.com/img/a/AVvXsEj_ErlByF6KmTdTzzTwfBaxSVpdXGqiRlTabmrmGAWo1aj7NS7imffyucGad7F_thee7FUBaCot6t5QloSDoorgLo4-1C7UEtNnmC_AkciqYaUkj2J4mVupYxZc2HIXCZCTw7hfMk9Jt1GaZ--tzbq_YMSqNU4ejt23lc1KpChMdKzYljajgp2fHGQtCA=s320"
+            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/ZToon/ZT001.png"
         },
         {
-            "imageURL": "https://blogger.googleusercontent.com/img/a/AVvXsEhIhQQxQSLLDrcSrYBfdi43bqD8UvI5pTtoMyekvQkSt9TVpsaNkdKMVVlV6U7XAmmnYp4L2-P0RTr-g3tTeZuBeHPXvjqCCKc-ffuX7tr_VH9fi1Estq490WCAbdIU6N5cOeonYno4dnAwSjEyinLvHptRH0NpMhFFugu2rOd6Tz4tV5k40XzEfRrGSQ=s1029",
+            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/YehudaDevir/YD04.jpg",
             "number": "5/12",
             "creator": "Yehuda Devir",
-            "avatar": "https://blogger.googleusercontent.com/img/a/AVvXsEheFVWvNhv-ddggJPGn_Bsu14mEGi9eGQfrda-BFJoLj_JqjBwxhQNBbeWHMrroarNbzjn_2vkhjMAVtZmFPQju-wiHmN7IvsLOM_TxpFwv8vJ2gwritaozSqNCKWv9LDYyewOpJxY--RyDoikc_7zh1KXGC2rDduiJIrVTt_67lpk-gfIDQvqsPLM7fQ=s320"
+            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/YehudaDevir/YD001.jpg"
         },
         {
-            "imageURL": "https://blogger.googleusercontent.com/img/a/AVvXsEiBfc2gepIqOrSdDUD0LRXUFUx4EKKFhneu_r5r1f34hKhOOf0cqGqu70KGDtnxUR1YYWFhrJ7nZcTzpSqVkHvHlTdEEhb_BXuJeKHcj60uIwZ9aXbwXB34rOxi8gFiHMpq61GX8Ryl7CmnEAhTApWn9ENHJ3LYQOPjQuvx3BIHAKoi-XTUH5Nd-SEiHw=s728",
+            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AriStocrate/AS04.jpg",
             "number": "4/12",
             "creator": "Ari_Stocrate",
-            "avatar": "https://blogger.googleusercontent.com/img/a/AVvXsEi6HKBRye_sZLKHB1g37b1SD4ECZ_RBON-5dZf2BF6R2NYKc8tYQje6mh0TtRuionQR5Ic7Ttga0NbSnMKzmF7m1PpniY4Hs7BTiguaHFbEevcUOI5tWGHgCEXnZ_Oqi6D-r2v9uDEujA3mITBUIUb0Zlzlg9cUSRjSKgXm9PHkBxzORgmSbxYFAcoY9A=s320"
+            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AriStocrate/AS001.jpg"
         },
         {
-            "imageURL": "https://blogger.googleusercontent.com/img/a/AVvXsEhb6P01mvwEpUquEGJQSmkBqnbj7pX8xCQUcyjGMpBVJBQKjDFGP6MSK7gaIoZJpAEBfn_CiO_sU5qgdomLlMUg12svaFyoCOEfFNeEWsPnkJ3q4iUAtdE2QZK7xA_uIKi7Gqn6CNV9rHH3cBXOOqBhWZPT4uecGj6AD51vjTK2YEuD4US0naRB0EZfBA=s639",
+            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/LiseMyhre/LM04.jpg",
             "number": "3/12",
             "creator": "Lise Myhre",
-            "avatar": "https://blogger.googleusercontent.com/img/a/AVvXsEgQNaMYnoh0Yd5HymFhJThTjD2hu8Tbo3Qd1ScgHMYH6HNTMAvZ0f3DAvGzoOyWbLqlUpDjzzM19PcnCupOc7xg8ehZ0mttpQcatQOrYHlY-Y_AT429vCDTB3poQgOar9djyJKXYZo58Ys0_NFGE84aHxPbBCgEFnI5GLhyUQMRVd5v2cm4w6EQ72sBNQ=s320"
+            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/LiseMyhre/LM001.jpg"
         },
         {
-            "imageURL": "https://blogger.googleusercontent.com/img/a/AVvXsEjF_GYUYYEmJg9H5JUrVYEbvP3e52UwydDG2RR2De76Perv0riy79XaANG3TFN_cUXMHNhqiyH-snr-AEWoS5ESPEbLPZlkUP_g2mTeuYZ_v2YlNgbb4MaXe0pe7DthEm9K4O5XukhxVJXNtdfX2-puDRO0H8o-gVZmT8PbtHS_MTZDWctiGOoqsjK04w=s504",
+            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/OlegKuvaev/OK04.png",
             "number": "2/12",
             "creator": "Олег Куваев",
-            "avatar": "https://blogger.googleusercontent.com/img/a/AVvXsEiv3vu3zBopdYyKuoKCd4thfpZbP0vGOxFxp5XSNrwyEKJWtS9_jP_cVuL03JCM4PcKIqePt-s68wN1vSVT68KB54s5JEZZsH7FZF3rriyGjyweVwpu4CwAs9R_dI0HypQw4AQgO9B0gGDJ_UFdeV6ir9dEUOLCaIZ1aZhrYBbHLYfXrMkWiMA8kpglgA=s320"
+            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/OlegKuvaev/OK001.png"
         },
         {
-            "imageURL": "https://blogger.googleusercontent.com/img/a/AVvXsEgSK5UmYAzhKdKedMGPT1ulJfNtXlMVCmgWnHwyoX-qhU3UmHQmEz-r_uKgC9JR_Cof37oF7lGem9pX_I-tBZUoFUnM4OukFjM8AVsipR94Zr76VaAbufYPqWcPiAfTLL_C_QuGRmHd3lC0OHdb36WMmd3Aa87Wwbm5IDTAiRcGq8Q5CbFp_yuRdzbzmw=s1046",
+            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/MattTarpley/MT04.png",
             "number": "1/12",
             "creator": "Matt Tarpley",
-            "avatar": "https://blogger.googleusercontent.com/img/a/AVvXsEgf9V_6SrqRsKIdzZDiM8b1i0kHBGoRJZJXM7BJ74HrwW7NWgYFMfenUY27DpuP5KQp4tSRVHKB1nbdULyzcDhkbFrcG445taEaMWCYVBCP4CzE53lt3aeidHEn84CBYrmJuXEIBMhnSOa5QOQAkM9RGffqc2tDlIfeNqt7zpREQUFGJPWV7WP7hTqDBg=s320"
+            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/MattTarpley/MT001.jpg"
         },
-        {
-            "imageURL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjs0nCNl78i5nubqg7Nhbn5W9I4GPl3Iz9x343WgXt_oFwnzY84EjUXUJ9oMdYsIdt9xKVj4Yv5xV9vdPlmAa5MHeRuVWLsqXV8ogMRT2gH7s0Nh4Z1Zy9WSCnry5deLm_IbyNnIeQ4-ObR-0jxqhE5CMs8qfqA6-kQ74V8f7bD6NO0WffkTmkqluBnN929/s1024/Adam%2005.jpg",
+		{
+            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AdamEllis/Adam%2005.jpg",
             "number": "24/11",
             "creator": "Adam Ellis",
-            "avatar": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_H5fpsJENTb_rh0fDflo3GMVSXXabElVOxGmYkJ-rySfcKhIdqvPVvew-GBp68zrLJUMQDyt702d4SkqJsxIZ-uOUSmHQYXD9XTl8eHjHYEK5ofn1hhWKHPuw6SoEenjmUN8jPKFiuSgoqyeOunWoIAiyjcf2u6FSga9Bg60_hLcaWycsPdk-J1p9A_JI/s320/Adam%2000.jpg"
+            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AdamEllis/Adam%20001.jpg"
         },
         {
-            "imageURL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhFBF0k9PhGBPQtKeIxoAetcgNKbXjt_8Bk9Wt_wCa_IR-Iyq8RwpS8G1YzWuL6MT7GUI_KmOh_gNl4jcRxPgXWYNbLivb91UBMvtsBfy6RuAhDibcdUSpLTjVvITpULrhe_5huFwrUJJZb7F3AV5KGZ6au0GfcIOotSddNEaArXizsj6F2EtMleQ2tp5OH/s2174/beanie%2005.jpeg",
+            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AlinaTysoe/beanie%2005.jpeg",
             "number": "23/11",
             "creator": "Alina Tysoe",
-            "avatar": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiG1m-AbUieyq0fsLI8nPzk3u55-yijkF9kHjCDrBT-NpLHJLjJyuy8cO2sAdOLRs8tGaD0XKDyHbA9Xa2M-05aL_yZBtWeT8-Lb4LUcOTjuLd6N-rvAvOzYn6d24woNcBlM-9ELjJreoNscPhP1_Q00bpKj5VEH9_iAUz30oG2kU6iqmx54EYqTEw5RZF6/s320/beanie%2000.jpg"
+            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AlinaTysoe/beanie%20001.jpg"
         },
         {
-            "imageURL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgh4CMTXQckG6-Z8C5yoAXNYDJbrSfUpLwyMSgX6jEKW-J202cq8s9v8uWwxlTN7xmYeIJyL9L9WTIwE4Qrzxd97pjOa9GJybTmQZXAhBSdjlYj7AtcYRtEh9ade4DY4mQNBBg9ceju8h--p5uWkfftgMvyCD8LnWOrU3lmuqWnVT9bKCAbJ9k4JAsW2A/s805/JVS05.jpg",
+            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/JorgenVanSanten/JVS05.jpg",
             "number": "22/11",
             "creator": "Jorgen Van Santen",
-            "avatar": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgr9fsmHiA26mXKq6IQ0leFaThEXjUt3wEczgrfWM2dQRPqmw612LXQaRotTX4NX6aZItfRNyRc-UDfwDnvsjBL2rSFzqxDzE348i-7rLDv3sqelW5JBfgP0fzawbO0umfDydYudCgcS0lUeF38fQYQ5Nla3JQ4TjW5wnqE1auScPoYdCK8hXh6hNhCpg/s320/JVS16.jpg"
+            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/JorgenVanSanten/JVS001.jpg"
         },
         {
-            "imageURL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQ_7q7EVhfJfqXCVFRhHqhXjQmVIB8o49RGCzmloBM_WO6M5kXvKL-i_hCXFycEWis6S3mArH1CSh36jT-kHyjppJX1d884qMandH8hacDWlzderFJwLZf3XvB9esY8_deZpw8YJvKvfweBuGPaV_ddbkTMpap6Y33F57-ik6qeYEkZvcgCzflCtGfOg/s725/ML05.jpg",
+            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/J.L.Westover/ML05.jpg",
             "number": "21/11",
             "creator": "J.L.Westover",
-            "avatar": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbSM32MiYUTVopRNS2GpYJtm3LV1JXRs-mbvWkFGu3-7v4lg4rIjfmnyzQucH2xQJGMPFAymy0ewjoHiSiWJJWzTl9-zjjaufnFyHVjSC3j--AotGVzZMktPzevdlK7k22B7G8kqYP0uAen-R_ISER-7OsIc5DhUdHJu8oQjj0eih-SlusAduHmWoGpQ/s320/ML16.jpg"
+            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/J.L.Westover/ML001.jpg"
         },
         {
-            "imageURL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtZPDTpNzagFFLMoNvIKg1pZq35aIHWY9EINf6fCow1uqL3jfwK2nx-JWX7Fx2BM99F8jvxMfzVd6JhJB0Uur5jEx1pnHgyUC6Acpg1ymrYtHubFstw_MEVWKsZWjpKrMg6dms5BTdpfUaEbVek3K55u6habcDU3MDi853XuttvjIMrBG9BJOqOptAnA/s630/05.jpg",
+            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/ThaakirahJacobs/TJ05.jpg",
             "number": "20/11",
             "creator": "Thaakirah Jacobs",
-            "avatar": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgK_2kdryTzvZwhugog2RbI82lxdZHgjxt24zt-hJFLeNzwSWh79TPKvR3uY9J0M3rICQj2vMMOEWJRZ3psIl85MiI7PvVxjfNTl_ofMhLRDID4dbpm9J4lAFqq9HAAw5h1DCEKkzVlKxfsiwYGR4tEMjt2r-gkpPYyatSKoY5hrYdvECnygZifeIvemg/s320/author.jpg"
+            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/ThaakirahJacobs/TJ001.jpg"
         },
         {
-            "imageURL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOO97XylwEmWllquw9v7egT9g5UhD-6Ina_KblZXE5-CeyCLF_yDasN9a11aQEnZaknAD9GZLJ4TNsWlffXAdRqrtcJnIy_riqaA_lGXgWkJS5YGxUMWk1uW6KKg81Qm-QIj9nNRLYOa0hOOdtnlFLQxt7aRIZGWMR-7DM7ZX6uyh_JWgfBlOkLMdY0A/s925/05.jpg",
+            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/MikeSalcedo/MS05.jpg",
             "number": "19/11",
             "creator": "Mike Salcedo",
-            "avatar": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivnzegrUGqzkJHbKzf88RZmEuZvCmaCon9XRBr_a4bF0_eEYy-ZS4zYVsl4T0LtYGgIJhDbfa1hXqhJPcWvum8bJijy1lb7gLLRI84OTQ0R-8ntQADHLglr-6VdyWg6w-COpP0bFdlNX5kLCu-r2Fszch5uv-adLBFmQHpyGMCLItbM-FJ1U1FcDAiiw/s1600/avatar.jpg"
+            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/MikeSalcedo/MS00.jpg"
         },
         {
-            "imageURL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh18oPLV2eOF5Cvezc5wRgk3T0hVG_sbLt_v2sakcJYTm7uOp8CCzGvS4_Lcp27ctvv0ACDpYiw1_1x_nHxM_9L6nHOwRvVQuiQLW8NLdzgkyQPtO2O868vBBeRVTwcp9FDi7Aku_yYwFIVqOqCDzIMOJVzyHrbnYW4AycK_tFVlS9JXayjL8JWywC6aw/s787/05.jpg",
+            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AstkhikRakimova/AR05.jpg",
             "number": "18/11",
             "creator": "Astkhik Rakimova",
-            "avatar": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjaaeuOIqVBlxAhpbF8083PsspyJkIGQhVFkhAAbDSAA_dCylPLNHTa_Z4bHa6EQG3rW8FP8v8dyHRRsHNFZAEtWD8LE6XpT0xj6_riAwYW2_RLgfXYtMCJKTjU_jj1neFR4bixaPWBV73eklkCYApJ-xEbaZAJ1dnwL5gBRmNsNupZimKrrRq2pySKLg/s320/AstkhikRakimova.jpg"
+            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AstkhikRakimova/AR001.jpg"
         },
         {
-            "imageURL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiA-mEnR7JSiwioxoCoiuWQJW_RBX-TB3A3Fgo4zT5SyVDRvUBKNwYvr71Zvqk3H--xaBbovOrxaH8Pavc_ihVzC920rrEXUg66ts6Vaj6jXLp_k-KcmpBniq-Fv3fzqizFd6lS9wXjBps3dDE0dFE2uXtZse4BLsHPajF6yDbKQhysSt1kWsCDqYxIfw/s630/05.jpg",
+            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/BrownPaperbag/BP05.jpg",
             "number": "17/11",
             "creator": "Brown Paperbag",
-            "avatar": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDlNOJm4f2yyH01MKFA7XG_5Ib2-i-IibNkW3FK17WV0n1qYog7MU8wpFDBicPlGbeA8ZNDSnRlYGnzd62zB_hIxLU9pKzKpvjT_Fj9RcA90MH6zy2rABVYdMhS6xlBiah83h2QVjIxQK-JaNdQNnVaagvM_tnDrrsjnWBLun9e1jyk4D_KXykVIYaAw/s320/Sailesh.jpg"
+            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/BrownPaperbag/BP001.jpg"
         },
         {
-            "imageURL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6zW3i4N2kTeRlX5laHajNU5hq0LHC-yP9bQDfp77YIqGSX6PycSQXUrxgfn2sP_9UNxIwVt_iWUQFTHophD6Xh8qOWbJaMfPeJsc1TBIWB84sXlUVI_51P3C7zuq3K622oKutGWfe8i45ebz8ItIX4o-Q4YBQT4pDD24eCQZfG8o9NR8KXkWwwTZOdg/s515/sarah5.jpg",
+            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/SarahAndersen/SA05.jpg",
             "number": "16/11",
             "creator": "Sarah Andersen",
-            "avatar": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXRnVM10hBqOe-L1nBZ61dmkVhjbZGH6XCo_ieTd0szTVVSYb1tnGtFi8F1Jqb9MASVfVjHIXxXej3r91MKoaJbNj7HgAfPzC1eYPrgulqb-dZv01y_Yl3ZBPw-RvEbFyAy3ETDYHq-vy0ZsCkb0gvetCmDve961MnzOjnqtzdCMfNOrW7hXPXQx8bXg/s320/author.jpg"
+            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/SarahAndersen/SA001.jpg"
         },
         {
-            "imageURL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiXYzTLRgXOPjk72ELGGzixxmhrHFualw-b4trQo0Hl4YQ8p5fuhhk1JTTBaog0221SNVqzELovFiLjGbvptoJwSIvfeh1YxYEUSeDNMpAV0OhasvUFLwGq05-vund0d2TzpryNQCKHfGFzJzHv5l5fBZ0askUom8J8BPX3eN3j0JWCahGNf5LJ50gE0w/s630/05.jpg",
+            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AnnetPlanet/AP05.jpg",
             "number": "15/11",
             "creator": "Annet Planet",
-            "avatar": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtdXm5IbagvTAyTPQJTd1PWcN4H3OACAEcAerA6w7vaiRo2_fZFolFdvJhJ0hLdcRwasDaXozsmnKtEUIwO4QKWvE9Kvyrljt2RVCAUspBcxZVxvymoz3NnPshlADqxIRZsHteO_cHfOKr2uKdUlCkhWd1_zQyLVPPqH8YjzB4Cw9EvOnN6utn3RLPYA/s320/Annet.jpg"
+            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AnnetPlanet/AP001.jpg"
         },
         {
-            "imageURL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPUcgW76ECTMCskiSunREY76BnRHQhbCpp4IU3QYEHoHG_VhmsQQ8g-5mWdnDq10xFttU8Yp7bU78cjsmpuHyunAf4QkQ8449VBXG0w64vyJQuS-4ZQOq5qNDALBNqYj3emNXc4tIJ6PBXGnksammmZ11xawgiBLFEXmC1_is6h9MiWZSTDlQtXyBCSA/s700/imgpreview%20(5).png",
+            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AndrewHou/AH05.png",
             "number": "14/11",
             "creator": "Andrew Hou",
-            "avatar": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLwhsU-JJ6xmNysDyfPn_5nAsSWzE-mEXZ1qk6kATJAEh-goPMvq_b9bHT6e0VTgB97k7rWfgZh5JpX5vR9VauP_fezpTp2JORCKjslENHrEJztjnOKXKtKhwc_p3daLrwpfy7dSSaTetgsT6lPNuipk_gOAfCC2GxS5C7Wk7nUu5TqORJElCURdlpRQ/s320/AndrewHou.jpg"
+            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AndrewHou/AH001.jpg"
         },
         {
-            "imageURL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivqpVPTmbdbaYoJ0oATJX47rKry2ek2CynvfJujvBU4_-U-TGu6kO5FoKwdXv3WZbn9gjfS4MVMhnjuJwovEFBt-9CuJKwb02GxKyRoGCozmn-t7PLr_sbDt72qDPy6gLP14G3Wcomrx2kJeDBJPyyLVg2bQWRMKRq6iI-7qIGjVzF8b29jU1l3Ul_2A/s894/it-%D1%8E%D0%BC%D0%BE%D1%80-geek-monkeyuser-6643665.jpeg",
+            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/CornelStefanache/CS05.jpeg",
             "number": "13/11",
             "creator": "Cornel Stefanache",
-            "avatar": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSHppDI7zFpVDF7QERj1soZ2fgDK0sgToWPNI841wr-RKhFSd0Yrqr67rX3oZ8OgLsKiCYyzud4ybHHEAnhPdiEhQ93cclK6dibBRsjWDx8f2UsuBR8e5on5lvolPHVWF02QA7YhanDBPoq-7ilNj0Y62-0-OTZ40yxu_UAm9efSeZBsHuqmeDTDBqqg/s320/StefanacheCornel.png"
+            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/CornelStefanache/CS001.png"
         },
         {
-            "imageURL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXXkAlgvZh8jpfdZ4FoLeLx70eQ6DwQMjG3D9QVbHWhQxaFgfiP7VitQBCwk5K36O4nP-XUB0jTUwLqWSjxPS_dSBc8U27PLbZWECFiMCOoyuhqpOODI-hjuTiAqz32ZM0Tv-Jn54ex3iNCSsv8NA-Vwck2DH7UAOY1AA2jzO1RRsrXxhGinhFidsFOg/s930/wumo5.jpeg",
+            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/MikaelWulff/MW05.jpeg",
             "number": "12/11",
             "creator": "Mikael Wulff",
-            "avatar": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEicjznyL04TJXvW7GrYmbD5o1blE1BiX7lX3WW9KT0wEWrnBSqwaz017fgAGmiWz2P9AY2ScPL9CIvTnlXGliib3e2lcT6fAGFdidgsCU-tjscedzBND1Oz5ddiB8xxyuZ85nJrGARHG84VhxYXp6PAuqt1iry9H15NJ1ryKWXDxtll3DfL4n4-6iet1g/s320/author.jpg"
+            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/MikaelWulff/MW001.jpg"
         },
         {
-            "imageURL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2xEJdjyU-bL1I8fTtsPKnHutu_wosk5vCgINb5QKJTiIWfe6ZbnTSu-e9__G7N_c6ZfhuZcRFnMDE3fl6dlAP92Nf1Qt-A974F3vhJPYiReS07D5Ultnz-PJms57vzkT9JvASdLjIts3IWSIVfrvGhj2Qeh6HCqdykKjULD2QtYY8XTsXinG5n4EaGg/s800/d143487af265dd6ddd6a98ed9f07d695.jpg",
+            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/Crocodile/JK05.jpg",
             "number": "11/11",
             "creator": "Журнал - Крокодил",
-            "avatar": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFIY4FPaw1cTnT6dSAPQUsIQTQ2T832eOCBAxfufTdbJG_mZ_JPVbVz1ytlJe-57c1w_tPUie49rvrCmfyF4RO_wtETIwMsZZN3cvj49eLhuWxFZFiP2KtpD6ll6FkI-K2r_YBatp1OC1FPHfdGhLgY6-JZYcyZ0DohYN_X4Izuh1Fr5lIzXCBsiispg/s320/%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F.png"
+            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/Crocodile/JK001.png"
         },
         {
-            "imageURL": "https://blogger.googleusercontent.com/img/a/AVvXsEj8M9xCIN2q1GMj6PBZkp1LB7aDF-aZgsaiKwWtAukuJbZfHu7R4LQeLrre4Ho1EHblSiNMZVEEIDHzcgfpNB-qjVeJn_xthCi3dGmnwNVAN4ZLnnoHO77Or66-2LjNyfIpunIbItayXlfsj-vSdFizw6mpWTOamQ-bfj1VpSs_uoLBm-VEGpTsV68mwQ=s1097",
+            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/ValBun/VB05.jpg",
             "number": "10/11",
             "creator": "ValBun",
-            "avatar": "https://blogger.googleusercontent.com/img/a/AVvXsEi6e7xOQVNtQQLFANOgW5H1pgDC1n6do1BHlSTef90cyRY9eWm9DnenPVztfeH6xq3CqcWfaylW1JXKiUTWpYcfkouB_98fmw4BzLelKJ6vQXm-CxavOwjgUW7F8gKdKHb-ALoheBnlnt06yEZOnGm8BMAR-JWBjVEABC6gpfT2cQJijI_j2iTK73V9VA=s320"
+            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/ValBun/VB001.jpg"
         },
         {
-            "imageURL": "https://blogger.googleusercontent.com/img/a/AVvXsEiFM5_zbs33UGKVsrHi6HcqCZ1BvykqhgpwW1HI0yF1IwQXc1WU26dMh9dL7SaEtdglCDmW13SfkIVgVyNhzl04g9Zq1WvqN3YVPJdmRanManmaO0xIyXjHUn0R4zcjZ11W03IBrLb6SXX9k2YWkc0mu2TpuhIn5APFaE68iRnWQIfgwOp11NgqE4UGSA=s1080",
+            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/BrandonJ.Santiago/BJS05.jpg",
             "number": "9/11",
             "creator": "Brandon J. Santiago",
-            "avatar": "https://blogger.googleusercontent.com/img/a/AVvXsEiI3B1GSuA_4Bg5ElJZSyU8N0ONiCkwOiy9A3dtTx_ZDB_X0aw3y0PPM9ZqpoYAdyBcn7uwbC8yGpBPkvNiIFHKrKrRjklb-RRa_VJs7byRxV7xSE7ARcFWahRz3X7TMyxESJZJz3Gk6Slbaf4QMHTFowBBsL_XIMINY3TRkH6vLPwLw-S2MOLFlBPq3Q=s320"
+            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/BrandonJ.Santiago/BJS001.jpg"
         },
         {
-            "imageURL": "https://blogger.googleusercontent.com/img/a/AVvXsEicHXQqWbK0a6g93CzzdOpcXrCjNXofkT9OCDvMnPgj4lT34p0rrCdPsSrpAWe3WWrlX-Uemzv2MptV8MLeGW2-758oHoFIYCjY-fKxRCqJXrPWU9rX7t7G_hgpEg3HyVSYFdT-CkGzKSHqzYgTrBHzKZ3LEMEhdOioALPnrAtZ9bdOZSCymxrWp-nx2w=s1080",
+            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/JoshWright/JW05.jpg",
             "number": "8/11",
             "creator": "Josh Wright",
-            "avatar": "https://blogger.googleusercontent.com/img/a/AVvXsEiVCEB7n9KcnVyfM_V1z7aPwhkaYp8ZGqOC7J3jvUoUZ-T6sL-DxeL8FKOLRzgzVPRvPCKL3eNB0_nwaSj6cjAfHZLfK-yrdh4iAqPWwCH3r5-ofEYT2yDIlK-qSYJG8aceUNjzc3s91S8zwQkHnLT94hVQPyfiPJ1FTCU3jnapd6gSWtY9-vFW0YbhbQ"
+            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/JoshWright/JW00.jpg"
         },
         {
-            "imageURL": "https://blogger.googleusercontent.com/img/a/AVvXsEiTf9yhD-xCzFIg67fqH4T0uM7-q9qYNBBcxBHql6cPNYA1DX8417sAwku0Lja2F863fbvul4ehY-yuTNHZj6jujnpcA3dFZ67pkvZerFKEHAPazs8OTDrXIWw46EHd3g8iNgJ6OYbe8pl7rrmJCyr2O6JVENRI8Yj5938Flgvs5I8xKkN-VJS1w-jOQQ=s811",
+            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/RobertAdler/RA05.png",
             "number": "7/11",
             "creator": "Robert Adler",
-            "avatar": "https://blogger.googleusercontent.com/img/a/AVvXsEgO2jGuy4O3mCIH79tU0_x4ANDSVIQ0YvPStSwM3_UkTNojJcVlzrRhFPRAjHp3XUM-yvEylBmahxIfKXhAxK-Yc4ZtUQSsb1Hs5DgbiMzzfpsjDALOQdw0cZ6QbplCpy4qFc3D_H0AmO7ObmejZ4aQ9VbohyfXCO2gbzDm8EzMWbQIi5HFIjpW8QtmPw"
+            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/RobertAdler/RA00.jpg"
         },
         {
-            "imageURL": "https://blogger.googleusercontent.com/img/a/AVvXsEjmTD3uvFcRpJF5fzpeCNEgT-a5Tz4cSC3fUzNQ0odbgnjhazf21wBPxf-aWa3nJd81-wCkO0Ub0wFWkzSpEtThnYcR8HXQYEKhMC6S7okaBX0TD3iAzJhfi_Z9Kfhgmia6PCdwRUohBmx6PspX_M5MOA4hqYYcTABBS5NG5xNLLkbZXK0m9XZv24QEYg=s1011",
+            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/ZToon/ZT05.jpeg",
             "number": "6/11",
             "creator": "Z-Doodler",
-            "avatar": "https://blogger.googleusercontent.com/img/a/AVvXsEj_ErlByF6KmTdTzzTwfBaxSVpdXGqiRlTabmrmGAWo1aj7NS7imffyucGad7F_thee7FUBaCot6t5QloSDoorgLo4-1C7UEtNnmC_AkciqYaUkj2J4mVupYxZc2HIXCZCTw7hfMk9Jt1GaZ--tzbq_YMSqNU4ejt23lc1KpChMdKzYljajgp2fHGQtCA=s320"
+            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/ZToon/ZT001.png"
         },
         {
-            "imageURL": "https://blogger.googleusercontent.com/img/a/AVvXsEhMqXsyCjyBbP5pJ9jXDVVwRoJelbTQWOV_nk_h50szbBGamx_u1ZHXaCBa98wGw-Hosr9ik2XnrAC23-BX_nW215lNun6aDlPMWgtoUfveYuhqOdMKjEVNxsV0llsDUzu93es4AeysrJgHcNoDdBpzPbAcxiy-L8u-LQarFSppYt4lHw8H8N_1T96A4w=s1028",
+            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/YehudaDevir/YD05.jpeg",
             "number": "5/11",
             "creator": "Yehuda Devir",
-            "avatar": "https://blogger.googleusercontent.com/img/a/AVvXsEheFVWvNhv-ddggJPGn_Bsu14mEGi9eGQfrda-BFJoLj_JqjBwxhQNBbeWHMrroarNbzjn_2vkhjMAVtZmFPQju-wiHmN7IvsLOM_TxpFwv8vJ2gwritaozSqNCKWv9LDYyewOpJxY--RyDoikc_7zh1KXGC2rDduiJIrVTt_67lpk-gfIDQvqsPLM7fQ=s320"
+            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/YehudaDevir/YD001.jpg"
         },
         {
-            "imageURL": "https://blogger.googleusercontent.com/img/a/AVvXsEi-pBq1DUn3_7Dxk5iEfzV5ZaNIpPkOnffNYLKL9o5FabdBL-UHicXT8ZuXwvdZf4U2y7mcmpQBx9I751jgiAmKrazs_mA3FkojABR0iWgP2TQVRIiv8gYnuJUDvHE2AQmeudi4l_x3evv07VkAoPspE681i2xW8o9H1NSJ-yqv4DrO7HiyVlxqmhaPQA=s728",
+            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AriStocrate/AS05.jpg",
             "number": "4/11",
             "creator": "Ari_Stocrate",
-            "avatar": "https://blogger.googleusercontent.com/img/a/AVvXsEi6HKBRye_sZLKHB1g37b1SD4ECZ_RBON-5dZf2BF6R2NYKc8tYQje6mh0TtRuionQR5Ic7Ttga0NbSnMKzmF7m1PpniY4Hs7BTiguaHFbEevcUOI5tWGHgCEXnZ_Oqi6D-r2v9uDEujA3mITBUIUb0Zlzlg9cUSRjSKgXm9PHkBxzORgmSbxYFAcoY9A=s320"
+            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AriStocrate/AS001.jpg"
         },
         {
-            "imageURL": "https://blogger.googleusercontent.com/img/a/AVvXsEhD4fFMCpnDzQdPFim2ybkMvWuyVvw-LkFzXPs7REwAwqdxS46AExBk29SAT0hv53h4nB4RWgWTmoE9vblD9LEAycW0b8paeNILo8kNOQsbOkMFz8tUpW-2e_MruqQxN-QdR6ydD9hzsLYlTBlHJf1muZft6-5-dXL9iN67yvL2SVdvxzmPXSRfWHjk-A=s632",
+            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/LiseMyhre/LM05.jpg",
             "number": "3/11",
             "creator": "Lise Myhre",
-            "avatar": "https://blogger.googleusercontent.com/img/a/AVvXsEgQNaMYnoh0Yd5HymFhJThTjD2hu8Tbo3Qd1ScgHMYH6HNTMAvZ0f3DAvGzoOyWbLqlUpDjzzM19PcnCupOc7xg8ehZ0mttpQcatQOrYHlY-Y_AT429vCDTB3poQgOar9djyJKXYZo58Ys0_NFGE84aHxPbBCgEFnI5GLhyUQMRVd5v2cm4w6EQ72sBNQ=s320"
+            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/LiseMyhre/LM001.jpg"
         },
         {
-            "imageURL": "https://blogger.googleusercontent.com/img/a/AVvXsEj3oQyJoL1yyhJRSmUbBhou-ILSRvz1rQuNA4NKXFZDA4K8bPLUdLSL9UqTXxhmU_Ks6SHq84g-_5PmOcr3BatmfNqrLBPtHpvEXQqGkFGrDoKuouwDJy864PFVj_m724hEVNDqu2F65sXLMldF1ySKadevL7uzkZZzwwuMck8mDVVvBB2cBcLS4f2LVw=s504",
+            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/OlegKuvaev/OK05.png",
             "number": "2/11",
             "creator": "Олег Куваев",
-            "avatar": "https://blogger.googleusercontent.com/img/a/AVvXsEiv3vu3zBopdYyKuoKCd4thfpZbP0vGOxFxp5XSNrwyEKJWtS9_jP_cVuL03JCM4PcKIqePt-s68wN1vSVT68KB54s5JEZZsH7FZF3rriyGjyweVwpu4CwAs9R_dI0HypQw4AQgO9B0gGDJ_UFdeV6ir9dEUOLCaIZ1aZhrYBbHLYfXrMkWiMA8kpglgA=s320"
+            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/OlegKuvaev/OK001.png"
         },
         {
-            "imageURL": "https://blogger.googleusercontent.com/img/a/AVvXsEijL-n8ofR2A4zKYPOODQ26UDcN9ozg4LljuMgUNnzEdQ1IBCdZECONBWTmngvh9x7lZVXf7bHK7jgRaULzdrTmr9PkhYI14rnBdwRayPMikcpJQa-XSeBbllCBM1EeXpio7ZIDamNkAALLrvRsmzBg-CeMyEUNinDbt2ddSAcD5__kKdZ-6QrH_E2YHQ=s1501",
+            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/MattTarpley/MT05.png",
             "number": "1/11",
             "creator": "Matt Tarpley",
-            "avatar": "https://blogger.googleusercontent.com/img/a/AVvXsEgf9V_6SrqRsKIdzZDiM8b1i0kHBGoRJZJXM7BJ74HrwW7NWgYFMfenUY27DpuP5KQp4tSRVHKB1nbdULyzcDhkbFrcG445taEaMWCYVBCP4CzE53lt3aeidHEn84CBYrmJuXEIBMhnSOa5QOQAkM9RGffqc2tDlIfeNqt7zpREQUFGJPWV7WP7hTqDBg=s320"
+            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/MattTarpley/MT001.jpg"
         },
-        {
-            "imageURL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjli_iRFy9CzIYXpiUHl1CqfCoYleO9-UcT5R-tqxQjrqr-OWntFiNHKPKoGxPLjgx2Nbp83tf6VmABMCBh_Iob9oJrMA8bf4M3AgXI3m8ZNbDDt2ilXHNzSrovuNzX4RRFUfc9a-8yXlRMBMpoid-RTFnbfsAGLN5hYU7tbPdW1hszGfSbJxD36ROX29gE/s1024/Adam%2006.jpg",
+		
+		{
+            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AdamEllis/Adam%2006.jpg",
             "number": "24/10",
             "creator": "Adam Ellis",
-            "avatar": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_H5fpsJENTb_rh0fDflo3GMVSXXabElVOxGmYkJ-rySfcKhIdqvPVvew-GBp68zrLJUMQDyt702d4SkqJsxIZ-uOUSmHQYXD9XTl8eHjHYEK5ofn1hhWKHPuw6SoEenjmUN8jPKFiuSgoqyeOunWoIAiyjcf2u6FSga9Bg60_hLcaWycsPdk-J1p9A_JI/s320/Adam%2000.jpg"
+            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AdamEllis/Adam%20001.jpg"
         },
         {
-            "imageURL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbWttye3J-wtS9WfFw29ploDTT01vJyg2SQ_8FCpslo1i8cDgS1uC7WFtyM7jmODjf25Fs-DsA2Q90q9sVe0_H2VGtsZc5M-k1SKagFV-V98QB3ji9ZvSiGVdZSeM6lWu3MhNr-yAS7DKSvxQPFj-_zPmDiE1yUjiM3GkhY12jdi8oMVDIj91xMN5WBE86/s2160/beanie%2006.jpeg",
+            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AlinaTysoe/beanie%2006.jpeg",
             "number": "23/10",
             "creator": "Alina Tysoe",
-            "avatar": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiG1m-AbUieyq0fsLI8nPzk3u55-yijkF9kHjCDrBT-NpLHJLjJyuy8cO2sAdOLRs8tGaD0XKDyHbA9Xa2M-05aL_yZBtWeT8-Lb4LUcOTjuLd6N-rvAvOzYn6d24woNcBlM-9ELjJreoNscPhP1_Q00bpKj5VEH9_iAUz30oG2kU6iqmx54EYqTEw5RZF6/s320/beanie%2000.jpg"
+            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AlinaTysoe/beanie%20001.jpg"
         },
         {
-            "imageURL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBjsiyYv-NXJRohJNoxTTA-P8tGgOcE-0liV0sTxr_ZoNof-Zcw-gl56R1nQtpGoEYMeobr5de3UyryczqFTPiKqJ2MNXUHal3YgNd0KJl6XTKTqZS4QpD_BFAIqVO-8gco9d5NSjQnJXT7cvPVqIy_LoPyP4uX-QHDxCoHFMgNN6b6od9-0ZbW7Y22w/s805/JVS06.jpg",
+            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/JorgenVanSanten/JVS06.jpg",
             "number": "22/10",
             "creator": "Jorgen Van Santen",
-            "avatar": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgr9fsmHiA26mXKq6IQ0leFaThEXjUt3wEczgrfWM2dQRPqmw612LXQaRotTX4NX6aZItfRNyRc-UDfwDnvsjBL2rSFzqxDzE348i-7rLDv3sqelW5JBfgP0fzawbO0umfDydYudCgcS0lUeF38fQYQ5Nla3JQ4TjW5wnqE1auScPoYdCK8hXh6hNhCpg/s320/JVS16.jpg"
+            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/JorgenVanSanten/JVS001.jpg"
         },
         {
-            "imageURL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZp2069YhhwpRu6z5tCU1lNDuGc78UysEqs2tBsl3BLrP1692huulo5ThJInIJGBxUPI2tv2PIfSI4XJh29B5fHhVFFds7QcqnNY-d7TeiIPs_ZCQFCDSaEAHNfNkBayGLp2sCe-zadC_zxKv40n4nqjOcXrchtoCvdhhamioaHV2MdhLs_XN5CFGVew/s1159/ML06.jpeg",
+            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/J.L.Westover/ML06.jpeg",
             "number": "21/10",
             "creator": "J.L.Westover",
-            "avatar": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbSM32MiYUTVopRNS2GpYJtm3LV1JXRs-mbvWkFGu3-7v4lg4rIjfmnyzQucH2xQJGMPFAymy0ewjoHiSiWJJWzTl9-zjjaufnFyHVjSC3j--AotGVzZMktPzevdlK7k22B7G8kqYP0uAen-R_ISER-7OsIc5DhUdHJu8oQjj0eih-SlusAduHmWoGpQ/s320/ML16.jpg"
+            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/J.L.Westover/ML001.jpg"
         },
         {
-            "imageURL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihHjcFj1YbPSC6ePZZRkOm-IdO8MZHf53TFTxfglSGwheYxRVjEXXuXOaxUL-uOWQYGe2mYBScjqsxN7TbhBkRdOU5pvxhRmrNIMyoUFBTQuTSNOAthlF6g_jMUJ2cLe72iIg-lkFjf7ybrcRPaBJDPZ8EzcSZOsu8Mi3AF3KqXDpy5_maRRhFTzcC1g/s630/06.jpg",
+            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/ThaakirahJacobs/TJ06.jpg",
             "number": "20/10",
             "creator": "Thaakirah Jacobs",
-            "avatar": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgK_2kdryTzvZwhugog2RbI82lxdZHgjxt24zt-hJFLeNzwSWh79TPKvR3uY9J0M3rICQj2vMMOEWJRZ3psIl85MiI7PvVxjfNTl_ofMhLRDID4dbpm9J4lAFqq9HAAw5h1DCEKkzVlKxfsiwYGR4tEMjt2r-gkpPYyatSKoY5hrYdvECnygZifeIvemg/s320/author.jpg"
+            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/ThaakirahJacobs/TJ001.jpg"
         },
         {
-            "imageURL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5oOgBtrFsEYPFukAq9XpbvQyAs54GQpippmuvf0SzAmwbPXyv6NfOhuSsi6nC97l0WTMfdXxAdnQKsnCoqSiNMhjRvegXeO3Fy13hHfs_hDT2MPKb3iF_kvMaIxIMqVYoHD_Jkw_XxuHwzd1N5GQa0gxi6L-Q07xaTVEqKwC2JqtQJJVTrPABxsm9yA/s935/06.jpg",
+            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/MikeSalcedo/MS06.jpg",
             "number": "19/10",
             "creator": "Mike Salcedo",
-            "avatar": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivnzegrUGqzkJHbKzf88RZmEuZvCmaCon9XRBr_a4bF0_eEYy-ZS4zYVsl4T0LtYGgIJhDbfa1hXqhJPcWvum8bJijy1lb7gLLRI84OTQ0R-8ntQADHLglr-6VdyWg6w-COpP0bFdlNX5kLCu-r2Fszch5uv-adLBFmQHpyGMCLItbM-FJ1U1FcDAiiw/s1600/avatar.jpg"
+            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/MikeSalcedo/MS00.jpg"
         },
         {
-            "imageURL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7uzaeSQc5zQIhkhKDUCq60zefTqitQmMGzS61mN6-7r8jlT0FPMLjf1oKwsMKSURwdf6qBTbmmEfzlW36gaE22_LGHmvFGDBDXw-x3Td6C5ER-tZ461BL0IeZlJM0QfwJJLaVFXQ07Hz8zx9JHhNlJMdV_A78FgC5FxPAtuzSv7B5T0FPqNcj6NGTZA/s787/06.jpg",
+            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AstkhikRakimova/AR06.jpg",
             "number": "18/10",
             "creator": "Astkhik Rakimova",
-            "avatar": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjaaeuOIqVBlxAhpbF8083PsspyJkIGQhVFkhAAbDSAA_dCylPLNHTa_Z4bHa6EQG3rW8FP8v8dyHRRsHNFZAEtWD8LE6XpT0xj6_riAwYW2_RLgfXYtMCJKTjU_jj1neFR4bixaPWBV73eklkCYApJ-xEbaZAJ1dnwL5gBRmNsNupZimKrrRq2pySKLg/s320/AstkhikRakimova.jpg"
+            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AstkhikRakimova/AR001.jpg"
         },
         {
-            "imageURL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJt0O7TGPTjfyZgVhOVugnrhP0vzgNdl4ds1enUWagsIchvdjFTtvlrEKCdZjvy2tG_vy8oBRMPeY3R_TaJCfl2QStTRx2RbzzYXFcHLruAYa0zT3O8SlEDT5TmJ3ubBGUIOw5ZfKjyaqrhC0BCzpoTW0YlXqui-plcP8Ldb4HrdI8WO5CDdS7Eq3gew/s630/06.jpg",
+            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/BrownPaperbag/BP06.jpg",
             "number": "17/10",
             "creator": "Brown Paperbag",
-            "avatar": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDlNOJm4f2yyH01MKFA7XG_5Ib2-i-IibNkW3FK17WV0n1qYog7MU8wpFDBicPlGbeA8ZNDSnRlYGnzd62zB_hIxLU9pKzKpvjT_Fj9RcA90MH6zy2rABVYdMhS6xlBiah83h2QVjIxQK-JaNdQNnVaagvM_tnDrrsjnWBLun9e1jyk4D_KXykVIYaAw/s320/Sailesh.jpg"
+            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/BrownPaperbag/BP001.jpg"
         },
         {
-            "imageURL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjozriBFJHL5xypGR8Ed9Wt1RzAekjUWKn3cKmQky4McUOp8Pj2SEDmX1ipeP3lDInH6twsSk-KXkz5jSOOrckh-tvsTUctfdPxqOJ4YAlJUeA5hxR6Km0y2wzuBUTuqq30jLaaVp2g7efpv67JYSO_GacizzvERZUJQNQHU9lm8ZFIRJafH4ffTsAItg/s515/sarah6.jpg",
+            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/SarahAndersen/SA06.jpg",
             "number": "16/10",
             "creator": "Sarah Andersen",
-            "avatar": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXRnVM10hBqOe-L1nBZ61dmkVhjbZGH6XCo_ieTd0szTVVSYb1tnGtFi8F1Jqb9MASVfVjHIXxXej3r91MKoaJbNj7HgAfPzC1eYPrgulqb-dZv01y_Yl3ZBPw-RvEbFyAy3ETDYHq-vy0ZsCkb0gvetCmDve961MnzOjnqtzdCMfNOrW7hXPXQx8bXg/s320/author.jpg"
+            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/SarahAndersen/SA001.jpg"
         },
         {
-            "imageURL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiui3tgmUiry8MgJMJqSV_79JRd1JFy4JM4lbvEfj5_vmRdJNux0DPmfxZgDLcL-L9QfDa5cs9kDklSasRhjbQvKd2iAZrlym4C6tOZoaCaQDw-s8CDpPa-Ay6j5Zjl5cUiEjRQs1rBDq086D30y12JGrZ69LVzbWFJmCinl7OG5YdBh5i5SUpqwnUiDQ/s630/06.jpg",
+            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AnnetPlanet/AP06.jpg",
             "number": "15/10",
             "creator": "Annet Planet",
-            "avatar": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtdXm5IbagvTAyTPQJTd1PWcN4H3OACAEcAerA6w7vaiRo2_fZFolFdvJhJ0hLdcRwasDaXozsmnKtEUIwO4QKWvE9Kvyrljt2RVCAUspBcxZVxvymoz3NnPshlADqxIRZsHteO_cHfOKr2uKdUlCkhWd1_zQyLVPPqH8YjzB4Cw9EvOnN6utn3RLPYA/s320/Annet.jpg"
+            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AnnetPlanet/AP001.jpg"
         },
         {
-            "imageURL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgevMW2fh7QwI7TG7j5_SYc-K4Nm7s33j87qe2zqJMHzuo2Dgj9GMEw2j4ZL0FRtmR7Z4MMXs1tGhCjIqs0MHX8detYgsvzIxbBUfcM09QMGzl5FfSf5rx3b9d0l7Q7xQJPL19fj9oJpLhhdUExQJNsmoUjcXTkAZPhf396ZtNhsJVcrN9HyaTNZeXiIQ/s700/imgpreview%20(6).png",
+            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AndrewHou/AH06.png",
             "number": "14/10",
             "creator": "Andrew Hou",
-            "avatar": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLwhsU-JJ6xmNysDyfPn_5nAsSWzE-mEXZ1qk6kATJAEh-goPMvq_b9bHT6e0VTgB97k7rWfgZh5JpX5vR9VauP_fezpTp2JORCKjslENHrEJztjnOKXKtKhwc_p3daLrwpfy7dSSaTetgsT6lPNuipk_gOAfCC2GxS5C7Wk7nUu5TqORJElCURdlpRQ/s320/AndrewHou.jpg"
+            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AndrewHou/AH001.jpg"
         },
         {
-            "imageURL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjl_wcmDvHqpUVH2OTIl8t0JkSeShI3dwEv9qzEqV_DrmupChhqLUdxvz6pbHcbMkNSb96UZ8HcpSyaHzK2eLVHbj4XI1L1ihE5SMNeGAbMnTAfvJfeWIyM64OyKQYzysf6p2-vxQ5_7rbpaMpU-8MkoScMmKD0-wQi3MXj_qwYGr4kJSxkkwWHErYXyw/s1204/monkeyuser-it-%D1%8E%D0%BC%D0%BE%D1%80-geek-5998104.jpeg",
+            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/CornelStefanache/CS06.jpeg",
             "number": "13/10",
             "creator": "Cornel Stefanache",
-            "avatar": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSHppDI7zFpVDF7QERj1soZ2fgDK0sgToWPNI841wr-RKhFSd0Yrqr67rX3oZ8OgLsKiCYyzud4ybHHEAnhPdiEhQ93cclK6dibBRsjWDx8f2UsuBR8e5on5lvolPHVWF02QA7YhanDBPoq-7ilNj0Y62-0-OTZ40yxu_UAm9efSeZBsHuqmeDTDBqqg/s320/StefanacheCornel.png"
+            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/CornelStefanache/CS001.png"
         },
         {
-            "imageURL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGECrPDGpMMjXc3fza0vI4Ta5-8UyMnuAMai4qkxEHBIeei5_nuWFDsX2ZwswduRvYZsPTQUZDxMLNDvvuWq8CWhFCf0meTLi5VM5E5cIRLzYFJeXqs0VWCwPZoCabIxYcB4htFxWuqmJJ36v6YLq6-Twc0XVkP282WCu_XWcMsYO-HVj0Rpquh5NzEg/s900/wumo6.jpeg",
+            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/MikaelWulff/MW06.jpeg",
             "number": "12/10",
             "creator": "Mikael Wulff",
-            "avatar": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEicjznyL04TJXvW7GrYmbD5o1blE1BiX7lX3WW9KT0wEWrnBSqwaz017fgAGmiWz2P9AY2ScPL9CIvTnlXGliib3e2lcT6fAGFdidgsCU-tjscedzBND1Oz5ddiB8xxyuZ85nJrGARHG84VhxYXp6PAuqt1iry9H15NJ1ryKWXDxtll3DfL4n4-6iet1g/s320/author.jpg"
+            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/MikaelWulff/MW001.jpg"
         },
         {
-            "imageURL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgHVDSpRncOtE8FK2ZYg0RlIA2j_NrnhZ1neobgNNLmENXMTcoYi-UODmfyoRKlAh90fs87Vabs6bh5VHIgclJG882br9NYWK_AxAfGClacGt0br_LnY05xYghRrvpopQIyq7QayrskDyM3JMDbE57XUKHX5FZFhN6O9k9w-zVn1LcP_A-nO0-AJ2Wogg/s1098/dc52e35da2e4a60758cc932033251b0e.png",
+            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/Crocodile/JK06.png",
             "number": "11/10",
             "creator": "Журнал - Крокодил",
-            "avatar": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFIY4FPaw1cTnT6dSAPQUsIQTQ2T832eOCBAxfufTdbJG_mZ_JPVbVz1ytlJe-57c1w_tPUie49rvrCmfyF4RO_wtETIwMsZZN3cvj49eLhuWxFZFiP2KtpD6ll6FkI-K2r_YBatp1OC1FPHfdGhLgY6-JZYcyZ0DohYN_X4Izuh1Fr5lIzXCBsiispg/s320/%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F.png"
+            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/Crocodile/JK001.png"
         },
         {
-            "imageURL": "https://blogger.googleusercontent.com/img/a/AVvXsEgTmXze_0Y6hvdVZV5Tlz_pB_Rez0Pv-rY_XK7foHoElZcf6l8Igy6xU5nXURHWPOc2ETkv0SpLIGYhg_T57cTMhRH1bzdTCDX0pDGcpbzbn4R4z2ABZ2-Aeq__lpfdkN7ELvem6VT2p5qKfvRgi8vmOpjlLUt-0KO2fVNAvyAfVs3l1n6iG-GLLTACBA=s630",
+            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/ValBun/VB06.jpg",
             "number": "10/10",
             "creator": "ValBun",
-            "avatar": "https://blogger.googleusercontent.com/img/a/AVvXsEi6e7xOQVNtQQLFANOgW5H1pgDC1n6do1BHlSTef90cyRY9eWm9DnenPVztfeH6xq3CqcWfaylW1JXKiUTWpYcfkouB_98fmw4BzLelKJ6vQXm-CxavOwjgUW7F8gKdKHb-ALoheBnlnt06yEZOnGm8BMAR-JWBjVEABC6gpfT2cQJijI_j2iTK73V9VA=s320"
+            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/ValBun/VB001.jpg"
         },
         {
-            "imageURL": "https://blogger.googleusercontent.com/img/a/AVvXsEjDMrMIzpnbh_Dps9vVSb-xNTVi77yDexwliAzDf4hlVoJ8-8f3BQjtgmBQkiowWBsrPVL-EZFRpHykQetTNxN9XzPNjiyafxkKb7rzQr-6QnsZhhTEXr2TeuDHDCHBrCcLupUPO4vJtyShNRHcFoazol2P05nguguoYQxOeH7bprjAewHWRxKLDfAUmA=s1080",
+            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/BrandonJ.Santiago/BJS06.jpg",
             "number": "9/10",
             "creator": "Brandon J. Santiago",
-            "avatar": "https://blogger.googleusercontent.com/img/a/AVvXsEiI3B1GSuA_4Bg5ElJZSyU8N0ONiCkwOiy9A3dtTx_ZDB_X0aw3y0PPM9ZqpoYAdyBcn7uwbC8yGpBPkvNiIFHKrKrRjklb-RRa_VJs7byRxV7xSE7ARcFWahRz3X7TMyxESJZJz3Gk6Slbaf4QMHTFowBBsL_XIMINY3TRkH6vLPwLw-S2MOLFlBPq3Q=s320"
+            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/BrandonJ.Santiago/BJS001.jpg"
         },
         {
-            "imageURL": "https://blogger.googleusercontent.com/img/a/AVvXsEiGD13NYQi_IBL_PrcRC9W3k6OpZNf7PnuEcQbEfYfH9mGAdmfm4H7r7fPxNaDtX9IN2m4DX7zV9PRFX6kiTPufvuQUgmR91cOWXN1pkApGDOd7zD1tfNF4cGiv4loFTme3VoCEONToB_eadvAIkUm-sAovanDUqMm8u4LJG-eDtafOldhR02a0maq8ag=s1364",
+            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/JoshWright/JW06.jpg",
             "number": "8/10",
             "creator": "Josh Wright",
-            "avatar": "https://blogger.googleusercontent.com/img/a/AVvXsEiVCEB7n9KcnVyfM_V1z7aPwhkaYp8ZGqOC7J3jvUoUZ-T6sL-DxeL8FKOLRzgzVPRvPCKL3eNB0_nwaSj6cjAfHZLfK-yrdh4iAqPWwCH3r5-ofEYT2yDIlK-qSYJG8aceUNjzc3s91S8zwQkHnLT94hVQPyfiPJ1FTCU3jnapd6gSWtY9-vFW0YbhbQ"
+            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/JoshWright/JW00.jpg"
         },
         {
-            "imageURL": "https://blogger.googleusercontent.com/img/a/AVvXsEjLmOhu0o9lpPDbpT0w257S-3lzZIiM8pCs93cimeKDaEUTBG9qU_Xo4L66bg9eoslu2dck2MhIx9gMVMuUGnOegwcrqZ26SgkAgHAXjW208j4zACTu9Ml3QNJqAMv2yVzOzQ9FVTdhpRjlIYDppi_wzpaNtpDqawAzVm4rIB6Olj1JmuyKF38HqVfeFw=s811",
+            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/RobertAdler/RA06.png",
             "number": "7/10",
             "creator": "Robert Adler",
-            "avatar": "https://blogger.googleusercontent.com/img/a/AVvXsEgO2jGuy4O3mCIH79tU0_x4ANDSVIQ0YvPStSwM3_UkTNojJcVlzrRhFPRAjHp3XUM-yvEylBmahxIfKXhAxK-Yc4ZtUQSsb1Hs5DgbiMzzfpsjDALOQdw0cZ6QbplCpy4qFc3D_H0AmO7ObmejZ4aQ9VbohyfXCO2gbzDm8EzMWbQIi5HFIjpW8QtmPw"
+            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/RobertAdler/RA00.jpg"
         },
         {
-            "imageURL": "https://blogger.googleusercontent.com/img/a/AVvXsEiiq0c_1q3FOgvPPa9d2c6wzQXUcAVU5mBifRWbeLPw3T_wnwfYkGyczHj_wweisCyMshrGtSjmTG5xk8EPwV6Y6Y5mp3J1DU45YLDcUUTob-xbPdneSSlHL8htC3lraGfuIEnLPnkqOWM-wtCpaO91WEBe3-BCYPkXJvtdNv-s7o7ZYifJM9dpFDEYYg=s694",
+            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/ZToon/ZT06.jpeg",
             "number": "6/10",
             "creator": "Z-Doodler",
-            "avatar": "https://blogger.googleusercontent.com/img/a/AVvXsEj_ErlByF6KmTdTzzTwfBaxSVpdXGqiRlTabmrmGAWo1aj7NS7imffyucGad7F_thee7FUBaCot6t5QloSDoorgLo4-1C7UEtNnmC_AkciqYaUkj2J4mVupYxZc2HIXCZCTw7hfMk9Jt1GaZ--tzbq_YMSqNU4ejt23lc1KpChMdKzYljajgp2fHGQtCA=s320"
+            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/ZToon/ZT001.png"
         },
         {
-            "imageURL": "https://blogger.googleusercontent.com/img/a/AVvXsEi6G5crEGVaQ0bd70nHH28nDHj2iaMUk_Bt_4c5s8wsTFo8prDIZSFzn8cNSqyU8H_zaaggGvqhR9I55f7ZK3SRFrNpjcyXHOt49kNhEfOPZMiji8xk-YhXykE2DjqBhV_SSxKxKlGYciksEU8_UUjva35WYmA8QCqOF7s7P-e3x0mI3QZOLupoThqFDA=s1029",
+            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/YehudaDevir/YD06.jpg",
             "number": "5/10",
             "creator": "Yehuda Devir",
-            "avatar": "https://blogger.googleusercontent.com/img/a/AVvXsEheFVWvNhv-ddggJPGn_Bsu14mEGi9eGQfrda-BFJoLj_JqjBwxhQNBbeWHMrroarNbzjn_2vkhjMAVtZmFPQju-wiHmN7IvsLOM_TxpFwv8vJ2gwritaozSqNCKWv9LDYyewOpJxY--RyDoikc_7zh1KXGC2rDduiJIrVTt_67lpk-gfIDQvqsPLM7fQ=s320"
+            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/YehudaDevir/YD001.jpg"
         },
         {
-            "imageURL": "https://blogger.googleusercontent.com/img/a/AVvXsEhnImKirQJVcqZJj9FQVrHgGECa5a3wxAXds4dLaHgvYdirbehuvTNBFNiYGNK4G-7jTeDqaDL8B9GmtXH_rIOsHF7IUNZir904MJgB-VX7amncygFN08mFhSfWgUK8mq4NlKwfI5zFvAsZvoxE9TGEHDf8RBxQ5Gm6oQLAQiBqWjJg-zssZ8ldKsfkKw=s728",
+            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AriStocrate/AS06.jpg",
             "number": "4/10",
             "creator": "Ari_Stocrate",
-            "avatar": "https://blogger.googleusercontent.com/img/a/AVvXsEi6HKBRye_sZLKHB1g37b1SD4ECZ_RBON-5dZf2BF6R2NYKc8tYQje6mh0TtRuionQR5Ic7Ttga0NbSnMKzmF7m1PpniY4Hs7BTiguaHFbEevcUOI5tWGHgCEXnZ_Oqi6D-r2v9uDEujA3mITBUIUb0Zlzlg9cUSRjSKgXm9PHkBxzORgmSbxYFAcoY9A=s320"
+            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AriStocrate/AS001.jpg"
         },
         {
-            "imageURL": "https://blogger.googleusercontent.com/img/a/AVvXsEgU4LvAlhU2IyrXq2AneHKASun0BbBoMRCdJfRaGy8WwpYTPjM4fDVw7kyv2RRhv6qWr8ktUaixVZzSH7oLJh29-pn6YCc-n-c0p6zJ9bhoFLMdjlDKnx8ddzfzO7YwlSSvM1dIl9hBSFbAMNx7T63MQ6GFrQPN25IRTyxd0X9-LNrZ-ilp-AqBb_i4AQ=s648",
+            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/LiseMyhre/LM06.jpg",
             "number": "3/10",
             "creator": "Lise Myhre",
-            "avatar": "https://blogger.googleusercontent.com/img/a/AVvXsEgQNaMYnoh0Yd5HymFhJThTjD2hu8Tbo3Qd1ScgHMYH6HNTMAvZ0f3DAvGzoOyWbLqlUpDjzzM19PcnCupOc7xg8ehZ0mttpQcatQOrYHlY-Y_AT429vCDTB3poQgOar9djyJKXYZo58Ys0_NFGE84aHxPbBCgEFnI5GLhyUQMRVd5v2cm4w6EQ72sBNQ=s320"
+            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/LiseMyhre/LM001.jpg"
         },
         {
-            "imageURL": "https://blogger.googleusercontent.com/img/a/AVvXsEiGM8Im44bfOKt2Ikaw_s9FNnHVLjAV1Ub4IMGWirqw2UfYTh_wA6oTziHpOQEYg64NapDm9ayyTUwXB25vLjzrgHmDaGFE7KGw0E0JVIKOagFELt80fbtXuFXL8qGisZOViM1TEk235vQIzZJoAVl5ZytFhDrDXPfVIA3_-NEchgNu6s-uykUAcXIweQ=s504",
+            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/OlegKuvaev/OK06.png",
             "number": "2/10",
             "creator": "Олег Куваев",
-            "avatar": "https://blogger.googleusercontent.com/img/a/AVvXsEiv3vu3zBopdYyKuoKCd4thfpZbP0vGOxFxp5XSNrwyEKJWtS9_jP_cVuL03JCM4PcKIqePt-s68wN1vSVT68KB54s5JEZZsH7FZF3rriyGjyweVwpu4CwAs9R_dI0HypQw4AQgO9B0gGDJ_UFdeV6ir9dEUOLCaIZ1aZhrYBbHLYfXrMkWiMA8kpglgA=s320"
+            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/OlegKuvaev/OK001.png"
         },
         {
-            "imageURL": "https://blogger.googleusercontent.com/img/a/AVvXsEhMBXZET3CTxNrJWEH74uhiwGuc9SQBP9f4cdFrz_xKUnvI9mQhqdKiUW-0-KCOTkD_qFnuSePZh9BM4HPzCdJOPGtOUZZki2DjF5UxrnJa7uyqAwGMdyRvRkbVoPSXUBS2FbOK9SkOaXrubg61yucZWdzyVnPn3663J90zdqSV_FimXa8SSB4xwwXvfQ=s1457",
+            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/MattTarpley/MT06.png",
             "number": "1/10",
             "creator": "Matt Tarpley",
-            "avatar": "https://blogger.googleusercontent.com/img/a/AVvXsEgf9V_6SrqRsKIdzZDiM8b1i0kHBGoRJZJXM7BJ74HrwW7NWgYFMfenUY27DpuP5KQp4tSRVHKB1nbdULyzcDhkbFrcG445taEaMWCYVBCP4CzE53lt3aeidHEn84CBYrmJuXEIBMhnSOa5QOQAkM9RGffqc2tDlIfeNqt7zpREQUFGJPWV7WP7hTqDBg=s320"
+            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/MattTarpley/MT001.jpg"
         },
-        {
-            "imageURL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5SFCK4lao4jY1Cd5XAQ5JkPqs18HxETZGjJ0jSEyUw7yx3VvYmqq2lPe5tw1HUNpelnprlcoBwe4AviZYmLZWc2LzVbbZUqGeh269UpT3YsoHmS_3S38xBVeyLTXFFYLV6ubxeuSSsQBh9LXD189smIi4cyZ0cSauH2SI4sluV-FdDDgMVW693lOiouNx/s1280/Adam%2007.jpg",
+		
+		{
+            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AdamEllis/Adam%2007.jpg",
             "number": "24/9",
             "creator": "Adam Ellis",
-            "avatar": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_H5fpsJENTb_rh0fDflo3GMVSXXabElVOxGmYkJ-rySfcKhIdqvPVvew-GBp68zrLJUMQDyt702d4SkqJsxIZ-uOUSmHQYXD9XTl8eHjHYEK5ofn1hhWKHPuw6SoEenjmUN8jPKFiuSgoqyeOunWoIAiyjcf2u6FSga9Bg60_hLcaWycsPdk-J1p9A_JI/s320/Adam%2000.jpg"
+            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AdamEllis/Adam%20001.jpg"
         },
         {
-            "imageURL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6swaz2qimainCs0oMU49upJ-inzWLBUFyOqWsSmc6yJf3sDR0ivFFyDY0SnIeDr-YwN6VuJ8-TFRLFRR7mQ5y7DiieH11mUzt6lLaGydiHRfx7e7MLabmgpdUQWmBNdvS3V8AHSJolyCOeFl1jWFu7BVcUYJZbSWSrIuevQbtdgCF2-46U17WVTGsa_RI/s2174/beanie%2007.jpeg",
+            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AlinaTysoe/beanie%2007.jpeg",
             "number": "23/9",
             "creator": "Alina Tysoe",
-            "avatar": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiG1m-AbUieyq0fsLI8nPzk3u55-yijkF9kHjCDrBT-NpLHJLjJyuy8cO2sAdOLRs8tGaD0XKDyHbA9Xa2M-05aL_yZBtWeT8-Lb4LUcOTjuLd6N-rvAvOzYn6d24woNcBlM-9ELjJreoNscPhP1_Q00bpKj5VEH9_iAUz30oG2kU6iqmx54EYqTEw5RZF6/s320/beanie%2000.jpg"
+            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AlinaTysoe/beanie%20001.jpg"
         },
         {
-            "imageURL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgr18k-jX3AXne-mFZaZhFXyLraT5N2LVEDVZNutgh729OD0g5bNr5NIuJyOC7Xb5IVQJ2adTc72ntkN73pURZ5ByEfGk5Mg2Ml_IyzL5QhSAwoBzAF8cWvMRy9DbKMrPoyUdjvOhSoN1qML6dmIRJkQBTxlEvekIRXHvoSGjgazY0pXTJFpbjQuOJUDA/s832/JVS07.jpg",
+            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/JorgenVanSanten/JVS07.jpg",
             "number": "22/9",
             "creator": "Jorgen Van Santen",
-            "avatar": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgr9fsmHiA26mXKq6IQ0leFaThEXjUt3wEczgrfWM2dQRPqmw612LXQaRotTX4NX6aZItfRNyRc-UDfwDnvsjBL2rSFzqxDzE348i-7rLDv3sqelW5JBfgP0fzawbO0umfDydYudCgcS0lUeF38fQYQ5Nla3JQ4TjW5wnqE1auScPoYdCK8hXh6hNhCpg/s320/JVS16.jpg"
+            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/JorgenVanSanten/JVS001.jpg"
         },
         {
-            "imageURL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh3PiFBQnZT7D3eIJyVBTpbo0VJoPtlqjhk8JBT0NaHojiUj1QuijgDKkgWVqMMkG7FQbjkUvDLTIa9N9ZAmFqRxOK8-h1T_dRD-yslAsF5Fv7EUUYu8VlO-PZuDmdz5WmB3rwFiNoYBqLGEQ90O0O4RUdhqujJFQFHnbcORzlQNVZYCJY1KZqKaI6HJw/s1006/ML07.jpeg",
+            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/J.L.Westover/ML07.jpeg",
             "number": "21/9",
             "creator": "J.L.Westover",
-            "avatar": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbSM32MiYUTVopRNS2GpYJtm3LV1JXRs-mbvWkFGu3-7v4lg4rIjfmnyzQucH2xQJGMPFAymy0ewjoHiSiWJJWzTl9-zjjaufnFyHVjSC3j--AotGVzZMktPzevdlK7k22B7G8kqYP0uAen-R_ISER-7OsIc5DhUdHJu8oQjj0eih-SlusAduHmWoGpQ/s320/ML16.jpg"
+            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/J.L.Westover/ML001.jpg"
         },
         {
-            "imageURL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8UNHepmAHvk8tUh_cAdz6h4Tr0iC6xTn4CyoX1Hl5gMokWFexuTi2qPXa9kUhNt_xsntZt7iYbyr1urIdM1UZ0LzY0JQX8fPbe4jiiFDI8axf3_VAuQAEFim_k7bfpVMMAyvuLUg2jx2ISjSbhPHcef73NMpKTcIoWTdXiJ_L6uAGgSAQyVkZhaJ3hA/s1200/07.jpg",
+            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/ThaakirahJacobs/TJ07.jpg",
             "number": "20/9",
             "creator": "Thaakirah Jacobs",
-            "avatar": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgK_2kdryTzvZwhugog2RbI82lxdZHgjxt24zt-hJFLeNzwSWh79TPKvR3uY9J0M3rICQj2vMMOEWJRZ3psIl85MiI7PvVxjfNTl_ofMhLRDID4dbpm9J4lAFqq9HAAw5h1DCEKkzVlKxfsiwYGR4tEMjt2r-gkpPYyatSKoY5hrYdvECnygZifeIvemg/s320/author.jpg"
+            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/ThaakirahJacobs/TJ001.jpg"
         },
         {
-            "imageURL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhrzyNjaknJ45xiBywhnAFsEYMTzX1v7Sda6_tfLZqsxjw8ny0jRRpc6jUnSzEXl73bIVZqpb0FwQuT2fus7fsRHIV3-BqPweupRSDDJKhkpYZQfuUVefX33AbDu9j0KGJ9UJ7nu5lcHk58xSxo18qgoGQ1-n1tUjEwsJt9_sJ3LLOowVr4BKA1djtggg/s1241/07.jpg",
+            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/MikeSalcedo/MS07.jpg",
             "number": "19/9",
             "creator": "Mike Salcedo",
-            "avatar": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivnzegrUGqzkJHbKzf88RZmEuZvCmaCon9XRBr_a4bF0_eEYy-ZS4zYVsl4T0LtYGgIJhDbfa1hXqhJPcWvum8bJijy1lb7gLLRI84OTQ0R-8ntQADHLglr-6VdyWg6w-COpP0bFdlNX5kLCu-r2Fszch5uv-adLBFmQHpyGMCLItbM-FJ1U1FcDAiiw/s1600/avatar.jpg"
+            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/MikeSalcedo/MS00.jpg"
         },
         {
-            "imageURL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhX0ZQ1qa6kFc7oBNXwcl2yvs4x-pmy_ZdMroGBXsvCCblZPbkCaqieRclx1eWNdeCMU9IQLtvIm_zDdT3QjVlR5L5gMv1AJ7QQlHliec4LNxUCa1puspsiwP98dwY6EQoHpmgRDPP_9jfRlHOCacWTcMkePRL0ClDCKBTYDYvR8m5vSyJ0b4PqL7GaGA/s1182/07.jpg",
+            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AstkhikRakimova/AR07.jpg",
             "number": "18/9",
             "creator": "Astkhik Rakimova",
-            "avatar": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjaaeuOIqVBlxAhpbF8083PsspyJkIGQhVFkhAAbDSAA_dCylPLNHTa_Z4bHa6EQG3rW8FP8v8dyHRRsHNFZAEtWD8LE6XpT0xj6_riAwYW2_RLgfXYtMCJKTjU_jj1neFR4bixaPWBV73eklkCYApJ-xEbaZAJ1dnwL5gBRmNsNupZimKrrRq2pySKLg/s320/AstkhikRakimova.jpg"
+            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AstkhikRakimova/AR001.jpg"
         },
         {
-            "imageURL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmWc3RVnC_2ZRhcCbf8U1S2S0gNf3ITtWoqGqE3GoostHcLpe13nMEpdE5Ond3B4kgM0suTn0XaqseVXsasZSGs73eg3HEXJf8Z1vCcOz7sahcoukytsxKuOplwY21_-AselICZTgHdFRuFZrA_q6KzrtwjOkpZBJMGHGy7Bow7CjGFemenD2z0SI3nQ/s630/07.jpg",
+            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/BrownPaperbag/BP07.jpg",
             "number": "17/9",
             "creator": "Brown Paperbag",
-            "avatar": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjDlNOJm4f2yyH01MKFA7XG_5Ib2-i-IibNkW3FK17WV0n1qYog7MU8wpFDBicPlGbeA8ZNDSnRlYGnzd62zB_hIxLU9pKzKpvjT_Fj9RcA90MH6zy2rABVYdMhS6xlBiah83h2QVjIxQK-JaNdQNnVaagvM_tnDrrsjnWBLun9e1jyk4D_KXykVIYaAw/s320/Sailesh.jpg"
+            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/BrownPaperbag/BP001.jpg"
         },
         {
-            "imageURL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvM2l79GQ1uRaz7RAzLaScHbxHK_ybAvN3MNuPLxhhrI7fadHSX5qGwCNl8-7dJ8vXIEmZXuaHcBLLlkz3XQaC9Pgc0kxyDjDcFDt_KSyJ-8JCXOkSM_YaIvTRGFHB0ezVFsuJvYrtir34PsiPeDTvv7MRAlVvqZTBooOBJYTQIYIVrv-kWblzSFECDw/s511/sarah7.jpg",
+            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/SarahAndersen/SA07.jpg",
             "number": "16/9",
             "creator": "Sarah Andersen",
-            "avatar": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXRnVM10hBqOe-L1nBZ61dmkVhjbZGH6XCo_ieTd0szTVVSYb1tnGtFi8F1Jqb9MASVfVjHIXxXej3r91MKoaJbNj7HgAfPzC1eYPrgulqb-dZv01y_Yl3ZBPw-RvEbFyAy3ETDYHq-vy0ZsCkb0gvetCmDve961MnzOjnqtzdCMfNOrW7hXPXQx8bXg/s320/author.jpg"
+            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/SarahAndersen/SA001.jpg"
         },
         {
-            "imageURL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjU8_zbj4ziI0ztJ0JOYNmfRKusEm4b6wdmma55Oh503VzqHglF-LzRnxTBacecW_64O7OiJqpa-jxc0nVftIOt_1tkuIdnyvULqDoZn_bILb2uVdkGVVQoZwNwithKVSM_dvP6rN2bm-z5zs7ezlNzENqWnPMyJpOraHz1E1p5nDwzb-_7ZRsxw3hGLA/s630/07.jpg",
+            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AnnetPlanet/AP07.jpg",
             "number": "15/9",
             "creator": "Annet Planet",
-            "avatar": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtdXm5IbagvTAyTPQJTd1PWcN4H3OACAEcAerA6w7vaiRo2_fZFolFdvJhJ0hLdcRwasDaXozsmnKtEUIwO4QKWvE9Kvyrljt2RVCAUspBcxZVxvymoz3NnPshlADqxIRZsHteO_cHfOKr2uKdUlCkhWd1_zQyLVPPqH8YjzB4Cw9EvOnN6utn3RLPYA/s320/Annet.jpg"
+            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AnnetPlanet/AP001.jpg"
         },
         {
-            "imageURL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgE21MKCBd3ozY_8axDtIy024oPXjYlfhF0YMvbxlYVBctC0_9JhlDLXjoCGKPEGl4UgIFSxYRfk7-pyF7XwfH0okMH2WuKnoVF3LHSO2WRf67ASZ-8gTsCNl5WeiGmUlH6qrHvBYHpAJVX5BZ__v8Y3IeJliEyithQVu8wvLDPTIvLzH1H0Ct1dvMkGw/s680/imgpreview%20(7).png",
+            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AndrewHou/AH07.png",
             "number": "14/9",
             "creator": "Andrew Hou",
-            "avatar": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLwhsU-JJ6xmNysDyfPn_5nAsSWzE-mEXZ1qk6kATJAEh-goPMvq_b9bHT6e0VTgB97k7rWfgZh5JpX5vR9VauP_fezpTp2JORCKjslENHrEJztjnOKXKtKhwc_p3daLrwpfy7dSSaTetgsT6lPNuipk_gOAfCC2GxS5C7Wk7nUu5TqORJElCURdlpRQ/s320/AndrewHou.jpg"
+            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AndrewHou/AH001.jpg"
         },
         {
-            "imageURL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTfw21fmf-atn5Mn516sTYaRrb982fRnC0svugNbT6diQiAWWD2FmUJIVfMeeVWID0AY9RGPmEJKuxWwJyp324Y5rLyMKVgpiCpF5L-hiyY3aq0UY6sQ6_qK94la9L6hqNlDAzPecya26hfEn5OtguXo1Qbfng2OMC4TrKgl_6pl-XKqnCBAv7yRyqig/s811/monkeyuser-it-%D1%8E%D0%BC%D0%BE%D1%80-geek-6031178.jpeg",
+            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/CornelStefanache/CS07.jpeg",
             "number": "13/9",
             "creator": "Cornel Stefanache",
-            "avatar": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSHppDI7zFpVDF7QERj1soZ2fgDK0sgToWPNI841wr-RKhFSd0Yrqr67rX3oZ8OgLsKiCYyzud4ybHHEAnhPdiEhQ93cclK6dibBRsjWDx8f2UsuBR8e5on5lvolPHVWF02QA7YhanDBPoq-7ilNj0Y62-0-OTZ40yxu_UAm9efSeZBsHuqmeDTDBqqg/s320/StefanacheCornel.png"
+            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/CornelStefanache/CS001.png"
         },
         {
-            "imageURL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmhUGr3AIbqVh-QOIkmQ6xr5dgblp6kjxWZotxmwms77vqKdB4_vqM8KbSz8iC6Vp_xcsAn0rvmzL_7O-9U0KhhNsIQB49FtU9Gzr_dUMO8EoUsMJCvW117_zsJJCQO3GTUE6bdVbQB6whyEOIFlrMhB8MBgQ_lhy9WtghwYXx8XIQ5_U2ym4IjhpJ3A/s930/wumo7.jpeg",
+            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/MikaelWulff/MW07.jpeg",
             "number": "12/9",
             "creator": "Mikael Wulff",
-            "avatar": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEicjznyL04TJXvW7GrYmbD5o1blE1BiX7lX3WW9KT0wEWrnBSqwaz017fgAGmiWz2P9AY2ScPL9CIvTnlXGliib3e2lcT6fAGFdidgsCU-tjscedzBND1Oz5ddiB8xxyuZ85nJrGARHG84VhxYXp6PAuqt1iry9H15NJ1ryKWXDxtll3DfL4n4-6iet1g/s320/author.jpg"
+            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/MikaelWulff/MW001.jpg"
         },
         {
-            "imageURL": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPwBUEodPZWPCLkr7ltneI_qfWz7THXyjXsGEZg-fRspy0ruyfT3bShnY58eT4hqeUnbEvRfMsVrS7o_PfPBHLo1CL78defhysiNnXD_ckWoRhePkmBOvyKpUAFGgJ97N1qk05xugeW1wNRX53f3s9cTO0fJoNPZkSlC4x7BMUp43iAp541Bs87UT38A/s600/ocr%20(1).jpg",
+            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/Crocodile/JK07.jpg",
             "number": "11/9",
             "creator": "Журнал - Крокодил",
-            "avatar": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFIY4FPaw1cTnT6dSAPQUsIQTQ2T832eOCBAxfufTdbJG_mZ_JPVbVz1ytlJe-57c1w_tPUie49rvrCmfyF4RO_wtETIwMsZZN3cvj49eLhuWxFZFiP2KtpD6ll6FkI-K2r_YBatp1OC1FPHfdGhLgY6-JZYcyZ0DohYN_X4Izuh1Fr5lIzXCBsiispg/s320/%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F.png"
+            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/Crocodile/JK001.png"
         },
         {
-            "imageURL": "https://blogger.googleusercontent.com/img/a/AVvXsEig6aWDdI2BvuociT0lYwVFykJh7Prw6VdxSDo603gs-vn5S0thOj4J_dGZOUQD8WNFbxDQ4GXptqik5uG89K3H0LhjhMzO49g21iX4-A88xQQB2qcJe8wHk0cSo_48QAUrAFhTU8mRCuvz74pUpCpbRuqLW-GQvj1yZRBWwltM-h_OYxDRJneBUSzPaw=s640",
+            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/ValBun/VB07.jpg",
             "number": "10/9",
             "creator": "ValBun",
-            "avatar": "https://blogger.googleusercontent.com/img/a/AVvXsEi6e7xOQVNtQQLFANOgW5H1pgDC1n6do1BHlSTef90cyRY9eWm9DnenPVztfeH6xq3CqcWfaylW1JXKiUTWpYcfkouB_98fmw4BzLelKJ6vQXm-CxavOwjgUW7F8gKdKHb-ALoheBnlnt06yEZOnGm8BMAR-JWBjVEABC6gpfT2cQJijI_j2iTK73V9VA=s320"
+            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/ValBun/VB001.jpg"
         },
         {
-            "imageURL": "https://blogger.googleusercontent.com/img/a/AVvXsEhylXvBrIaBstci49fkLTc6zW4IRsurBRNdfl7ufmwWFaA7PMUGGJYScGOOh7gBu10CLz6o7p69iBk_h3PBUALwkHiW2-AOFHpTJ-dlr8Ca0TF4snyYhDUNt0xS-17dS0jUXiDyMhu5q2ufoevdaRqKoSwI1AMiX4tVSF7mtPSLp2jtOAb2jkwQ6uS1Wg=s1080",
+            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/BrandonJ.Santiago/BJS07.jpg",
             "number": "9/9",
             "creator": "Brandon J. Santiago",
-            "avatar": "https://blogger.googleusercontent.com/img/a/AVvXsEiI3B1GSuA_4Bg5ElJZSyU8N0ONiCkwOiy9A3dtTx_ZDB_X0aw3y0PPM9ZqpoYAdyBcn7uwbC8yGpBPkvNiIFHKrKrRjklb-RRa_VJs7byRxV7xSE7ARcFWahRz3X7TMyxESJZJz3Gk6Slbaf4QMHTFowBBsL_XIMINY3TRkH6vLPwLw-S2MOLFlBPq3Q=s320"
+            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/BrandonJ.Santiago/BJS001.jpg"
         },
         {
-            "imageURL": "https://blogger.googleusercontent.com/img/a/AVvXsEh1wE5IcTIsN2fKxi-kMengxMvOc4wVNKXN3S--CEudaD7bFsiqHY_1tMuPv_dcqd1lH3RvtuNlSkrXX6g6Gq29LwV_nswc406XbmD7I-r-fyvvcNwC0wFfGk0U07S3mxEnxemdV5DlPS91F_M8FntnV8kIMf7ZyL_dtX4fBzkLxYKbBdBnwwToa7RV1Q=s1028",
+            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/JoshWright/JW07.jpg",
             "number": "8/9",
             "creator": "Josh Wright",
-            "avatar": "https://blogger.googleusercontent.com/img/a/AVvXsEiVCEB7n9KcnVyfM_V1z7aPwhkaYp8ZGqOC7J3jvUoUZ-T6sL-DxeL8FKOLRzgzVPRvPCKL3eNB0_nwaSj6cjAfHZLfK-yrdh4iAqPWwCH3r5-ofEYT2yDIlK-qSYJG8aceUNjzc3s91S8zwQkHnLT94hVQPyfiPJ1FTCU3jnapd6gSWtY9-vFW0YbhbQ"
+            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/JoshWright/JW00.jpg"
         },
         {
-            "imageURL": "https://blogger.googleusercontent.com/img/a/AVvXsEgufrer9E6uSWcbCX_UAs5BbMQ_WYiaK7yWpXkIYUGnxa8u9moTG9gXruATlgi6PGnZ2CIU6BRnVLfepBqHVb5CIrDCINlnTodcPvXNLYg8cRfqErNOl1obpHI0n0tOd2CKcUPN2NGSylISnj4V0f6sHMgPB1vBmum-VkpLteMBYeJ2vZsPCo32Epv99A=s811",
+            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/RobertAdler/RA07.png",
             "number": "7/9",
             "creator": "Robert Adler",
-            "avatar": "https://blogger.googleusercontent.com/img/a/AVvXsEgO2jGuy4O3mCIH79tU0_x4ANDSVIQ0YvPStSwM3_UkTNojJcVlzrRhFPRAjHp3XUM-yvEylBmahxIfKXhAxK-Yc4ZtUQSsb1Hs5DgbiMzzfpsjDALOQdw0cZ6QbplCpy4qFc3D_H0AmO7ObmejZ4aQ9VbohyfXCO2gbzDm8EzMWbQIi5HFIjpW8QtmPw"
+            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/RobertAdler/RA00.jpg"
         },
         {
-            "imageURL": "https://blogger.googleusercontent.com/img/a/AVvXsEhpSe7bgQyfEjlYfG68P5y9L2OCW4dF_nBTfZtAE-j1WbVITd4VHxW_Bkl5N9j6rP5lcyaSaYt2bjShcXOTVz6Z7hMlUeLiYYqVXVuc8dCtu0n0tJLRQg-CEE_ix-GOMJ6p0mUC_KmRHZzlQrg9wCzXaNtW_GsDGSLF34FUmA9bfP8v3kfKm6LrguYehA=s1011",
+            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/ZToon/ZT07.jpeg",
             "number": "6/9",
             "creator": "Z-Doodler",
-            "avatar": "https://blogger.googleusercontent.com/img/a/AVvXsEj_ErlByF6KmTdTzzTwfBaxSVpdXGqiRlTabmrmGAWo1aj7NS7imffyucGad7F_thee7FUBaCot6t5QloSDoorgLo4-1C7UEtNnmC_AkciqYaUkj2J4mVupYxZc2HIXCZCTw7hfMk9Jt1GaZ--tzbq_YMSqNU4ejt23lc1KpChMdKzYljajgp2fHGQtCA=s320"
+            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/ZToon/ZT001.png"
         },
         {
-            "imageURL": "https://blogger.googleusercontent.com/img/a/AVvXsEglmbMr71JkSeI8tcr1N_H1eQAbWM0zTn_j9OJ2UZc_dtrt3TyCm4PSNhmahifICQgHli5K66kXp1ENvsAhimeOPYXMMZELaqWRkTPSpBatnZkAiS-CYWK8ErsbGlrUuxHmslGj0JC9MxfczZ_nv7StcIE7n4NmCMNDYPafD3-JNN28sQUKOsyhScflfg=s1030",
+            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/YehudaDevir/YD07.jpeg",
             "number": "5/9",
             "creator": "Yehuda Devir",
-            "avatar": "https://blogger.googleusercontent.com/img/a/AVvXsEheFVWvNhv-ddggJPGn_Bsu14mEGi9eGQfrda-BFJoLj_JqjBwxhQNBbeWHMrroarNbzjn_2vkhjMAVtZmFPQju-wiHmN7IvsLOM_TxpFwv8vJ2gwritaozSqNCKWv9LDYyewOpJxY--RyDoikc_7zh1KXGC2rDduiJIrVTt_67lpk-gfIDQvqsPLM7fQ=s320"
+            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/YehudaDevir/YD001.jpg"
         },
         {
-            "imageURL": "https://blogger.googleusercontent.com/img/a/AVvXsEg0ZKtn4_KWRuwpux6eKx1MBzDeSwQva4EbORlx1wOJYWlou2B6RRSPzAly0Ew4F1709dVqQ01cuPyaM7aAYhdAMxo-XzNKZ3iX9xxhxVkZzgY5eh8HuDKZtPFqgU7MJQfkEIfSWAYb2Fye7wDTrl86Q1wTGhUXSE6aIqj7_lV8nZc4yPhyygCFXpXMyw=s728",
+            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AriStocrate/AS07.jpg",
             "number": "4/9",
             "creator": "Ari_Stocrate",
-            "avatar": "https://blogger.googleusercontent.com/img/a/AVvXsEi6HKBRye_sZLKHB1g37b1SD4ECZ_RBON-5dZf2BF6R2NYKc8tYQje6mh0TtRuionQR5Ic7Ttga0NbSnMKzmF7m1PpniY4Hs7BTiguaHFbEevcUOI5tWGHgCEXnZ_Oqi6D-r2v9uDEujA3mITBUIUb0Zlzlg9cUSRjSKgXm9PHkBxzORgmSbxYFAcoY9A=s320"
+            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AriStocrate/AS001.jpg"
         },
         {
-            "imageURL": "https://blogger.googleusercontent.com/img/a/AVvXsEiMsKr0DqTCHgsWVOuyUVnR97t7gdiTn2Ggb4V4nnfQPpVx9KVmJ2reywRswmNFIA-_l3s2LwyK85F9cRNtOFT8G6mJ5BhJJUyqPCOhtUhVtq3KES-o736UYskHV-S60JCTowo8kisrh4qwBde60RvXcJSzrYKTCK195Dm6qvRKbpM4nmsT0SuDsgaYVg=s622",
+            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/LiseMyhre/LM07.jpg",
             "number": "3/9",
             "creator": "Lise Myhre",
-            "avatar": "https://blogger.googleusercontent.com/img/a/AVvXsEgQNaMYnoh0Yd5HymFhJThTjD2hu8Tbo3Qd1ScgHMYH6HNTMAvZ0f3DAvGzoOyWbLqlUpDjzzM19PcnCupOc7xg8ehZ0mttpQcatQOrYHlY-Y_AT429vCDTB3poQgOar9djyJKXYZo58Ys0_NFGE84aHxPbBCgEFnI5GLhyUQMRVd5v2cm4w6EQ72sBNQ=s320"
+            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/LiseMyhre/LM001.jpg"
         },
         {
-            "imageURL": "https://blogger.googleusercontent.com/img/a/AVvXsEh-pd4WFGjevmsAKrazgSuMqAKa4rm4dRAKdr8-r8BOklkWmNYCTi91Gke8YKauB78g3OT0jzUwpfPmHgZsdG6bCYF0btx4a6pZukmNxFA1UY-lgE5DVC_vGeAH1Iaaz_J9l8g6P5_d89tJuBILZQkJKqOP3Det_TmPUMIZxxj_IXXywE3QXBHIpmqVaA=s504",
+            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/OlegKuvaev/OK07.png",
             "number": "2/9",
             "creator": "Олег Куваев",
-            "avatar": "https://blogger.googleusercontent.com/img/a/AVvXsEiv3vu3zBopdYyKuoKCd4thfpZbP0vGOxFxp5XSNrwyEKJWtS9_jP_cVuL03JCM4PcKIqePt-s68wN1vSVT68KB54s5JEZZsH7FZF3rriyGjyweVwpu4CwAs9R_dI0HypQw4AQgO9B0gGDJ_UFdeV6ir9dEUOLCaIZ1aZhrYBbHLYfXrMkWiMA8kpglgA=s320"
+            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/OlegKuvaev/OK001.png"
         },
         {
-            "imageURL": "https://blogger.googleusercontent.com/img/a/AVvXsEgqyx0x9QZj6ZkMYtMB6ly8bPtHZY-XfLdQT_VWwpU4CtjDeyjA2mR3p3Hgc1nZRJBoGfLbpWhktVB2tILS9rvqyPNFyIngxIyTfGmWH1IOoWa9tOlIYYbW002LHkLUq8UDQxvCcm_E02xtbLbgR8cqGn-rgJlagkarrEnbsH2YKfJcJRt2EbRdgfnbVA=s989",
-            "number": "1/9",
+            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/MattTarpley/MT07.png",
+            "number":"1/9",
             "creator": "Matt Tarpley",
-            "avatar": "https://blogger.googleusercontent.com/img/a/AVvXsEgf9V_6SrqRsKIdzZDiM8b1i0kHBGoRJZJXM7BJ74HrwW7NWgYFMfenUY27DpuP5KQp4tSRVHKB1nbdULyzcDhkbFrcG445taEaMWCYVBCP4CzE53lt3aeidHEn84CBYrmJuXEIBMhnSOa5QOQAkM9RGffqc2tDlIfeNqt7zpREQUFGJPWV7WP7hTqDBg=s320"
+            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/MattTarpley/MT001.jpg"
         }
     ]
 }
