@@ -145,28 +145,28 @@
             "avatar":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/MattTarpley/MT001.jpg"
         },
         {
-            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AdamEllis/Adam%2002.png",
-            "number": "24/14",
-            "creator": "Adam Ellis",
-            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AdamEllis/Adam%20001.jpg"
+            "imageURL":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AdamEllis/Adam%2002.png",
+            "number":"24/14",
+            "creator":"Adam Ellis",
+            "avatar":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AdamEllis/Adam%20001.jpg"
         },
         {
-            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AlinaTysoe/beanie%2002.jpeg",
-            "number": "23/14",
-            "creator": "Alina Tysoe",
-            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AlinaTysoe/beanie%20001.jpg"
+            "imageURL":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AlinaTysoe/beanie%2002.jpeg",
+            "number":"23/14",
+            "creator":"Alina Tysoe",
+            "avatar":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AlinaTysoe/beanie%20001.jpg"
         },
         {
-            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/JorgenVanSanten/JVS02.jpg",
-            "number": "22/14",
-            "creator": "Jorgen Van Santen",
-            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/JorgenVanSanten/JVS001.jpg"
+            "imageURL":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/JorgenVanSanten/JVS02.jpg",
+            "number":"22/14",
+            "creator":"Jorgen Van Santen",
+            "avatar":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/JorgenVanSanten/JVS001.jpg"
         },
         {
-            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/J.L.Westover/ML02.png",
-            "number": "21/14",
-            "creator": "J.L.Westover",
-            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/J.L.Westover/ML001.jpg"
+            "imageURL":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/J.L.Westover/ML02.png",
+            "number":"21/14",
+            "creator":"J.L.Westover",
+            "avatar":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/J.L.Westover/ML001.jpg"
         },
         {
             "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/ThaakirahJacobs/TJ02.jpg",
