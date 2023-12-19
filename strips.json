@@ -575,7 +575,9 @@
          "number":"1/12",
          "creator":"Matt Tarpley",
          "avatar":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/MattTarpley/MT001.jpg"
-      },
+      }
+   ],
+   "hits02":[
       {
          "imageURL":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AdamEllis/Adam%2005.jpg",
          "number":"24/11",
@@ -863,9 +865,7 @@
          "number":"1/10",
          "creator":"Matt Tarpley",
          "avatar":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/MattTarpley/MT001.jpg"
-      }
-   ],
-   "hits02":[
+      },
       {
          "imageURL":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AdamEllis/Adam%2007.jpg",
          "number":"24/9",
@@ -1153,7 +1153,9 @@
          "number":"1/8",
          "creator":"Matt Tarpley",
          "avatar":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/MattTarpley/MT001.jpg"
-      },
+      }
+   ],
+   "hits03":[
       {
          "imageURL":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AdamEllis/Adam%2009.jpg",
          "number":"24/7",
@@ -1585,9 +1587,7 @@
          "number":"1/5",
          "creator":"Matt Tarpley",
          "avatar":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/MattTarpley/MT001.jpg"
-      }
-   ],
-   "hits03":[
+      },
       {
          "imageURL":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AdamEllis/Adam%2012.jpg",
          "number":"24/4",
@@ -1731,7 +1731,9 @@
          "number":"1/4",
          "creator":"Matt Tarpley",
          "avatar":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/MattTarpley/MT001.jpg"
-      },
+      }
+   ],
+   "hits04":[
       {
          "imageURL":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AdamEllis/Adam%2013.jpg",
          "number":"24/3",
