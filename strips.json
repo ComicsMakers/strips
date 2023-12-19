@@ -1,868 +1,868 @@
 {
-    "hits01": [
-        {
-            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AdamEllis/Adam%2001.jpg",
-            "number": "24/15",
-            "creator": "Adam Ellis",
-            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AdamEllis/Adam%20001.jpg"
-        },
-        {
-            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AlinaTysoe/beanie%2001.jpeg",
-            "number": "23/15",
-            "creator": "Alina Tysoe",
-            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AlinaTysoe/beanie%20001.jpg"
-        },
-        {
-            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/JorgenVanSanten/JVS01.jpg",
-            "number": "22/15",
-            "creator": "Jorgen Van Santen",
-            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/JorgenVanSanten/JVS001.jpg"
-        },
-        {
-            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/J.L.Westover/ML01.png",
-            "number": "21/15",
-            "creator": "J.L.Westover",
-            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/J.L.Westover/ML001.jpg"
-        },
-        {
-            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/ThaakirahJacobs/TJ01.jpg",
-            "number": "20/15",
-            "creator": "Thaakirah Jacobs",
-            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/ThaakirahJacobs/TJ001.jpg"
-        },
-        {
-            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/MikeSalcedo/MS01.jpg",
-            "number": "19/15",
-            "creator": "Mike Salcedo",
-            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/MikeSalcedo/MS00.jpg"
-        },
-        {
-            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AstkhikRakimova/AR01.jpg",
-            "number": "18/15",
-            "creator": "Astkhik Rakimova",
-            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AstkhikRakimova/AR001.jpg"
-        },
-        {
-            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/BrownPaperbag/BP01.jpg",
-            "number": "17/15",
-            "creator": "Brown Paperbag",
-            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/BrownPaperbag/BP001.jpg"
-        },
-        {
-            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/SarahAndersen/SA01.jpg",
-            "number": "16/15",
-            "creator": "Sarah Andersen",
-            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/SarahAndersen/SA001.jpg"
-        },
-        {
-            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AnnetPlanet/AP01.jpg",
-            "number": "15/15",
-            "creator": "Annet Planet",
-            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AnnetPlanet/AP001.jpg"
-        },
-        {
-            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AndrewHou/AH01.png",
-            "number": "14/15",
-            "creator": "Andrew Hou",
-            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AndrewHou/AH001.jpg"
-        },
-        {
-            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/CornelStefanache/CS01.jpg",
-            "number": "13/15",
-            "creator": "Cornel Stefanache",
-            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/CornelStefanache/CS001.png"
-        },
-        {
-            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/MikaelWulff/MW01.png",
-            "number": "12/15",
-            "creator": "Mikael Wulff",
-            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/MikaelWulff/MW001.jpg"
-        },
-        {
-            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/Crocodile/JK01.jpg",
-            "number": "11/15",
-            "creator": "Журнал - Крокодил",
-            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/Crocodile/JK001.png"
-        },
-        {
-            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/ValBun/VB01.jpg",
-            "number": "10/15",
-            "creator": "ValBun",
-            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/ValBun/VB001.jpg"
-        },
-        {
-            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/BrandonJ.Santiago/BJS01.jpg",
-            "number": "9/15",
-            "creator": "Brandon J. Santiago",
-            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/BrandonJ.Santiago/BJS001.jpg"
-        },
-        {
-            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/JoshWright/JW01.jpg",
-            "number": "8/15",
-            "creator": "Josh Wright",
-            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/JoshWright/JW00.jpg"
-        },
-        {
-            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/RobertAdler/RA01.png",
-            "number": "7/15",
-            "creator": "Robert Adler",
-            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/RobertAdler/RA00.jpg"
-        },
-        {
-            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/ZToon/ZT01.jpeg",
-            "number": "6/15",
-            "creator": "Z-Doodler",
-            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/ZToon/ZT001.png"
-        },
-        {
-            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/YehudaDevir/YD01.jpg",
-            "number": "5/15",
-            "creator": "Yehuda Devir",
-            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/YehudaDevir/YD001.jpg"
-        },
-        {
-            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AriStocrate/AS01.jpg",
-            "number": "4/15",
-            "creator": "Ari_Stocrate",
-            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AriStocrate/AS001.jpg"
-        },
-        {
-            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/LiseMyhre/LM01.jpg",
-            "number": "3/15",
-            "creator": "Lise Myhre",
-            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/LiseMyhre/LM001.jpg"
-        },
-        {
-            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/OlegKuvaev/OK01.png",
-            "number": "2/15",
-            "creator": "Олег Куваев",
-            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/OlegKuvaev/OK001.png"
-        },
-        {
-            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/MattTarpley/MT01.png",
-            "number": "1/15",
-            "creator": "Matt Tarpley",
-            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/MattTarpley/MT001.jpg"
-        },
-        {
-            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AdamEllis/Adam%2002.png",
-            "number": "24/14",
-            "creator": "Adam Ellis",
-            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AdamEllis/Adam%20001.jpg"
-        },
-        {
-            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AlinaTysoe/beanie%2002.jpeg",
-            "number": "23/14",
-            "creator": "Alina Tysoe",
-            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AlinaTysoe/beanie%20001.jpg"
-        },
-        {
-            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/JorgenVanSanten/JVS02.jpg",
-            "number": "22/14",
-            "creator": "Jorgen Van Santen",
-            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/JorgenVanSanten/JVS001.jpg"
-        },
-        {
-            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/J.L.Westover/ML02.png",
-            "number": "21/14",
-            "creator": "J.L.Westover",
-            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/J.L.Westover/ML001.jpg"
-        },
-        {
-            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/ThaakirahJacobs/TJ02.jpg",
-            "number": "20/14",
-            "creator": "Thaakirah Jacobs",
-            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/ThaakirahJacobs/TJ001.jpg"
-        },
-        {
-            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/MikeSalcedo/MS02.jpg",
-            "number": "19/14",
-            "creator": "Mike Salcedo",
-            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/MikeSalcedo/MS00.jpg"
-        },
-        {
-            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AstkhikRakimova/AR02.jpg",
-            "number": "18/14",
-            "creator": "Astkhik Rakimova",
-            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AstkhikRakimova/AR001.jpg"
-        },
-        {
-            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/BrownPaperbag/BP02.jpg",
-            "number": "17/14",
-            "creator": "Brown Paperbag",
-            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/BrownPaperbag/BP001.jpg"
-        },
-        {
-            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/SarahAndersen/SA02.jpg",
-            "number": "16/14",
-            "creator": "Sarah Andersen",
-            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/SarahAndersen/SA001.jpg"
-        },
-        {
-            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AnnetPlanet/AP02.jpg",
-            "number": "15/14",
-            "creator": "Annet Planet",
-            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AnnetPlanet/AP001.jpg"
-        },
-        {
-            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AndrewHou/AH02.png",
-            "number": "14/14",
-            "creator": "Andrew Hou",
-            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AndrewHou/AH001.jpg"
-        },
-        {
-            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/CornelStefanache/CS02.png",
-            "number": "13/14",
-            "creator": "Cornel Stefanache",
-            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/CornelStefanache/CS001.png"
-        },
-        {
-            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/MikaelWulff/MW02.jpeg",
-            "number": "12/14",
-            "creator": "Mikael Wulff",
-            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/MikaelWulff/MW001.jpg"
-        },
-        {
-            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/Crocodile/JK02.jpg",
-            "number": "11/14",
-            "creator": "Журнал - Крокодил",
-            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/Crocodile/JK001.png"
-        },
-        {
-            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/ValBun/VB02.jpg",
-            "number": "10/14",
-            "creator": "ValBun",
-            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/ValBun/VB001.jpg"
-        },
-        {
-            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/BrandonJ.Santiago/BJS02.jpg",
-            "number": "9/14",
-            "creator": "Brandon J. Santiago",
-            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/BrandonJ.Santiago/BJS001.jpg"
-        },
-        {
-            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/JoshWright/JW02.jpg",
-            "number": "8/14",
-            "creator": "Josh Wright",
-            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/JoshWright/JW00.jpg"
-        },
-        {
-            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/RobertAdler/RA02.png",
-            "number": "7/14",
-            "creator": "Robert Adler",
-            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/RobertAdler/RA00.jpg"
-        },
-        {
-            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/ZToon/ZT02.jpeg",
-            "number": "6/14",
-            "creator": "Z-Doodler",
-            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/ZToon/ZT001.png"
-        },
-        {
-            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/YehudaDevir/YD02.jpeg",
-            "number": "5/14",
-            "creator": "Yehuda Devir",
-            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/YehudaDevir/YD001.jpg"
-        },
-        {
-            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AriStocrate/AS02.jpg",
-            "number": "4/14",
-            "creator": "Ari_Stocrate",
-            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AriStocrate/AS001.jpg"
-        },
-        {
-            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/LiseMyhre/LM02.jpg",
-            "number": "3/14",
-            "creator": "Lise Myhre",
-            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/LiseMyhre/LM001.jpg"
-        },
-        {
-            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/OlegKuvaev/OK02.png",
-            "number": "2/14",
-            "creator": "Олег Куваев",
-            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/OlegKuvaev/OK001.png"
-        },
-        {
-            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/MattTarpley/MT02.png",
-            "number": "1/14",
-            "creator": "Matt Tarpley",
-            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/MattTarpley/MT001.jpg"
-        },
-        {
-            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AdamEllis/Adam%2003.jpg",
-            "number": "24/13",
-            "creator": "Adam Ellis",
-            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AdamEllis/Adam%20001.jpg"
-        },
-        {
-            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AlinaTysoe/beanie%2003.jpeg",
-            "number": "23/13",
-            "creator": "Alina Tysoe",
-            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AlinaTysoe/beanie%20001.jpg"
-        },
-        {
-            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/JorgenVanSanten/JVS03.jpg",
-            "number": "22/13",
-            "creator": "Jorgen Van Santen",
-            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/JorgenVanSanten/JVS001.jpg"
-        },
-        {
-            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/J.L.Westover/ML03.jpg",
-            "number": "21/13",
-            "creator": "J.L.Westover",
-            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/J.L.Westover/ML001.jpg"
-        },
-        {
-            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/ThaakirahJacobs/TJ03.jpg",
-            "number": "20/13",
-            "creator": "Thaakirah Jacobs",
-            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/ThaakirahJacobs/TJ001.jpg"
-        },
-        {
-            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/MikeSalcedo/MS03.jpg",
-            "number": "19/13",
-            "creator": "Mike Salcedo",
-            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/MikeSalcedo/MS00.jpg"
-        },
-        {
-            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AstkhikRakimova/AR03.jpg",
-            "number": "18/13",
-            "creator": "Astkhik Rakimova",
-            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AstkhikRakimova/AR001.jpg"
-        },
-        {
-            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/BrownPaperbag/BP03.jpg",
-            "number": "17/13",
-            "creator": "Brown Paperbag",
-            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/BrownPaperbag/BP001.jpg"
-        },
-        {
-            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/SarahAndersen/SA03.jpg",
-            "number": "16/13",
-            "creator": "Sarah Andersen",
-            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/SarahAndersen/SA001.jpg"
-        },
-        {
-            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AnnetPlanet/AP03.png",
-            "number": "15/13",
-            "creator": "Annet Planet",
-            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AnnetPlanet/AP001.jpg"
-        },
-        {
-            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AndrewHou/AH03.png",
-            "number": "14/13",
-            "creator": "Andrew Hou",
-            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AndrewHou/AH001.jpg"
-        },
-        {
-            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/CornelStefanache/CS03.jpeg",
-            "number": "13/13",
-            "creator": "Cornel Stefanache",
-            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/CornelStefanache/CS001.png"
-        },
-        {
-            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/MikaelWulff/MW03.jpeg",
-            "number": "12/13",
-            "creator": "Mikael Wulff",
-            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/MikaelWulff/MW001.jpg"
-        },
-        {
-            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/Crocodile/JK03.jpg",
-            "number": "11/13",
-            "creator": "Журнал - Крокодил",
-            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/Crocodile/JK001.png"
-        },
-        {
-            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/ValBun/VB03.jpg",
-            "number": "10/13",
-            "creator": "ValBun",
-            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/ValBun/VB001.jpg"
-        },
-        {
-            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/BrandonJ.Santiago/BJS03.jpg",
-            "number": "9/13",
-            "creator": "Brandon J. Santiago",
-            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/BrandonJ.Santiago/BJS001.jpg"
-        },
-        {
-            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/JoshWright/JW03.jpg",
-            "number": "8/13",
-            "creator": "Josh Wright",
-            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/JoshWright/JW00.jpg"
-        },
-        {
-            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/RobertAdler/RA03.png",
-            "number": "7/13",
-            "creator": "Robert Adler",
-            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/RobertAdler/RA00.jpg"
-        },
-        {
-            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/ZToon/ZT03.jpeg",
-            "number": "6/13",
-            "creator": "Z-Doodler",
-            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/ZToon/ZT001.png"
-        },
-        {
-            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/YehudaDevir/YD03.jpeg",
-            "number": "5/13",
-            "creator": "Yehuda Devir",
-            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/YehudaDevir/YD001.jpg"
-        },
-        {
-            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AriStocrate/AS03.jpg",
-            "number": "4/13",
-            "creator": "Ari_Stocrate",
-            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AriStocrate/AS001.jpg"
-        },
-        {
-            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/LiseMyhre/LM03.jpg",
-            "number": "3/13",
-            "creator": "Lise Myhre",
-            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/LiseMyhre/LM001.jpg"
-        },
-        {
-            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/OlegKuvaev/OK03.png",
-            "number": "2/13",
-            "creator": "Олег Куваев",
-            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/OlegKuvaev/OK001.png"
-        },
-        {
-            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/MattTarpley/MT03.png",
-            "number": "1/13",
-            "creator": "Matt Tarpley",
-            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/MattTarpley/MT001.jpg"
-        },
-        {
-            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AdamEllis/Adam%2004.jpg",
-            "number": "24/12",
-            "creator": "Adam Ellis",
-            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AdamEllis/Adam%20001.jpg"
-        },
-        {
-            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AlinaTysoe/beanie%2004.jpeg",
-            "number": "23/12",
-            "creator": "Alina Tysoe",
-            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AlinaTysoe/beanie%20001.jpg"
-        },
-        {
-            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/JorgenVanSanten/JVS04.jpg",
-            "number": "22/12",
-            "creator": "Jorgen Van Santen",
-            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/JorgenVanSanten/JVS001.jpg"
-        },
-        {
-            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/J.L.Westover/ML04.png",
-            "number": "21/12",
-            "creator": "J.L.Westover",
-            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/J.L.Westover/ML001.jpg"
-        },
-        {
-            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/ThaakirahJacobs/TJ04.jpg",
-            "number": "20/12",
-            "creator": "Thaakirah Jacobs",
-            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/ThaakirahJacobs/TJ001.jpg"
-        },
-        {
-            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/MikeSalcedo/MS04.jpg",
-            "number": "19/12",
-            "creator": "Mike Salcedo",
-            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/MikeSalcedo/MS00.jpg"
-        },
-        {
-            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AstkhikRakimova/AR04.jpg",
-            "number": "18/12",
-            "creator": "Astkhik Rakimova",
-            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AstkhikRakimova/AR001.jpg"
-        },
-        {
-            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/BrownPaperbag/BP04.jpg",
-            "number": "17/12",
-            "creator": "Brown Paperbag",
-            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/BrownPaperbag/BP001.jpg"
-        },
-        {
-            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/SarahAndersen/SA04.jpg",
-            "number": "16/12",
-            "creator": "Sarah Andersen",
-            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/SarahAndersen/SA001.jpg"
-        },
-        {
-            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AnnetPlanet/AP04.jpg",
-            "number": "15/12",
-            "creator": "Annet Planet",
-            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AnnetPlanet/AP001.jpg"
-        },
-        {
-            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AndrewHou/AH04.png",
-            "number": "14/12",
-            "creator": "Andrew Hou",
-            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AndrewHou/AH001.jpg"
-        },
-        {
-            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/CornelStefanache/CS04.jpeg",
-            "number": "13/12",
-            "creator": "Cornel Stefanache",
-            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/CornelStefanache/CS001.png"
-        },
-        {
-            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/MikaelWulff/MW04.jpeg",
-            "number": "12/12",
-            "creator": "Mikael Wulff",
-            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/MikaelWulff/MW001.jpg"
-        },
-        {
-            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/Crocodile/JK04.jpg",
-            "number": "11/12",
-            "creator": "Журнал - Крокодил",
-            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/Crocodile/JK001.png"
-        },
-        {
-            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/ValBun/VB04.jpg",
-            "number": "10/12",
-            "creator": "ValBun",
-            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/ValBun/VB001.jpg"
-        },
-        {
-            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/BrandonJ.Santiago/BJS04.jpg",
-            "number": "9/12",
-            "creator": "Brandon J. Santiago",
-            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/BrandonJ.Santiago/BJS001.jpg"
-        },
-        {
-            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/JoshWright/JW04.png",
-            "number": "8/12",
-            "creator": "Josh Wright",
-            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/JoshWright/JW00.jpg"
-        },
-        {
-            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/RobertAdler/RA04.png",
-            "number": "7/12",
-            "creator": "Robert Adler",
-            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/RobertAdler/RA00.jpg"
-        },
-        {
-            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/ZToon/ZT04.jpeg",
-            "number": "6/12",
-            "creator": "Z-Doodler",
-            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/ZToon/ZT001.png"
-        },
-        {
-            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/YehudaDevir/YD04.jpg",
-            "number": "5/12",
-            "creator": "Yehuda Devir",
-            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/YehudaDevir/YD001.jpg"
-        },
-        {
-            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AriStocrate/AS04.jpg",
-            "number": "4/12",
-            "creator": "Ari_Stocrate",
-            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AriStocrate/AS001.jpg"
-        },
-        {
-            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/LiseMyhre/LM04.jpg",
-            "number": "3/12",
-            "creator": "Lise Myhre",
-            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/LiseMyhre/LM001.jpg"
-        },
-        {
-            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/OlegKuvaev/OK04.png",
-            "number": "2/12",
-            "creator": "Олег Куваев",
-            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/OlegKuvaev/OK001.png"
-        },
-        {
-            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/MattTarpley/MT04.png",
-            "number": "1/12",
-            "creator": "Matt Tarpley",
-            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/MattTarpley/MT001.jpg"
-        },
-        {
-            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AdamEllis/Adam%2005.jpg",
-            "number": "24/11",
-            "creator": "Adam Ellis",
-            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AdamEllis/Adam%20001.jpg"
-        },
-        {
-            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AlinaTysoe/beanie%2005.jpeg",
-            "number": "23/11",
-            "creator": "Alina Tysoe",
-            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AlinaTysoe/beanie%20001.jpg"
-        },
-        {
-            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/JorgenVanSanten/JVS05.jpg",
-            "number": "22/11",
-            "creator": "Jorgen Van Santen",
-            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/JorgenVanSanten/JVS001.jpg"
-        },
-        {
-            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/J.L.Westover/ML05.jpg",
-            "number": "21/11",
-            "creator": "J.L.Westover",
-            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/J.L.Westover/ML001.jpg"
-        },
-        {
-            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/ThaakirahJacobs/TJ05.jpg",
-            "number": "20/11",
-            "creator": "Thaakirah Jacobs",
-            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/ThaakirahJacobs/TJ001.jpg"
-        },
-        {
-            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/MikeSalcedo/MS05.jpg",
-            "number": "19/11",
-            "creator": "Mike Salcedo",
-            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/MikeSalcedo/MS00.jpg"
-        },
-        {
-            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AstkhikRakimova/AR05.jpg",
-            "number": "18/11",
-            "creator": "Astkhik Rakimova",
-            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AstkhikRakimova/AR001.jpg"
-        },
-        {
-            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/BrownPaperbag/BP05.jpg",
-            "number": "17/11",
-            "creator": "Brown Paperbag",
-            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/BrownPaperbag/BP001.jpg"
-        },
-        {
-            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/SarahAndersen/SA05.jpg",
-            "number": "16/11",
-            "creator": "Sarah Andersen",
-            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/SarahAndersen/SA001.jpg"
-        },
-        {
-            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AnnetPlanet/AP05.jpg",
-            "number": "15/11",
-            "creator": "Annet Planet",
-            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AnnetPlanet/AP001.jpg"
-        },
-        {
-            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AndrewHou/AH05.png",
-            "number": "14/11",
-            "creator": "Andrew Hou",
-            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AndrewHou/AH001.jpg"
-        },
-        {
-            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/CornelStefanache/CS05.jpeg",
-            "number": "13/11",
-            "creator": "Cornel Stefanache",
-            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/CornelStefanache/CS001.png"
-        },
-        {
-            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/MikaelWulff/MW05.jpeg",
-            "number": "12/11",
-            "creator": "Mikael Wulff",
-            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/MikaelWulff/MW001.jpg"
-        },
-        {
-            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/Crocodile/JK05.jpg",
-            "number": "11/11",
-            "creator": "Журнал - Крокодил",
-            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/Crocodile/JK001.png"
-        },
-        {
-            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/ValBun/VB05.jpg",
-            "number": "10/11",
-            "creator": "ValBun",
-            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/ValBun/VB001.jpg"
-        },
-        {
-            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/BrandonJ.Santiago/BJS05.jpg",
-            "number": "9/11",
-            "creator": "Brandon J. Santiago",
-            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/BrandonJ.Santiago/BJS001.jpg"
-        },
-        {
-            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/JoshWright/JW05.jpg",
-            "number": "8/11",
-            "creator": "Josh Wright",
-            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/JoshWright/JW00.jpg"
-        },
-        {
-            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/RobertAdler/RA05.png",
-            "number": "7/11",
-            "creator": "Robert Adler",
-            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/RobertAdler/RA00.jpg"
-        },
-        {
-            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/ZToon/ZT05.jpeg",
-            "number": "6/11",
-            "creator": "Z-Doodler",
-            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/ZToon/ZT001.png"
-        },
-        {
-            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/YehudaDevir/YD05.jpeg",
-            "number": "5/11",
-            "creator": "Yehuda Devir",
-            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/YehudaDevir/YD001.jpg"
-        },
-        {
-            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AriStocrate/AS05.jpg",
-            "number": "4/11",
-            "creator": "Ari_Stocrate",
-            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AriStocrate/AS001.jpg"
-        },
-        {
-            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/LiseMyhre/LM05.jpg",
-            "number": "3/11",
-            "creator": "Lise Myhre",
-            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/LiseMyhre/LM001.jpg"
-        },
-        {
-            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/OlegKuvaev/OK05.png",
-            "number": "2/11",
-            "creator": "Олег Куваев",
-            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/OlegKuvaev/OK001.png"
-        },
-        {
-            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/MattTarpley/MT05.png",
-            "number": "1/11",
-            "creator": "Matt Tarpley",
-            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/MattTarpley/MT001.jpg"
-        },
-        {
-            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AdamEllis/Adam%2006.jpg",
-            "number": "24/10",
-            "creator": "Adam Ellis",
-            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AdamEllis/Adam%20001.jpg"
-        },
-        {
-            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AlinaTysoe/beanie%2006.jpeg",
-            "number": "23/10",
-            "creator": "Alina Tysoe",
-            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AlinaTysoe/beanie%20001.jpg"
-        },
-        {
-            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/JorgenVanSanten/JVS06.jpg",
-            "number": "22/10",
-            "creator": "Jorgen Van Santen",
-            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/JorgenVanSanten/JVS001.jpg"
-        },
-        {
-            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/J.L.Westover/ML06.jpeg",
-            "number": "21/10",
-            "creator": "J.L.Westover",
-            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/J.L.Westover/ML001.jpg"
-        },
-        {
-            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/ThaakirahJacobs/TJ06.jpg",
-            "number": "20/10",
-            "creator": "Thaakirah Jacobs",
-            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/ThaakirahJacobs/TJ001.jpg"
-        },
-        {
-            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/MikeSalcedo/MS06.jpg",
-            "number": "19/10",
-            "creator": "Mike Salcedo",
-            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/MikeSalcedo/MS00.jpg"
-        },
-        {
-            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AstkhikRakimova/AR06.jpg",
-            "number": "18/10",
-            "creator": "Astkhik Rakimova",
-            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AstkhikRakimova/AR001.jpg"
-        },
-        {
-            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/BrownPaperbag/BP06.jpg",
-            "number": "17/10",
-            "creator": "Brown Paperbag",
-            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/BrownPaperbag/BP001.jpg"
-        },
-        {
-            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/SarahAndersen/SA06.jpg",
-            "number": "16/10",
-            "creator": "Sarah Andersen",
-            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/SarahAndersen/SA001.jpg"
-        },
-        {
-            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AnnetPlanet/AP06.jpg",
-            "number": "15/10",
-            "creator": "Annet Planet",
-            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AnnetPlanet/AP001.jpg"
-        },
-        {
-            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AndrewHou/AH06.png",
-            "number": "14/10",
-            "creator": "Andrew Hou",
-            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AndrewHou/AH001.jpg"
-        },
-        {
-            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/CornelStefanache/CS06.jpeg",
-            "number": "13/10",
-            "creator": "Cornel Stefanache",
-            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/CornelStefanache/CS001.png"
-        },
-        {
-            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/MikaelWulff/MW06.jpeg",
-            "number": "12/10",
-            "creator": "Mikael Wulff",
-            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/MikaelWulff/MW001.jpg"
-        },
-        {
-            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/Crocodile/JK06.png",
-            "number": "11/10",
-            "creator": "Журнал - Крокодил",
-            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/Crocodile/JK001.png"
-        },
-        {
-            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/ValBun/VB06.jpg",
-            "number": "10/10",
-            "creator": "ValBun",
-            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/ValBun/VB001.jpg"
-        },
-        {
-            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/BrandonJ.Santiago/BJS06.jpg",
-            "number": "9/10",
-            "creator": "Brandon J. Santiago",
-            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/BrandonJ.Santiago/BJS001.jpg"
-        },
-        {
-            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/JoshWright/JW06.jpg",
-            "number": "8/10",
-            "creator": "Josh Wright",
-            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/JoshWright/JW00.jpg"
-        },
-        {
-            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/RobertAdler/RA06.png",
-            "number": "7/10",
-            "creator": "Robert Adler",
-            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/RobertAdler/RA00.jpg"
-        },
-        {
-            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/ZToon/ZT06.jpeg",
-            "number": "6/10",
-            "creator": "Z-Doodler",
-            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/ZToon/ZT001.png"
-        },
-        {
-            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/YehudaDevir/YD06.jpg",
-            "number": "5/10",
-            "creator": "Yehuda Devir",
-            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/YehudaDevir/YD001.jpg"
-        },
-        {
-            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AriStocrate/AS06.jpg",
-            "number": "4/10",
-            "creator": "Ari_Stocrate",
-            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AriStocrate/AS001.jpg"
-        },
-        {
-            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/LiseMyhre/LM06.jpg",
-            "number": "3/10",
-            "creator": "Lise Myhre",
-            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/LiseMyhre/LM001.jpg"
-        },
-        {
-            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/OlegKuvaev/OK06.png",
-            "number": "2/10",
-            "creator": "Олег Куваев",
-            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/OlegKuvaev/OK001.png"
-        },
-        {
-            "imageURL": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/MattTarpley/MT06.png",
-            "number": "1/10",
-            "creator": "Matt Tarpley",
-            "avatar": "https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/MattTarpley/MT001.jpg"
-        }
-    ]
+   "hits01":[
+      {
+         "imageURL":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AdamEllis/Adam%2001.jpg",
+         "number":"24/15",
+         "creator":"Adam Ellis",
+         "avatar":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AdamEllis/Adam%20001.jpg"
+      },
+      {
+         "imageURL":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AlinaTysoe/beanie%2001.jpeg",
+         "number":"23/15",
+         "creator":"Alina Tysoe",
+         "avatar":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AlinaTysoe/beanie%20001.jpg"
+      },
+      {
+         "imageURL":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/JorgenVanSanten/JVS01.jpg",
+         "number":"22/15",
+         "creator":"Jorgen Van Santen",
+         "avatar":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/JorgenVanSanten/JVS001.jpg"
+      },
+      {
+         "imageURL":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/J.L.Westover/ML01.png",
+         "number":"21/15",
+         "creator":"J.L.Westover",
+         "avatar":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/J.L.Westover/ML001.jpg"
+      },
+      {
+         "imageURL":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/ThaakirahJacobs/TJ01.jpg",
+         "number":"20/15",
+         "creator":"Thaakirah Jacobs",
+         "avatar":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/ThaakirahJacobs/TJ001.jpg"
+      },
+      {
+         "imageURL":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/MikeSalcedo/MS01.jpg",
+         "number":"19/15",
+         "creator":"Mike Salcedo",
+         "avatar":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/MikeSalcedo/MS00.jpg"
+      },
+      {
+         "imageURL":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AstkhikRakimova/AR01.jpg",
+         "number":"18/15",
+         "creator":"Astkhik Rakimova",
+         "avatar":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AstkhikRakimova/AR001.jpg"
+      },
+      {
+         "imageURL":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/BrownPaperbag/BP01.jpg",
+         "number":"17/15",
+         "creator":"Brown Paperbag",
+         "avatar":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/BrownPaperbag/BP001.jpg"
+      },
+      {
+         "imageURL":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/SarahAndersen/SA01.jpg",
+         "number":"16/15",
+         "creator":"Sarah Andersen",
+         "avatar":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/SarahAndersen/SA001.jpg"
+      },
+      {
+         "imageURL":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AnnetPlanet/AP01.jpg",
+         "number":"15/15",
+         "creator":"Annet Planet",
+         "avatar":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AnnetPlanet/AP001.jpg"
+      },
+      {
+         "imageURL":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AndrewHou/AH01.png",
+         "number":"14/15",
+         "creator":"Andrew Hou",
+         "avatar":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AndrewHou/AH001.jpg"
+      },
+      {
+         "imageURL":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/CornelStefanache/CS01.jpg",
+         "number":"13/15",
+         "creator":"Cornel Stefanache",
+         "avatar":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/CornelStefanache/CS001.png"
+      },
+      {
+         "imageURL":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/MikaelWulff/MW01.png",
+         "number":"12/15",
+         "creator":"Mikael Wulff",
+         "avatar":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/MikaelWulff/MW001.jpg"
+      },
+      {
+         "imageURL":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/Crocodile/JK01.jpg",
+         "number":"11/15",
+         "creator":"Журнал - Крокодил",
+         "avatar":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/Crocodile/JK001.png"
+      },
+      {
+         "imageURL":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/ValBun/VB01.jpg",
+         "number":"10/15",
+         "creator":"ValBun",
+         "avatar":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/ValBun/VB001.jpg"
+      },
+      {
+         "imageURL":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/BrandonJ.Santiago/BJS01.jpg",
+         "number":"9/15",
+         "creator":"Brandon J. Santiago",
+         "avatar":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/BrandonJ.Santiago/BJS001.jpg"
+      },
+      {
+         "imageURL":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/JoshWright/JW01.jpg",
+         "number":"8/15",
+         "creator":"Josh Wright",
+         "avatar":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/JoshWright/JW00.jpg"
+      },
+      {
+         "imageURL":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/RobertAdler/RA01.png",
+         "number":"7/15",
+         "creator":"Robert Adler",
+         "avatar":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/RobertAdler/RA00.jpg"
+      },
+      {
+         "imageURL":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/ZToon/ZT01.jpeg",
+         "number":"6/15",
+         "creator":"Z-Doodler",
+         "avatar":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/ZToon/ZT001.png"
+      },
+      {
+         "imageURL":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/YehudaDevir/YD01.jpg",
+         "number":"5/15",
+         "creator":"Yehuda Devir",
+         "avatar":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/YehudaDevir/YD001.jpg"
+      },
+      {
+         "imageURL":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AriStocrate/AS01.jpg",
+         "number":"4/15",
+         "creator":"Ari_Stocrate",
+         "avatar":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AriStocrate/AS001.jpg"
+      },
+      {
+         "imageURL":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/LiseMyhre/LM01.jpg",
+         "number":"3/15",
+         "creator":"Lise Myhre",
+         "avatar":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/LiseMyhre/LM001.jpg"
+      },
+      {
+         "imageURL":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/OlegKuvaev/OK01.png",
+         "number":"2/15",
+         "creator":"Олег Куваев",
+         "avatar":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/OlegKuvaev/OK001.png"
+      },
+      {
+         "imageURL":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/MattTarpley/MT01.png",
+         "number":"1/15",
+         "creator":"Matt Tarpley",
+         "avatar":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/MattTarpley/MT001.jpg"
+      },
+      {
+         "imageURL":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AdamEllis/Adam%2002.png",
+         "number":"24/14",
+         "creator":"Adam Ellis",
+         "avatar":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AdamEllis/Adam%20001.jpg"
+      },
+      {
+         "imageURL":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AlinaTysoe/beanie%2002.jpeg",
+         "number":"23/14",
+         "creator":"Alina Tysoe",
+         "avatar":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AlinaTysoe/beanie%20001.jpg"
+      },
+      {
+         "imageURL":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/JorgenVanSanten/JVS02.jpg",
+         "number":"22/14",
+         "creator":"Jorgen Van Santen",
+         "avatar":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/JorgenVanSanten/JVS001.jpg"
+      },
+      {
+         "imageURL":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/J.L.Westover/ML02.png",
+         "number":"21/14",
+         "creator":"J.L.Westover",
+         "avatar":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/J.L.Westover/ML001.jpg"
+      },
+      {
+         "imageURL":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/ThaakirahJacobs/TJ02.jpg",
+         "number":"20/14",
+         "creator":"Thaakirah Jacobs",
+         "avatar":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/ThaakirahJacobs/TJ001.jpg"
+      },
+      {
+         "imageURL":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/MikeSalcedo/MS02.jpg",
+         "number":"19/14",
+         "creator":"Mike Salcedo",
+         "avatar":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/MikeSalcedo/MS00.jpg"
+      },
+      {
+         "imageURL":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AstkhikRakimova/AR02.jpg",
+         "number":"18/14",
+         "creator":"Astkhik Rakimova",
+         "avatar":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AstkhikRakimova/AR001.jpg"
+      },
+      {
+         "imageURL":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/BrownPaperbag/BP02.jpg",
+         "number":"17/14",
+         "creator":"Brown Paperbag",
+         "avatar":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/BrownPaperbag/BP001.jpg"
+      },
+      {
+         "imageURL":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/SarahAndersen/SA02.jpg",
+         "number":"16/14",
+         "creator":"Sarah Andersen",
+         "avatar":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/SarahAndersen/SA001.jpg"
+      },
+      {
+         "imageURL":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AnnetPlanet/AP02.jpg",
+         "number":"15/14",
+         "creator":"Annet Planet",
+         "avatar":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AnnetPlanet/AP001.jpg"
+      },
+      {
+         "imageURL":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AndrewHou/AH02.png",
+         "number":"14/14",
+         "creator":"Andrew Hou",
+         "avatar":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AndrewHou/AH001.jpg"
+      },
+      {
+         "imageURL":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/CornelStefanache/CS02.png",
+         "number":"13/14",
+         "creator":"Cornel Stefanache",
+         "avatar":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/CornelStefanache/CS001.png"
+      },
+      {
+         "imageURL":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/MikaelWulff/MW02.jpeg",
+         "number":"12/14",
+         "creator":"Mikael Wulff",
+         "avatar":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/MikaelWulff/MW001.jpg"
+      },
+      {
+         "imageURL":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/Crocodile/JK02.jpg",
+         "number":"11/14",
+         "creator":"Журнал - Крокодил",
+         "avatar":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/Crocodile/JK001.png"
+      },
+      {
+         "imageURL":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/ValBun/VB02.jpg",
+         "number":"10/14",
+         "creator":"ValBun",
+         "avatar":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/ValBun/VB001.jpg"
+      },
+      {
+         "imageURL":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/BrandonJ.Santiago/BJS02.jpg",
+         "number":"9/14",
+         "creator":"Brandon J. Santiago",
+         "avatar":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/BrandonJ.Santiago/BJS001.jpg"
+      },
+      {
+         "imageURL":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/JoshWright/JW02.jpg",
+         "number":"8/14",
+         "creator":"Josh Wright",
+         "avatar":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/JoshWright/JW00.jpg"
+      },
+      {
+         "imageURL":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/RobertAdler/RA02.png",
+         "number":"7/14",
+         "creator":"Robert Adler",
+         "avatar":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/RobertAdler/RA00.jpg"
+      },
+      {
+         "imageURL":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/ZToon/ZT02.jpeg",
+         "number":"6/14",
+         "creator":"Z-Doodler",
+         "avatar":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/ZToon/ZT001.png"
+      },
+      {
+         "imageURL":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/YehudaDevir/YD02.jpeg",
+         "number":"5/14",
+         "creator":"Yehuda Devir",
+         "avatar":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/YehudaDevir/YD001.jpg"
+      },
+      {
+         "imageURL":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AriStocrate/AS02.jpg",
+         "number":"4/14",
+         "creator":"Ari_Stocrate",
+         "avatar":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AriStocrate/AS001.jpg"
+      },
+      {
+         "imageURL":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/LiseMyhre/LM02.jpg",
+         "number":"3/14",
+         "creator":"Lise Myhre",
+         "avatar":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/LiseMyhre/LM001.jpg"
+      },
+      {
+         "imageURL":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/OlegKuvaev/OK02.png",
+         "number":"2/14",
+         "creator":"Олег Куваев",
+         "avatar":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/OlegKuvaev/OK001.png"
+      },
+      {
+         "imageURL":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/MattTarpley/MT02.png",
+         "number":"1/14",
+         "creator":"Matt Tarpley",
+         "avatar":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/MattTarpley/MT001.jpg"
+      },
+      {
+         "imageURL":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AdamEllis/Adam%2003.jpg",
+         "number":"24/13",
+         "creator":"Adam Ellis",
+         "avatar":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AdamEllis/Adam%20001.jpg"
+      },
+      {
+         "imageURL":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AlinaTysoe/beanie%2003.jpeg",
+         "number":"23/13",
+         "creator":"Alina Tysoe",
+         "avatar":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AlinaTysoe/beanie%20001.jpg"
+      },
+      {
+         "imageURL":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/JorgenVanSanten/JVS03.jpg",
+         "number":"22/13",
+         "creator":"Jorgen Van Santen",
+         "avatar":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/JorgenVanSanten/JVS001.jpg"
+      },
+      {
+         "imageURL":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/J.L.Westover/ML03.jpg",
+         "number":"21/13",
+         "creator":"J.L.Westover",
+         "avatar":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/J.L.Westover/ML001.jpg"
+      },
+      {
+         "imageURL":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/ThaakirahJacobs/TJ03.jpg",
+         "number":"20/13",
+         "creator":"Thaakirah Jacobs",
+         "avatar":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/ThaakirahJacobs/TJ001.jpg"
+      },
+      {
+         "imageURL":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/MikeSalcedo/MS03.jpg",
+         "number":"19/13",
+         "creator":"Mike Salcedo",
+         "avatar":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/MikeSalcedo/MS00.jpg"
+      },
+      {
+         "imageURL":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AstkhikRakimova/AR03.jpg",
+         "number":"18/13",
+         "creator":"Astkhik Rakimova",
+         "avatar":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AstkhikRakimova/AR001.jpg"
+      },
+      {
+         "imageURL":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/BrownPaperbag/BP03.jpg",
+         "number":"17/13",
+         "creator":"Brown Paperbag",
+         "avatar":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/BrownPaperbag/BP001.jpg"
+      },
+      {
+         "imageURL":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/SarahAndersen/SA03.jpg",
+         "number":"16/13",
+         "creator":"Sarah Andersen",
+         "avatar":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/SarahAndersen/SA001.jpg"
+      },
+      {
+         "imageURL":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AnnetPlanet/AP03.png",
+         "number":"15/13",
+         "creator":"Annet Planet",
+         "avatar":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AnnetPlanet/AP001.jpg"
+      },
+      {
+         "imageURL":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AndrewHou/AH03.png",
+         "number":"14/13",
+         "creator":"Andrew Hou",
+         "avatar":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AndrewHou/AH001.jpg"
+      },
+      {
+         "imageURL":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/CornelStefanache/CS03.jpeg",
+         "number":"13/13",
+         "creator":"Cornel Stefanache",
+         "avatar":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/CornelStefanache/CS001.png"
+      },
+      {
+         "imageURL":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/MikaelWulff/MW03.jpeg",
+         "number":"12/13",
+         "creator":"Mikael Wulff",
+         "avatar":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/MikaelWulff/MW001.jpg"
+      },
+      {
+         "imageURL":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/Crocodile/JK03.jpg",
+         "number":"11/13",
+         "creator":"Журнал - Крокодил",
+         "avatar":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/Crocodile/JK001.png"
+      },
+      {
+         "imageURL":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/ValBun/VB03.jpg",
+         "number":"10/13",
+         "creator":"ValBun",
+         "avatar":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/ValBun/VB001.jpg"
+      },
+      {
+         "imageURL":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/BrandonJ.Santiago/BJS03.jpg",
+         "number":"9/13",
+         "creator":"Brandon J. Santiago",
+         "avatar":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/BrandonJ.Santiago/BJS001.jpg"
+      },
+      {
+         "imageURL":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/JoshWright/JW03.jpg",
+         "number":"8/13",
+         "creator":"Josh Wright",
+         "avatar":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/JoshWright/JW00.jpg"
+      },
+      {
+         "imageURL":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/RobertAdler/RA03.png",
+         "number":"7/13",
+         "creator":"Robert Adler",
+         "avatar":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/RobertAdler/RA00.jpg"
+      },
+      {
+         "imageURL":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/ZToon/ZT03.jpeg",
+         "number":"6/13",
+         "creator":"Z-Doodler",
+         "avatar":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/ZToon/ZT001.png"
+      },
+      {
+         "imageURL":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/YehudaDevir/YD03.jpeg",
+         "number":"5/13",
+         "creator":"Yehuda Devir",
+         "avatar":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/YehudaDevir/YD001.jpg"
+      },
+      {
+         "imageURL":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AriStocrate/AS03.jpg",
+         "number":"4/13",
+         "creator":"Ari_Stocrate",
+         "avatar":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AriStocrate/AS001.jpg"
+      },
+      {
+         "imageURL":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/LiseMyhre/LM03.jpg",
+         "number":"3/13",
+         "creator":"Lise Myhre",
+         "avatar":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/LiseMyhre/LM001.jpg"
+      },
+      {
+         "imageURL":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/OlegKuvaev/OK03.png",
+         "number":"2/13",
+         "creator":"Олег Куваев",
+         "avatar":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/OlegKuvaev/OK001.png"
+      },
+      {
+         "imageURL":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/MattTarpley/MT03.png",
+         "number":"1/13",
+         "creator":"Matt Tarpley",
+         "avatar":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/MattTarpley/MT001.jpg"
+      },
+      {
+         "imageURL":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AdamEllis/Adam%2004.jpg",
+         "number":"24/12",
+         "creator":"Adam Ellis",
+         "avatar":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AdamEllis/Adam%20001.jpg"
+      },
+      {
+         "imageURL":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AlinaTysoe/beanie%2004.jpeg",
+         "number":"23/12",
+         "creator":"Alina Tysoe",
+         "avatar":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AlinaTysoe/beanie%20001.jpg"
+      },
+      {
+         "imageURL":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/JorgenVanSanten/JVS04.jpg",
+         "number":"22/12",
+         "creator":"Jorgen Van Santen",
+         "avatar":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/JorgenVanSanten/JVS001.jpg"
+      },
+      {
+         "imageURL":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/J.L.Westover/ML04.png",
+         "number":"21/12",
+         "creator":"J.L.Westover",
+         "avatar":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/J.L.Westover/ML001.jpg"
+      },
+      {
+         "imageURL":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/ThaakirahJacobs/TJ04.jpg",
+         "number":"20/12",
+         "creator":"Thaakirah Jacobs",
+         "avatar":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/ThaakirahJacobs/TJ001.jpg"
+      },
+      {
+         "imageURL":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/MikeSalcedo/MS04.jpg",
+         "number":"19/12",
+         "creator":"Mike Salcedo",
+         "avatar":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/MikeSalcedo/MS00.jpg"
+      },
+      {
+         "imageURL":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AstkhikRakimova/AR04.jpg",
+         "number":"18/12",
+         "creator":"Astkhik Rakimova",
+         "avatar":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AstkhikRakimova/AR001.jpg"
+      },
+      {
+         "imageURL":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/BrownPaperbag/BP04.jpg",
+         "number":"17/12",
+         "creator":"Brown Paperbag",
+         "avatar":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/BrownPaperbag/BP001.jpg"
+      },
+      {
+         "imageURL":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/SarahAndersen/SA04.jpg",
+         "number":"16/12",
+         "creator":"Sarah Andersen",
+         "avatar":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/SarahAndersen/SA001.jpg"
+      },
+      {
+         "imageURL":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AnnetPlanet/AP04.jpg",
+         "number":"15/12",
+         "creator":"Annet Planet",
+         "avatar":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AnnetPlanet/AP001.jpg"
+      },
+      {
+         "imageURL":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AndrewHou/AH04.png",
+         "number":"14/12",
+         "creator":"Andrew Hou",
+         "avatar":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AndrewHou/AH001.jpg"
+      },
+      {
+         "imageURL":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/CornelStefanache/CS04.jpeg",
+         "number":"13/12",
+         "creator":"Cornel Stefanache",
+         "avatar":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/CornelStefanache/CS001.png"
+      },
+      {
+         "imageURL":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/MikaelWulff/MW04.jpeg",
+         "number":"12/12",
+         "creator":"Mikael Wulff",
+         "avatar":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/MikaelWulff/MW001.jpg"
+      },
+      {
+         "imageURL":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/Crocodile/JK04.jpg",
+         "number":"11/12",
+         "creator":"Журнал - Крокодил",
+         "avatar":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/Crocodile/JK001.png"
+      },
+      {
+         "imageURL":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/ValBun/VB04.jpg",
+         "number":"10/12",
+         "creator":"ValBun",
+         "avatar":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/ValBun/VB001.jpg"
+      },
+      {
+         "imageURL":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/BrandonJ.Santiago/BJS04.jpg",
+         "number":"9/12",
+         "creator":"Brandon J. Santiago",
+         "avatar":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/BrandonJ.Santiago/BJS001.jpg"
+      },
+      {
+         "imageURL":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/JoshWright/JW04.png",
+         "number":"8/12",
+         "creator":"Josh Wright",
+         "avatar":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/JoshWright/JW00.jpg"
+      },
+      {
+         "imageURL":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/RobertAdler/RA04.png",
+         "number":"7/12",
+         "creator":"Robert Adler",
+         "avatar":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/RobertAdler/RA00.jpg"
+      },
+      {
+         "imageURL":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/ZToon/ZT04.jpeg",
+         "number":"6/12",
+         "creator":"Z-Doodler",
+         "avatar":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/ZToon/ZT001.png"
+      },
+      {
+         "imageURL":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/YehudaDevir/YD04.jpg",
+         "number":"5/12",
+         "creator":"Yehuda Devir",
+         "avatar":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/YehudaDevir/YD001.jpg"
+      },
+      {
+         "imageURL":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AriStocrate/AS04.jpg",
+         "number":"4/12",
+         "creator":"Ari_Stocrate",
+         "avatar":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AriStocrate/AS001.jpg"
+      },
+      {
+         "imageURL":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/LiseMyhre/LM04.jpg",
+         "number":"3/12",
+         "creator":"Lise Myhre",
+         "avatar":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/LiseMyhre/LM001.jpg"
+      },
+      {
+         "imageURL":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/OlegKuvaev/OK04.png",
+         "number":"2/12",
+         "creator":"Олег Куваев",
+         "avatar":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/OlegKuvaev/OK001.png"
+      },
+      {
+         "imageURL":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/MattTarpley/MT04.png",
+         "number":"1/12",
+         "creator":"Matt Tarpley",
+         "avatar":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/MattTarpley/MT001.jpg"
+      },
+      {
+         "imageURL":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AdamEllis/Adam%2005.jpg",
+         "number":"24/11",
+         "creator":"Adam Ellis",
+         "avatar":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AdamEllis/Adam%20001.jpg"
+      },
+      {
+         "imageURL":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AlinaTysoe/beanie%2005.jpeg",
+         "number":"23/11",
+         "creator":"Alina Tysoe",
+         "avatar":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AlinaTysoe/beanie%20001.jpg"
+      },
+      {
+         "imageURL":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/JorgenVanSanten/JVS05.jpg",
+         "number":"22/11",
+         "creator":"Jorgen Van Santen",
+         "avatar":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/JorgenVanSanten/JVS001.jpg"
+      },
+      {
+         "imageURL":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/J.L.Westover/ML05.jpg",
+         "number":"21/11",
+         "creator":"J.L.Westover",
+         "avatar":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/J.L.Westover/ML001.jpg"
+      },
+      {
+         "imageURL":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/ThaakirahJacobs/TJ05.jpg",
+         "number":"20/11",
+         "creator":"Thaakirah Jacobs",
+         "avatar":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/ThaakirahJacobs/TJ001.jpg"
+      },
+      {
+         "imageURL":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/MikeSalcedo/MS05.jpg",
+         "number":"19/11",
+         "creator":"Mike Salcedo",
+         "avatar":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/MikeSalcedo/MS00.jpg"
+      },
+      {
+         "imageURL":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AstkhikRakimova/AR05.jpg",
+         "number":"18/11",
+         "creator":"Astkhik Rakimova",
+         "avatar":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AstkhikRakimova/AR001.jpg"
+      },
+      {
+         "imageURL":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/BrownPaperbag/BP05.jpg",
+         "number":"17/11",
+         "creator":"Brown Paperbag",
+         "avatar":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/BrownPaperbag/BP001.jpg"
+      },
+      {
+         "imageURL":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/SarahAndersen/SA05.jpg",
+         "number":"16/11",
+         "creator":"Sarah Andersen",
+         "avatar":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/SarahAndersen/SA001.jpg"
+      },
+      {
+         "imageURL":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AnnetPlanet/AP05.jpg",
+         "number":"15/11",
+         "creator":"Annet Planet",
+         "avatar":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AnnetPlanet/AP001.jpg"
+      },
+      {
+         "imageURL":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AndrewHou/AH05.png",
+         "number":"14/11",
+         "creator":"Andrew Hou",
+         "avatar":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AndrewHou/AH001.jpg"
+      },
+      {
+         "imageURL":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/CornelStefanache/CS05.jpeg",
+         "number":"13/11",
+         "creator":"Cornel Stefanache",
+         "avatar":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/CornelStefanache/CS001.png"
+      },
+      {
+         "imageURL":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/MikaelWulff/MW05.jpeg",
+         "number":"12/11",
+         "creator":"Mikael Wulff",
+         "avatar":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/MikaelWulff/MW001.jpg"
+      },
+      {
+         "imageURL":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/Crocodile/JK05.jpg",
+         "number":"11/11",
+         "creator":"Журнал - Крокодил",
+         "avatar":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/Crocodile/JK001.png"
+      },
+      {
+         "imageURL":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/ValBun/VB05.jpg",
+         "number":"10/11",
+         "creator":"ValBun",
+         "avatar":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/ValBun/VB001.jpg"
+      },
+      {
+         "imageURL":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/BrandonJ.Santiago/BJS05.jpg",
+         "number":"9/11",
+         "creator":"Brandon J. Santiago",
+         "avatar":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/BrandonJ.Santiago/BJS001.jpg"
+      },
+      {
+         "imageURL":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/JoshWright/JW05.jpg",
+         "number":"8/11",
+         "creator":"Josh Wright",
+         "avatar":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/JoshWright/JW00.jpg"
+      },
+      {
+         "imageURL":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/RobertAdler/RA05.png",
+         "number":"7/11",
+         "creator":"Robert Adler",
+         "avatar":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/RobertAdler/RA00.jpg"
+      },
+      {
+         "imageURL":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/ZToon/ZT05.jpeg",
+         "number":"6/11",
+         "creator":"Z-Doodler",
+         "avatar":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/ZToon/ZT001.png"
+      },
+      {
+         "imageURL":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/YehudaDevir/YD05.jpeg",
+         "number":"5/11",
+         "creator":"Yehuda Devir",
+         "avatar":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/YehudaDevir/YD001.jpg"
+      },
+      {
+         "imageURL":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AriStocrate/AS05.jpg",
+         "number":"4/11",
+         "creator":"Ari_Stocrate",
+         "avatar":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AriStocrate/AS001.jpg"
+      },
+      {
+         "imageURL":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/LiseMyhre/LM05.jpg",
+         "number":"3/11",
+         "creator":"Lise Myhre",
+         "avatar":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/LiseMyhre/LM001.jpg"
+      },
+      {
+         "imageURL":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/OlegKuvaev/OK05.png",
+         "number":"2/11",
+         "creator":"Олег Куваев",
+         "avatar":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/OlegKuvaev/OK001.png"
+      },
+      {
+         "imageURL":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/MattTarpley/MT05.png",
+         "number":"1/11",
+         "creator":"Matt Tarpley",
+         "avatar":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/MattTarpley/MT001.jpg"
+      },
+      {
+         "imageURL":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AdamEllis/Adam%2006.jpg",
+         "number":"24/10",
+         "creator":"Adam Ellis",
+         "avatar":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AdamEllis/Adam%20001.jpg"
+      },
+      {
+         "imageURL":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AlinaTysoe/beanie%2006.jpeg",
+         "number":"23/10",
+         "creator":"Alina Tysoe",
+         "avatar":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AlinaTysoe/beanie%20001.jpg"
+      },
+      {
+         "imageURL":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/JorgenVanSanten/JVS06.jpg",
+         "number":"22/10",
+         "creator":"Jorgen Van Santen",
+         "avatar":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/JorgenVanSanten/JVS001.jpg"
+      },
+      {
+         "imageURL":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/J.L.Westover/ML06.jpeg",
+         "number":"21/10",
+         "creator":"J.L.Westover",
+         "avatar":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/J.L.Westover/ML001.jpg"
+      },
+      {
+         "imageURL":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/ThaakirahJacobs/TJ06.jpg",
+         "number":"20/10",
+         "creator":"Thaakirah Jacobs",
+         "avatar":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/ThaakirahJacobs/TJ001.jpg"
+      },
+      {
+         "imageURL":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/MikeSalcedo/MS06.jpg",
+         "number":"19/10",
+         "creator":"Mike Salcedo",
+         "avatar":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/MikeSalcedo/MS00.jpg"
+      },
+      {
+         "imageURL":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AstkhikRakimova/AR06.jpg",
+         "number":"18/10",
+         "creator":"Astkhik Rakimova",
+         "avatar":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AstkhikRakimova/AR001.jpg"
+      },
+      {
+         "imageURL":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/BrownPaperbag/BP06.jpg",
+         "number":"17/10",
+         "creator":"Brown Paperbag",
+         "avatar":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/BrownPaperbag/BP001.jpg"
+      },
+      {
+         "imageURL":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/SarahAndersen/SA06.jpg",
+         "number":"16/10",
+         "creator":"Sarah Andersen",
+         "avatar":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/SarahAndersen/SA001.jpg"
+      },
+      {
+         "imageURL":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AnnetPlanet/AP06.jpg",
+         "number":"15/10",
+         "creator":"Annet Planet",
+         "avatar":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AnnetPlanet/AP001.jpg"
+      },
+      {
+         "imageURL":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AndrewHou/AH06.png",
+         "number":"14/10",
+         "creator":"Andrew Hou",
+         "avatar":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AndrewHou/AH001.jpg"
+      },
+      {
+         "imageURL":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/CornelStefanache/CS06.jpeg",
+         "number":"13/10",
+         "creator":"Cornel Stefanache",
+         "avatar":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/CornelStefanache/CS001.png"
+      },
+      {
+         "imageURL":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/MikaelWulff/MW06.jpeg",
+         "number":"12/10",
+         "creator":"Mikael Wulff",
+         "avatar":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/MikaelWulff/MW001.jpg"
+      },
+      {
+         "imageURL":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/Crocodile/JK06.png",
+         "number":"11/10",
+         "creator":"Журнал - Крокодил",
+         "avatar":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/Crocodile/JK001.png"
+      },
+      {
+         "imageURL":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/ValBun/VB06.jpg",
+         "number":"10/10",
+         "creator":"ValBun",
+         "avatar":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/ValBun/VB001.jpg"
+      },
+      {
+         "imageURL":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/BrandonJ.Santiago/BJS06.jpg",
+         "number":"9/10",
+         "creator":"Brandon J. Santiago",
+         "avatar":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/BrandonJ.Santiago/BJS001.jpg"
+      },
+      {
+         "imageURL":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/JoshWright/JW06.jpg",
+         "number":"8/10",
+         "creator":"Josh Wright",
+         "avatar":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/JoshWright/JW00.jpg"
+      },
+      {
+         "imageURL":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/RobertAdler/RA06.png",
+         "number":"7/10",
+         "creator":"Robert Adler",
+         "avatar":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/RobertAdler/RA00.jpg"
+      },
+      {
+         "imageURL":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/ZToon/ZT06.jpeg",
+         "number":"6/10",
+         "creator":"Z-Doodler",
+         "avatar":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/ZToon/ZT001.png"
+      },
+      {
+         "imageURL":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/YehudaDevir/YD06.jpg",
+         "number":"5/10",
+         "creator":"Yehuda Devir",
+         "avatar":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/YehudaDevir/YD001.jpg"
+      },
+      {
+         "imageURL":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AriStocrate/AS06.jpg",
+         "number":"4/10",
+         "creator":"Ari_Stocrate",
+         "avatar":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AriStocrate/AS001.jpg"
+      },
+      {
+         "imageURL":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/LiseMyhre/LM06.jpg",
+         "number":"3/10",
+         "creator":"Lise Myhre",
+         "avatar":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/LiseMyhre/LM001.jpg"
+      },
+      {
+         "imageURL":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/OlegKuvaev/OK06.png",
+         "number":"2/10",
+         "creator":"Олег Куваев",
+         "avatar":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/OlegKuvaev/OK001.png"
+      },
+      {
+         "imageURL":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/MattTarpley/MT06.png",
+         "number":"1/10",
+         "creator":"Matt Tarpley",
+         "avatar":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/MattTarpley/MT001.jpg"
+      }
+   ]
 }
