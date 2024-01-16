@@ -1,6 +1,12 @@
 {
    "hits01":[
       {
+         "imageURL":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/RezaFarazmand/RF01.jpg",
+         "number":"25/15",
+         "creator":"Reza Farazmand",
+         "avatar":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/RezaFarazmand/RF00.png"
+      },
+      {
          "imageURL":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AdamEllis/Adam%2001.jpg",
          "number":"24/15",
          "creator":"Adam Ellis",
@@ -145,6 +151,12 @@
          "avatar":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/MattTarpley/MT001.jpg"
       },
       {
+         "imageURL":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/RezaFarazmand/RF02.png",
+         "number":"25/14",
+         "creator":"Reza Farazmand",
+         "avatar":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/RezaFarazmand/RF00.png"
+      },
+      {
          "imageURL":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AdamEllis/Adam%2002.png",
          "number":"24/14",
          "creator":"Adam Ellis",
@@ -287,6 +299,12 @@
          "number":"1/14",
          "creator":"Matt Tarpley",
          "avatar":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/MattTarpley/MT001.jpg"
+      },
+      {
+         "imageURL":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/RezaFarazmand/RF03.png",
+         "number":"25/13",
+         "creator":"Reza Farazmand",
+         "avatar":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/RezaFarazmand/RF00.png"   
       },
       {
          "imageURL":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AdamEllis/Adam%2003.jpg",
@@ -434,7 +452,13 @@
       }
    ],
    "hits02":[
-       {
+      {
+         "imageURL":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/RezaFarazmand/RF04.jpg",
+         "number":"25/12",
+         "creator":"Reza Farazmand",
+         "avatar":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/RezaFarazmand/RF00.png"   
+      },
+      {
          "imageURL":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AdamEllis/Adam%2004.jpg",
          "number":"24/12",
          "creator":"Adam Ellis",
@@ -579,6 +603,12 @@
          "avatar":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/MattTarpley/MT001.jpg"
       },
       {
+         "imageURL":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/RezaFarazmand/RF05.png",
+         "number":"25/11",
+         "creator":"Reza Farazmand",
+         "avatar":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/RezaFarazmand/RF00.png"   
+      },
+      {
          "imageURL":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AdamEllis/Adam%2005.jpg",
          "number":"24/11",
          "creator":"Adam Ellis",
@@ -721,6 +751,12 @@
          "number":"1/11",
          "creator":"Matt Tarpley",
          "avatar":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/MattTarpley/MT001.jpg"
+      },
+      {
+         "imageURL":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/RezaFarazmand/RF06.png",
+         "number":"25/10",
+         "creator":"Reza Farazmand",
+         "avatar":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/RezaFarazmand/RF00.png"   
       },
       {
          "imageURL":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AdamEllis/Adam%2006.jpg",
@@ -869,6 +905,12 @@
    ],
    "hits03":[
       {
+         "imageURL":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/RezaFarazmand/RF07.jpg",
+         "number":"25/9",
+         "creator":"Reza Farazmand",
+         "avatar":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/RezaFarazmand/RF00.png"   
+      },
+      {
          "imageURL":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AdamEllis/Adam%2007.jpg",
          "number":"24/9",
          "creator":"Adam Ellis",
@@ -1013,6 +1055,12 @@
          "avatar":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/MattTarpley/MT001.jpg"
       },
       {
+         "imageURL":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/RezaFarazmand/RF08.png",
+         "number":"25/8",
+         "creator":"Reza Farazmand",
+         "avatar":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/RezaFarazmand/RF00.png"   
+      },
+      {
          "imageURL":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AdamEllis/Adam%2008.jpg",
          "number":"24/8",
          "creator":"Adam Ellis",
@@ -1155,6 +1203,12 @@
          "number":"1/8",
          "creator":"Matt Tarpley",
          "avatar":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/MattTarpley/MT001.jpg"
+      },
+      {
+         "imageURL":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/RezaFarazmand/RF09.jpeg",
+         "number":"25/7",
+         "creator":"Reza Farazmand",
+         "avatar":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/RezaFarazmand/RF00.png"   
       },
       {
          "imageURL":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AdamEllis/Adam%2009.jpg",
@@ -1303,6 +1357,12 @@
    ],
    "hits04":[
       {
+         "imageURL":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/RezaFarazmand/RF10.jpg",
+         "number":"25/6",
+         "creator":"Reza Farazmand",
+         "avatar":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/RezaFarazmand/RF00.png"   
+      },
+      {
          "imageURL":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AdamEllis/Adam%2010.jpg",
          "number":"24/6",
          "creator":"Adam Ellis",
@@ -1445,6 +1505,12 @@
          "number":"1/6",
          "creator":"Matt Tarpley",
          "avatar":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/MattTarpley/MT001.jpg"
+      },
+      {
+         "imageURL":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/RezaFarazmand/RF11.png",
+         "number":"25/5",
+         "creator":"Reza Farazmand",
+         "avatar":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/RezaFarazmand/RF00.png"   
       },
       {
          "imageURL":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AdamEllis/Adam%2011.jpg",
@@ -1593,6 +1659,12 @@
    ],
    "hits05":[
       {
+         "imageURL":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/RezaFarazmand/RF12.png",
+         "number":"25/4",
+         "creator":"Reza Farazmand",
+         "avatar":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/RezaFarazmand/RF00.png"   
+      },
+      {
          "imageURL":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AdamEllis/Adam%2012.jpg",
          "number":"24/4",
          "creator":"Adam Ellis",
@@ -1735,6 +1807,12 @@
          "number":"1/4",
          "creator":"Matt Tarpley",
          "avatar":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/MattTarpley/MT001.jpg"
+      },
+      {
+         "imageURL":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/RezaFarazmand/RF13.png",
+         "number":"25/3",
+         "creator":"Reza Farazmand",
+         "avatar":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/RezaFarazmand/RF00.png"   
       },
       {
          "imageURL":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AdamEllis/Adam%2013.jpg",
@@ -1883,6 +1961,12 @@
    ],
    "hits06":[
       {
+         "imageURL":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/RezaFarazmand/RF14.png",
+         "number":"25/2",
+         "creator":"Reza Farazmand",
+         "avatar":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/RezaFarazmand/RF00.png"   
+      },
+      {
          "imageURL":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AdamEllis/Adam%2014.jpg",
          "number":"24/2",
          "creator":"Adam Ellis",
@@ -2025,6 +2109,12 @@
          "number":"1/2",
          "creator":"Matt Tarpley",
          "avatar":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/MattTarpley/MT001.jpg"
+      },
+      {
+         "imageURL":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/RezaFarazmand/RF15.png",
+         "number":"25/1",
+         "creator":"Reza Farazmand",
+         "avatar":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/RezaFarazmand/RF00.png"   
       },
       {
          "imageURL":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/AdamEllis/Adam%2015.jpg",
