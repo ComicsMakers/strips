@@ -157,6 +157,12 @@
          "avatar":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/MattTarpley/MT001.jpg"
       },
       {
+         "imageURL":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/RandallMunroe/RM02.jpg",
+         "number":"26/14",
+         "creator":"Randall Munroe",
+         "avatar":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/RandallMunroe/RM001.jpg"
+      },
+      {
          "imageURL":"https://raw.githubusercontent.com/ComicsMakers/stripcomicsimages/main/RezaFarazmand/RF02.png",
          "number":"25/14",
          "creator":"Reza Farazmand",
